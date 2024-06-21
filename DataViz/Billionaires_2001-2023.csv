@@ -1,0 +1,461 @@
+year,month,rank,net_worth,last_name,first_name,full_name,birth_date,age,gender,country_of_citizenship,country_of_residence,city_of_residence,business_category,business_industries,organization_name,position_in_organization,self_made,wealth_status
+2011,3,1,74.0,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,71.0,Male,Mexico,Mexico,Mexico City,,['Telecom'],,,True,Increased
+2011,3,2,56.0,Gates,Bill,Bill Gates,1955-10-28,55.0,Male,United States,United States,Medina,Technology,['Technology                    '],Bill & Melinda Gates Foundation,Co-Chair,True,Increased
+2011,3,3,50.0,Buffett,Warren,Warren Buffett,1930-08-30,80.0,Male,United States,United States,Omaha,Investments,['Investments                   '],Berkshire Hathaway,Chairman,True,Increased
+2011,3,4,41.0,Arnault,Bernard,Bernard Arnault,1949-03-05,62.0,Male,France,France,Paris,,['Fashion and Retail'],,,False,Increased
+2011,3,5,39.5,Ellison,Larry,Larry Ellison,1944-08-17,66.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CEO,True,Increased
+2011,3,6,31.1,Mittal,Lakshmi,Lakshmi Mittal,1950-06-15,60.0,Male,India,United Kingdom,London,,['Metals & Mining'],,,False,Increased
+2011,3,10,26.5,Walton,Christy,Christy Walton & family,1955-01-01,56.0,Female,United States,United States,Jackson,Fashion and Retail,['Fashion and Retail'],Children's Scholarship Fund,Co-Chair,False,Increased
+2011,3,7,31.0,Ortega,Amancio,Amancio Ortega,1936-03-28,75.0,Male,Spain,Spain,La Coruna,,['Fashion and Retail'],,,True,Increased
+2011,3,8,30.0,Batista,Eike,Eike Batista,1956-11-03,54.0,Male,Brazil,Brazil,Rio de Janeiro,,['Energy'],,,True,Increased
+2011,3,11,26.0,Li,Ka-shing,Li Ka-shing,1928-06-13,82.0,Male,Hong Kong,Hong Kong,Hong Kong,Diversified,['Diversified'],Hutchison Whampoa,Chairman,True,Increased
+2011,3,9,27.0,Ambani,Mukesh,Mukesh Ambani,1957-04-19,53.0,Male,India,India,Mumbai,,['Energy'],,,False,Decreased
+2011,3,16,23.3,Adelson,Sheldon,Sheldon Adelson,1933-08-04,77.0,Male,United States,United States,Las Vegas,Gaming,['Gaming'],Las Vegas Sands,Chairman and CEO,True,Increased
+2011,3,12,25.5,Albrecht,Karl,Karl Albrecht,1920-02-20,91.0,Male,Germany,Germany,Mulheim an der Ruhr,,['Fashion and Retail'],,,True,Increased
+2011,3,18,22.0,Koch,Charles,Charles Koch,1935-11-01,75.0,Male,United States,United States,Wichita,Diversified,['Diversified'],,,False,Increased
+2011,3,18,22.0,Koch,David,David Koch,1940-05-03,70.0,Male,United States,United States,New York,Diversified,['Diversified'],,,False,Increased
+2011,3,13,24.5,Persson,Stefan,Stefan Persson,1947-10-04,63.0,Male,Sweden,Sweden,Stockholm,,['Fashion and Retail'],,,False,Increased
+2011,3,20,21.3,Walton,Jim,Jim Walton,1948-01-01,63.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2011,3,14,24.0,Lisin,Vladimir,Vladimir Lisin,1956-05-07,54.0,Male,Russia,Russia,Moscow,,['Metals & Mining'],,,True,Increased
+2011,3,21,21.2,Walton,Alice,Alice Walton,1949-10-07,61.0,Female,United States,United States,Fort Worth,Billionaire,['Billionaire'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2011,3,15,23.5,Bettencourt,Liliane,Liliane Bettencourt,1922-10-21,88.0,Female,France,France,Paris,,['Fashion and Retail'],,,False,Increased
+2005,3,1,46.5,Gates,William,Bill Gates,1955-10-28,49.0,Male,United States,United States,Medina,,['Technology'],,,False,Decreased
+2005,3,2,44.0,,,Warren Buffett,,74.0,,United States,United States,Omaha,,['Investments'],,,,
+2005,3,3,25.0,,,Lakshmi Mittal,,54.0,,India,United Kingdom,London,,['Manufacturing'],,,,
+2005,3,4,23.8,,,Carlos Slim Helu & family,,65.0,,Mexico,Mexico,Mexico City,,,,,,
+2005,3,5,23.7,,,Prince Alwaleed Bin Talal Alsaud,,48.0,,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,,
+2005,3,6,23.0,,,Ingvar Kamprad & family,,78.0,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2005,3,7,21.0,Allen,Paul,Paul Allen,1953-01-21,52.0,Male,United States,United States,Mercer Island,,['Technology'],,,False,Remained Even
+2005,3,8,18.5,,,Karl Albrecht,,85.0,,Germany,Germany,M?lheim an der Ruhr,,['Retail'],,,,
+2005,3,9,18.4,,,Lawrence Ellison,,60.0,,United States,United States,Silicon Valley,,['Software'],,,,
+2005,3,10,18.3,,,S. Robson Walton,,61.0,,United States,United States,Bentonville,,['Retail'],,,,
+2005,3,11,18.2,,,Jim Walton,,57.0,,United States,United States,Bentonville,,['Retail'],,,,
+2005,3,13,18.0,,,Alice Walton,,56.0,,United States,United States,Fort Worth,,['Retail'],,,,
+2005,3,16,17.2,,,Liliane Bettencourt,,82.0,,France,France,Paris,,['Manufacturing'],,,,
+2005,3,17,17.0,,,Bernard Arnault,,56.0,,France,France,Paris,,,,,,
+2005,3,18,16.0,,,Michael Dell,,40.0,,United States,United States,Austin,,,,,,
+2005,3,19,15.6,,,Sheldon Adelson,,71.0,,United States,United States,Las Vegas,,,,,,
+2005,3,21,13.3,,,Roman Abramovich,,38.0,,Russia,United Kingdom,London,,['Oil'],,,,
+2005,3,22,13.0,,,Ka-shing Li,,76.0,,Hong Kong,Hong Kong,Hong Kong,,,,,,
+2005,3,23,12.6,,,Amancio Ortega,,69.0,,Spain,Spain,La Coruna,,['Apparel'],,,,
+2005,3,24,12.1,Ballmer,Steven,Steve Ballmer,1956-03-24,49.0,Male,United States,United States,Hunts Point,,['Technology'],,,False,Decreased
+2004,3,1,46.6,Gates,William,Bill Gates,1955-10-28,48.0,Male,United States,United States,Medina,,['Technology'],,,False,Increased
+2004,3,2,42.9,,,Warren Buffett,,73.0,,United States,United States,Omaha,,['Investments'],,,,
+2004,3,3,23.0,,,Karl Albrecht,,84.0,,Germany,Germany,Donaueschingen,,['Retail'],,,,
+2004,3,4,21.5,,,Prince Alwaleed Bin Talal Alsaud,,47.0,,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,,
+2004,3,5,21.0,Allen,Paul,Paul Allen,1953-01-21,51.0,Male,United States,United States,Mercer Island,,['Technology'],,,False,Increased
+2004,3,6,20.0,,,Alice Walton,,55.0,,United States,United States,Fort Worth,,['Retail'],,,,
+2004,3,6,20.0,,,Jim Walton,,56.0,,United States,United States,Bentonville,,['Retail'],,,,
+2004,3,6,20.0,,,S. Robson Walton,,60.0,,United States,United States,Bentonville,,['Retail'],,,,
+2004,3,11,18.8,,,Liliane Bettencourt,,81.0,,France,France,Paris,,['Manufacturing'],,,,
+2004,3,12,18.7,,,Lawrence Ellison,,59.0,,United States,United States,Redwood Shores,,['Software'],,,,
+2004,3,13,18.5,,,Ingvar Kamprad & family,,77.0,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2004,3,17,13.9,,,Carlos Slim Helu & family,,64.0,,Mexico,Mexico,Mexico City,,,,,,
+2004,3,18,13.0,,,Michael Dell,,39.0,,United States,United States,Round Rock,,,,,,
+2004,3,19,12.4,Ballmer,Steven,Steve Ballmer,1956-03-24,47.0,Male,United States,United States,Hunts Point,,['Technology'],,,False,Increased
+2004,3,19,12.4,,,Ka-shing Li,,75.0,,Hong Kong,Hong Kong,Hong Kong,,,,,,
+2004,3,21,12.2,,,Bernard Arnault,,55.0,,France,France,Paris,,,,,,
+2004,3,22,11.4,,,Kwok family,,0.0,,Hong Kong,Hong Kong,Hong Kong,,['Real Estate'],,,,
+2004,3,23,11.2,Chambers,Anne Cox,Anne Cox Chambers,1919-12-01,84.0,Female,United States,United States,Atlanta,,['Media'],,,False,Increased
+2004,3,25,10.6,,,Roman Abramovich,,37.0,,Russia,Russia,Anadyr,,['Oil'],,,,
+2004,3,27,10.4,,,Forrest Mars,,72.0,,United States,United States,McLean,,['Food'],,,,
+2010,3,1,53.5,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,70.0,Male,Mexico,Mexico,Mexico City,,['Telecom'],,,False,Increased
+2010,3,2,53.0,Gates,William,Bill Gates,1955-10-28,54.0,Male,United States,United States,Medina,Technology,['Technology                    '],Bill & Melinda Gates Foundation,Co-Chair,False,Increased
+2010,3,3,47.0,Buffett,Warren,Warren Buffett,1930-08-30,79.0,Male,United States,United States,Omaha,Investments,['Investments                   '],Berkshire Hathaway,Chairman,False,Increased
+2010,3,4,29.0,Ambani,Mukesh,Mukesh Ambani,1957-04-19,52.0,Male,India,India,Mumbai,,['Energy'],,,False,Increased
+2010,3,5,28.7,Mittal,Lakshmi,Lakshmi Mittal,1950-06-15,59.0,Male,India,United Kingdom,London,,['Metals & Mining'],,,False,Increased
+2010,3,6,28.0,Ellison,Lawrence,Larry Ellison,1944-08-17,65.0,Male,United States,United States,Woodside,Technology,['Technology                    '],Oracle,CEO,False,Increased
+2010,3,7,27.5,Arnault,Bernard,Bernard Arnault,1949-03-05,61.0,Male,France,France,Paris,,['Fashion and Retail'],,,False,Increased
+2010,3,8,27.0,Batista,Eike,Eike Batista,1956-11-03,53.0,Male,Brazil,Brazil,Rio de Janeiro,,['Energy'],,,False,Increased
+2010,3,9,25.0,Ortega,Amancio,Amancio Ortega,1936-03-28,73.0,Male,Spain,Spain,La Coruna,,['Fashion and Retail'],,,False,Increased
+2010,3,10,23.5,Albrecht,Karl,Karl Albrecht,1920-02-20,90.0,Male,Germany,Germany,Mulheim an der Ruhr,,['Fashion and Retail'],,,False,Increased
+2010,3,11,23.0,Kamprad,Ingvar,Ingvar Kamprad & family,1926-03-30,83.0,Male,Sweden,Switzerland,Lausanne,,['Fashion and Retail'],,,False,Increased
+2010,3,12,22.5,Walton,Christy,Christy Walton & family,1955-01-01,55.0,Female,United States,United States,Jackson,Fashion and Retail,['Fashion and Retail            '],Children's Scholarship Fund,Co-Chair,False,Increased
+2010,3,13,22.4,Persson,Stefan,Stefan Persson,1947-10-04,62.0,Male,Sweden,Sweden,Stockholm,,['Fashion and Retail'],,,False,Increased
+2010,3,14,21.0,Li,Ka-shing,Li Ka-shing,1928-06-13,81.0,Male,Hong Kong,Hong Kong,Hong Kong,Diversified,['Diversified'],Hutchison Whampoa,Chairman,False,Increased
+2010,3,15,20.7,Walton,Jim,Jim Walton,1948-01-01,62.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail            '],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2010,3,16,20.6,Walton,Alice,Alice Walton,1949-10-07,60.0,Female,United States,United States,Fort Worth,Billionaire,['Billionaire'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2010,3,17,20.0,Bettencourt,Liliane,Liliane Bettencourt,1922-10-21,87.0,Female,France,France,Paris,,['Fashion and Retail'],,,False,Increased
+2010,3,18,19.8,Walton,S. Robson,S. Robson Walton,1944-01-01,66.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail            '],Wal-Mart Stores,Chairman,False,Increased
+2010,3,19,19.4,Alsaud,Prince Alwaleed Bin Talal,Prince Alwaleed Bin Talal Alsaud,1955-03-07,55.0,Male,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,False,Increased
+2010,3,20,19.0,Thomson,David,David Thomson & family,1957-06-12,52.0,Male,Canada,Canada,Toronto,,['Media'],,,False,Increased
+2006,3,1,50.0,Gates,William,Bill Gates,1955-10-28,50.0,Male,United States,United States,Medina,,['Technology'],,,False,Increased
+2006,3,2,42.0,,,Warren Buffett,,75.0,,United States,United States,Omaha,,['Investments'],,,,
+2006,3,3,30.0,,,Carlos Slim Helu & family,,66.0,,Mexico,Mexico,Mexico City,,,,,,
+2006,3,4,28.0,,,Ingvar Kamprad & family,,79.0,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2006,3,5,23.5,,,Lakshmi Mittal,,55.0,,India,United Kingdom,London,,['Manufacturing'],,,,
+2006,3,6,22.0,Allen,Paul,Paul Allen,1953-01-21,53.0,Male,United States,United States,Mercer Island,,['Technology'],,,False,Increased
+2006,3,7,21.5,,,Bernard Arnault,,57.0,,France,France,Paris,,,,,,
+2006,3,8,20.0,,,Prince Alwaleed Bin Talal Alsaud,,49.0,,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,,
+2006,3,10,18.8,,,Ka-shing Li,,77.0,,Hong Kong,Hong Kong,Hong Kong,,,,,,
+2006,3,11,18.2,,,Roman Abramovich,,39.0,,Russia,United Kingdom,London,,['Oil'],,,,
+2006,3,12,17.1,,,Michael Dell,,41.0,,United States,United States,Austin,,,,,,
+2006,3,13,17.0,,,Karl Albrecht,,86.0,,Germany,Germany,M?lheim an der Ruhr,,['Retail'],,,,
+2006,3,14,16.1,,,Sheldon Adelson,,72.0,,United States,United States,Las Vegas,,,,,,
+2006,3,15,16.0,,,Liliane Bettencourt,,83.0,,France,France,Paris,,['Manufacturing'],,,,
+2006,3,15,16.0,,,Lawrence Ellison,,61.0,,United States,United States,Silicon Valley,,['Software'],,,,
+2006,3,17,15.9,,,Christy Walton & family,,51.0,,United States,United States,Jackson,,['Retail'],,,,
+2006,3,17,15.9,,,Jim Walton,,58.0,,United States,United States,Bentonville,,['Retail'],,,,
+2006,3,19,15.8,,,S. Robson Walton,,62.0,,United States,United States,Bentonville,,['Retail'],,,,
+2006,3,20,15.7,,,Alice Walton,,56.0,,United States,United States,Fort Worth,,['Retail'],,,,
+2006,3,23,14.8,,,Amancio Ortega,,70.0,,Spain,Spain,La Coruna,,['Apparel'],,,,
+2012,3,1,69.0,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,72.0,Male,Mexico,Mexico,Mexico City,,['Telecom'],,,True,Decreased
+2012,3,2,61.0,Gates,Bill,Bill Gates,1955-10-28,56.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Co-Chair,True,Increased
+2012,3,3,44.0,Buffett,Warren,Warren Buffett,1930-08-30,81.0,Male,United States,United States,Omaha,Investments,['Investments'],Berkshire Hathaway,CEO,True,Decreased
+2012,3,4,41.0,Arnault,Bernard,Bernard Arnault,1949-03-05,63.0,Male,France,France,Paris,,['Fashion and Retail'],,,False,Remained Even
+2012,3,5,37.5,Ortega,Amancio,Amancio Ortega,1936-03-28,75.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Increased
+2012,3,6,36.0,Ellison,Larry,Larry Ellison,1944-08-17,67.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CEO,True,Decreased
+2012,3,7,30.0,Batista,Eike,Eike Batista,1956-11-03,55.0,Male,Brazil,Brazil,Rio de Janeiro,,['Energy'],,,True,Remained Even
+2012,3,8,26.0,Persson,Stefan,Stefan Persson,1947-10-04,64.0,Male,Sweden,Sweden,Stockholm,Fashion & Retail,['Fashion & Retail'],H&#38;M,Chairman,False,Increased
+2012,3,9,25.5,Li,Ka-shing,Li Ka-shing,1928-06-13,83.0,Male,Hong Kong,Hong Kong,Hong Kong,Diversified,['Diversified'],Hutchison Whampoa,Chairman,True,Decreased
+2012,3,10,25.4,Albrecht,Karl,Karl Albrecht,1920-02-20,92.0,Male,Germany,Germany,Mulheim an der Ruhr,,['Fashion and Retail'],,,True,Decreased
+2012,3,11,25.3,Walton,Christy,Christy Walton & family,1955-01-01,57.0,Female,United States,United States,Jackson,Fashion and Retail,['Fashion and Retail'],Children's Scholarship Fund,Co-Chair,False,Decreased
+2012,3,12,25.0,Koch,Charles,Charles Koch,1935-11-01,76.0,Male,United States,United States,Wichita,Diversified,['Diversified'],"Koch Industries, Inc.",CEO,False,Increased
+2012,3,12,25.0,Koch,David,David Koch,1940-05-03,71.0,Male,United States,United States,New York,Diversified,['Diversified'],"Koch Industries, Inc.",Executive Vice President,False,Increased
+2012,3,14,24.9,Adelson,Sheldon,Sheldon Adelson,1933-08-04,78.0,Male,United States,United States,Las Vegas,Gaming,['Gaming'],Las Vegas Sands,Chairman and CEO,True,Increased
+2012,3,15,24.0,Bettencourt,Liliane,Liliane Bettencourt & family,1922-10-21,89.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,Increased
+2012,3,16,23.7,Walton,Jim,Jim Walton,1948-01-01,64.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2012,3,17,23.3,Walton,Alice,Alice Walton,1949-10-07,62.0,Female,United States,United States,Fort Worth,Fashion and Retail,['Fashion and Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2012,3,18,23.1,Walton,S. Robson,S. Robson Walton,1944-01-01,68.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail'],Wal-Mart Stores,Chairman,False,Increased
+2012,3,19,22.3,Ambani,Mukesh,Mukesh Ambani,1957-04-19,54.0,Male,India,India,Mumbai,,['Energy'],,,False,Decreased
+2012,3,20,22.0,Bloomberg,Michael,Michael Bloomberg,1942-02-14,70.0,Male,United States,United States,New York,Politics,['Politics'],United States,"Mayor, New York City",True,Increased
+2013,3,1,73.0,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,73.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],Am&#233;rica M&#243;vil,Honorary Chairman,True,Increased
+2013,3,2,67.0,Gates,Bill,Bill Gates,1955-10-28,57.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Co-Chair,True,Increased
+2013,3,3,57.0,Ortega,Amancio,Amancio Ortega,1936-03-28,76.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Increased
+2013,3,4,53.5,Buffett,Warren,Warren Buffett,1930-08-30,82.0,Male,United States,United States,Omaha,Investments,['Investments'],Berkshire Hathaway,CEO,True,Increased
+2013,3,5,43.0,Ellison,Larry,Larry Ellison,1944-08-17,68.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CEO,True,Increased
+2013,3,6,34.0,Koch,Charles,Charles Koch,1935-11-01,77.0,Male,United States,United States,Wichita,Diversified,['Diversified'],Koch Industries,CEO,False,Increased
+2013,3,6,34.0,Koch,David,David Koch,1940-05-03,72.0,Male,United States,United States,New York,Diversified,['Diversified'],Koch Industries,Executive Vice President,False,Increased
+2013,3,8,31.0,Li,Ka-shing,Li Ka-shing,1928-06-13,84.0,Male,Hong Kong,Hong Kong,Hong Kong,Diversified,['Diversified'],Hutchison Whampoa,Chairman,True,Increased
+2013,3,9,30.0,Bettencourt,Liliane,Liliane Bettencourt & family,1922-10-21,90.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,Increased
+2013,3,10,29.0,Arnault,Bernard,Bernard Arnault & family,1949-03-05,64.0,Male,France,France,Paris,Fashion and Retail,['Fashion and Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Decreased
+2013,3,11,28.2,Walton,Christy,Christy Walton & family,1955-01-01,58.0,Female,United States,United States,Jackson,Fashion and Retail,['Fashion and Retail'],Children's Scholarship Fund,Co-Chair,False,Increased
+2013,3,12,28.0,Persson,Stefan,Stefan Persson,1947-10-04,65.0,Male,Sweden,Sweden,Stockholm,Fashion & Retail,['Fashion & Retail'],H&#38;M,Chairman,False,Increased
+2013,3,13,27.0,Bloomberg,Michael,Michael Bloomberg,1942-02-14,71.0,Male,United States,United States,New York,Politics,['Politics'],United States,"Mayor, New York City",True,Increased
+2013,3,14,26.7,Walton,Jim,Jim Walton,1948-01-01,65.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2013,3,15,26.5,Adelson,Sheldon,Sheldon Adelson,1933-08-04,79.0,Male,United States,United States,Las Vegas,Gaming,['Gaming'],Las Vegas Sands,Chairman and CEO,True,Increased
+2013,3,16,26.3,Walton,Alice,Alice Walton,1949-10-07,63.0,Female,United States,United States,Fort Worth,Fashion and Retail,['Fashion and Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2013,3,17,26.1,Walton,S. Robson,S. Robson Walton,1944-01-01,69.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail'],Wal-Mart Stores,Chairman,False,Increased
+2013,3,18,26.0,Albrecht,Karl,Karl Albrecht,1920-02-20,93.0,Male,Germany,Germany,Mulheim an der Ruhr,Fashion and Retail,['Fashion and Retail'],,,True,Increased
+2013,3,19,25.2,Bezos,Jeff,Jeff Bezos,1964-01-12,49.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon.com,CEO,True,Increased
+2013,3,20,23.0,Page,Larry,Larry Page,1973-03-26,40.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Google,Entrepreneur,True,Increased
+2007,3,1,56.0,Gates,William,Bill Gates,1955-10-28,51.0,Male,United States,United States,Medina,,['Technology'],,,False,Increased
+2007,3,2,52.0,,,Warren Buffett,,76.0,,United States,United States,Omaha,,['Investments'],,,,
+2007,3,3,49.0,,,Carlos Slim Helu & family,,67.0,,Mexico,Mexico,Mexico City,,,,,,
+2007,3,4,33.0,,,Ingvar Kamprad & family,,80.0,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2007,3,5,32.0,,,Lakshmi Mittal,,56.0,,India,United Kingdom,London,,['Manufacturing'],,,,
+2007,3,6,26.5,,,Sheldon Adelson,,73.0,,United States,United States,Las Vegas,,,,,,
+2007,3,7,26.0,,,Bernard Arnault,,58.0,,France,France,Paris,,,,,,
+2007,3,8,24.0,,,Amancio Ortega,,71.0,,Spain,Spain,La Coruna,,['Apparel'],,,,
+2007,3,9,23.0,,,Ka-shing Li,,78.0,,Hong Kong,Hong Kong,Hong Kong,,,,,,
+2007,3,10,22.0,,,David Thomson & family,,49.0,,Canada,Canada,Toronto,,['Media'],,,,
+2007,3,11,21.5,,,Lawrence Ellison,,62.0,,United States,United States,Redwood City,,['Software'],,,,
+2007,3,12,20.7,,,Liliane Bettencourt,,84.0,,France,France,Paris,,['Manufacturing'],,,,
+2007,3,13,20.3,,,Prince Alwaleed Bin Talal Alsaud,,50.0,,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,,
+2007,3,14,20.1,,,Mukesh Ambani,,49.0,,India,India,Mumbai,,['Manufacturing'],,,,
+2007,3,15,20.0,,,Karl Albrecht,,87.0,,Germany,Germany,M?lheim an der Ruhr,,['Retail'],,,,
+2007,3,16,18.7,,,Roman Abramovich,,40.0,,Russia,United Kingdom,London,,['Oil'],,,,
+2007,3,17,18.4,,,Stefan Persson,,59.0,,Sweden,Sweden,Stockholm,,['Retail'],,,,
+2007,3,18,18.2,,,Anil Ambani,,47.0,,India,India,Mumbai,,,,,,
+2007,3,19,18.0,Allen,Paul,Paul Allen,1953-01-21,54.0,Male,United States,United States,Mercer Island,,['Technology'],,,False,Decreased
+2007,3,21,17.1,,,Azim Premji,,61.0,,India,India,Bangalore,,,,,,
+2003,3,1,40.7,Gates,William,Bill Gates,1955-10-28,47.0,Male,United States,United States,Medina,,['Technology'],,,False,Decreased
+2003,3,2,30.5,,,Warren Buffett,,72.0,,United States,United States,Omaha,,['Investments'],,,,
+2003,3,4,20.1,Allen,Paul,Paul Allen,1953-01-21,50.0,Male,United States,United States,Mercer Island,,['Technology'],,,False,Decreased
+2003,3,5,17.7,,,Prince Alwaleed Bin Talal Alsaud,,46.0,,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,,
+2003,3,6,16.6,,,Lawrence Ellison,,58.0,,United States,United States,Atherton,,['Software'],,,,
+2003,3,7,16.5,,,Alice Walton,,54.0,,United States,United States,Fort Worth,,['Retail'],,,,
+2003,3,7,16.5,,,Jim Walton,,55.0,,United States,United States,Bentonville,,['Retail'],,,,
+2003,3,7,16.5,,,S. Robson Walton,,59.0,,United States,United States,Bentonville,,['Retail'],,,,
+2003,3,12,14.5,,,Liliane Bettencourt,,80.0,,France,France,Paris,,['Manufacturing'],,,,
+2003,3,14,13.0,,,Ingvar Kamprad & family,,76.0,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2003,3,15,12.9,,,Birgit Rausing & family,,0.0,,Sweden,Switzerland,,,['Manufacturing'],,,,
+2003,3,16,11.1,Ballmer,Steven,Steve Ballmer,1956-03-24,46.0,Male,United States,United States,Hunts Point,,['Technology'],,,False,Decreased
+2003,3,18,10.3,Chambers,Anne Cox,Anne Cox Chambers,1919-12-01,83.0,Female,United States,United States,Atlanta,,['Media'],,,False,Increased
+2003,3,18,10.3,,,Amancio Ortega,,67.0,,Spain,Spain,La Coruna,,['Apparel'],,,,
+2003,3,21,10.0,,,Forrest Mars,,71.0,,United States,United States,McLean,,['Food'],,,,
+2003,3,21,10.0,,,Jacqueline Mars,,64.0,,United States,United States,Bedminster,,['Food'],,,,
+2003,3,21,10.0,,,John Mars,,66.0,,United States,United States,Arlington,,['Food'],,,,
+2003,3,24,9.8,,,Michael Dell,,38.0,,United States,United States,Austin,,,,,,
+2003,3,25,8.2,,,Abigail Johnson,,41.0,,United States,United States,Boston,,['Finance'],,,,
+2003,3,26,8.0,,,Sumner Redstone,,79.0,,United States,United States,Newton Centre,,['Media'],,,,
+2017,3,1,86.0,Gates,Bill,Bill Gates,1955-10-28,61.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cofounder,True,Increased
+2017,3,2,75.6,Buffett,Warren,Warren Buffett,1930-08-30,86.0,Male,United States,United States,Omaha,Finance and Investments,['Finance and Investments'],Berkshire Hathaway,CEO,True,Increased
+2017,3,3,72.8,Bezos,Jeff,Jeff Bezos,1964-01-12,53.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon.com,Entrepreneur,True,Increased
+2017,3,4,71.3,Ortega,Amancio,Amancio Ortega,1936-03-28,80.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Increased
+2017,3,5,56.0,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,32.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Facebook,Entrepreneur,True,Increased
+2017,3,6,54.5,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,77.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],América Móvil,Honorary Chairman,True,Increased
+2017,3,7,52.2,Ellison,Larry,Larry Ellison,1944-08-17,72.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CEO and Founder,True,Increased
+2017,3,8,48.3,Koch,Charles,Charles Koch,1935-11-01,81.0,Male,United States,United States,Wichita,Diversified,['Diversified'],Koch Industries,CEO,False,Increased
+2017,3,8,48.3,Koch,David,David Koch,1940-05-03,76.0,Male,United States,United States,New York,Diversified,['Diversified'],Koch Industries,Executive Vice President,False,Increased
+2017,3,10,47.5,Bloomberg,Michael,Michael Bloomberg,1942-02-14,75.0,Male,United States,United States,New York,Media & Entertainment,['Media & Entertainment'],Bloomberg,CEO,True,Increased
+2017,3,11,41.5,Arnault,Bernard,Bernard Arnault & family,1949-03-05,68.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Increased
+2017,3,12,40.7,Page,Larry,Larry Page,1973-03-26,43.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Google,Entrepreneur,True,Increased
+2017,3,13,39.8,Brin,Sergey,Sergey Brin,1973-08-21,43.0,Male,United States,United States,Los Altos,Technology,['Technology'],Google,President,True,Increased
+2017,3,14,39.5,Bettencourt,Liliane,Liliane Bettencourt & family,1922-10-21,94.0,Female,France,,,Fashion & Retail,['Fashion & Retail'],,,False,Increased
+2017,3,15,34.1,Walton,S. Robson,S. Robson Walton,1944-10-27,72.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Wal-Mart Stores,Chairman,False,Increased
+2017,3,16,34.0,Walton,Jim,Jim Walton,1948-06-07,68.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2017,3,17,33.8,Walton,Alice,Alice Walton,1949-10-07,67.0,Female,United States,United States,Fort Worth,Fashion & Retail,['Fashion & Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2017,3,18,31.3,Wang,Jianlin,Wang Jianlin,1954-10-01,62.0,Male,China,China,Beijing,Real Estate,['Real Estate'],Dalian Wanda Group,Chairman,True,Increased
+2017,3,19,31.2,Li,Ka-shing,Li Ka-shing,1928-06-13,88.0,Male,Hong Kong,Hong Kong,Hong Kong,Diversified,['Diversified'],CK Hutchison Holdings,Chairman,True,Increased
+2017,3,20,30.4,Adelson,Sheldon,Sheldon Adelson,1933-08-04,83.0,Male,United States,United States,Las Vegas,Gambling & Casinos,['Gambling & Casinos'],Las Vegas Sands,Chairman and CEO,True,Increased
+2016,3,1,75.0,Gates,Bill,Bill Gates,1955-10-28,60.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cofounder,True,Decreased
+2016,3,2,67.0,Ortega,Amancio,Amancio Ortega,1936-03-28,79.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Increased
+2016,3,3,60.8,Buffett,Warren,Warren Buffett,1930-08-30,85.0,Male,United States,United States,Omaha,Finance and Investments,['Finance and Investments'],Berkshire Hathaway,CEO,True,Decreased
+2016,3,4,50.0,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,76.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],Am&#233;rica M&#243;vil,Honorary Chairman,True,Decreased
+2016,3,5,45.2,Bezos,Jeff,Jeff Bezos,1964-01-12,52.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon.com,Entrepreneur,True,Increased
+2016,3,6,44.6,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,31.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Facebook,Entrepreneur,True,Increased
+2016,3,7,43.6,Ellison,Larry,Larry Ellison,1944-08-17,71.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CEO and Founder,True,Decreased
+2016,3,8,40.0,Bloomberg,Michael,Michael Bloomberg,1942-02-14,74.0,Male,United States,United States,New York,Media & Entertainment,['Media & Entertainment'],Bloomberg,CEO,True,Increased
+2016,3,9,39.6,Koch,Charles,Charles Koch,1935-11-01,80.0,Male,United States,United States,Wichita,Diversified,['Diversified'],Koch Industries,CEO,False,Decreased
+2016,3,9,39.6,Koch,David,David Koch,1940-05-03,75.0,Male,United States,United States,New York,Diversified,['Diversified'],Koch Industries,Executive Vice President,False,Decreased
+2016,3,11,36.1,Bettencourt,Liliane,Liliane Bettencourt & family,1922-10-21,93.0,Female,France,,,Fashion & Retail,['Fashion & Retail'],,,False,Decreased
+2016,3,12,35.2,Page,Larry,Larry Page,1973-03-26,42.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Google,Entrepreneur,True,Increased
+2016,3,13,34.4,Brin,Sergey,Sergey Brin,1973-08-21,42.0,Male,United States,United States,Los Altos,Technology,['Technology'],Google,"Cofounder, Director Of Special Projects",True,Increased
+2016,3,14,34.0,Arnault,Bernard,Bernard Arnault & family,1949-03-05,66.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Decreased
+2016,3,15,33.6,Walton,Jim,Jim Walton,1948-06-07,67.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Decreased
+2016,3,16,32.3,Walton,Alice,Alice Walton,1949-10-07,66.0,Female,United States,United States,Fort Worth,Fashion & Retail,['Fashion & Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Decreased
+2016,3,17,31.9,Walton,S. Robson,S. Robson Walton,1944-10-27,71.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Wal-Mart Stores,Chairman,False,Decreased
+2016,3,18,28.7,Wang,Jianlin,Wang Jianlin,1954-10-01,61.0,Male,China,China,Beijing,Real Estate,['Real Estate'],Dalian Wanda Group,Chairman,True,Increased
+2016,3,19,27.8,Lemann,Jorge Paulo,Jorge Paulo Lemann,1939-08-26,76.0,Male,Brazil,Switzerland,zurich,Food and Beverage,['Food and Beverage'],,"Investor, Philanthropist",True,Increased
+2016,3,20,27.1,Li,Ka-shing,Li Ka-shing,1928-06-13,87.0,Male,Hong Kong,Hong Kong,Hong Kong,Diversified,['Diversified'],CK Hutchison Holdings,Chairman,True,Decreased
+2002,3,1,52.8,Gates,William,Bill Gates,1955-10-28,46.0,Male,United States,United States,Medina,,['Technology'],,,False,Decreased
+2002,3,2,35.0,,,Warren Buffett,,71.0,,United States,United States,Omaha,,['Investments'],,,,
+2002,3,4,25.2,Allen,Paul,Paul Allen,1953-01-21,49.0,Male,United States,United States,Mercer Island,,['Technology'],,,False,Decreased
+2002,3,5,23.5,,,Lawrence Ellison,,57.0,,United States,United States,Atherton,,['Software'],,,,
+2002,3,6,20.8,,,Jim Walton,,54.0,,United States,United States,Bentonville,,['Retail'],,,,
+2002,3,8,20.5,,,Alice Walton,,53.0,,United States,United States,Fort Worth,,['Retail'],,,,
+2002,3,8,20.5,,,S. Robson Walton,,58.0,,United States,United States,Bentonville,,['Retail'],,,,
+2002,3,11,20.0,,,Prince Alwaleed Bin Talal Alsaud,,45.0,,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,,
+2002,3,12,18.4,,,Johanna Quandt,,74.0,,Germany,Germany,Bad Homburg,,['Manufacturing'],,,,
+2002,3,13,14.9,,,Liliane Bettencourt,,79.0,,France,France,Paris,,['Manufacturing'],,,,
+2002,3,15,14.8,Ballmer,Steven,Steve Ballmer,1956-03-24,45.0,Male,United States,United States,Hunts Point,,['Technology'],,,False,Decreased
+2002,3,16,13.4,,,Ingvar Kamprad & family,,75.0,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2002,3,17,11.5,,,Carlos Slim Helu & family,,62.0,,Mexico,Mexico,Mexico City,,,,,,
+2002,3,18,11.1,,,Michael Dell,,37.0,,United States,United States,Austin,,,,,,
+2002,3,19,10.7,,,Birgit Rausing & family,,49.0,,Sweden,United Kingdom,Suffolk,,['Manufacturing'],,,,
+2002,3,21,10.1,Chambers,Anne Cox,Anne Cox Chambers,1919-12-01,82.0,Female,United States,United States,Atlanta,,['Media'],,,False,Decreased
+2002,3,23,10.0,,,Ka-shing Li,,73.0,,Hong Kong,Hong Kong,Hong Kong,,,,,,
+2002,3,24,9.2,,,Kwok family,,0.0,,Hong Kong,Hong Kong,Hong Kong,,['Real Estate'],,,,
+2002,3,25,9.1,,,Amancio Ortega,,66.0,,Spain,Spain,La Coruna,,['Apparel'],,,,
+2002,3,26,9.0,,,Forrest Mars,,70.0,,United States,United States,McLean,,['Food'],,,,
+2014,3,1,76.0,Gates,Bill,Bill Gates,1955-10-28,58.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Co-Chair,True,Increased
+2014,3,2,72.0,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,74.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],Am&#233;rica M&#243;vil,Honorary Chairman,True,Decreased
+2014,3,3,64.0,Ortega,Amancio,Amancio Ortega,1936-03-28,77.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Increased
+2014,3,4,58.2,Buffett,Warren,Warren Buffett,1930-08-30,83.0,Male,United States,United States,Omaha,Investments,['Investments'],Berkshire Hathaway,CEO,True,Increased
+2014,3,5,48.0,Ellison,Larry,Larry Ellison,1944-08-17,69.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CEO and Founder,True,Increased
+2014,3,6,40.0,Koch,Charles,Charles Koch,1935-11-01,78.0,Male,United States,United States,Wichita,Diversified,['Diversified'],Koch Industries,CEO,False,Increased
+2014,3,6,40.0,Koch,David,David Koch,1940-05-03,73.0,Male,United States,United States,New York,Diversified,['Diversified'],Koch Industries,Executive Vice President,False,Increased
+2014,3,8,38.0,Adelson,Sheldon,Sheldon Adelson,1933-08-04,80.0,Male,United States,United States,Las Vegas,Gaming,['Gaming'],Las Vegas Sands,Chairman and CEO,True,Increased
+2014,3,9,36.7,Walton,Christy,Christy Walton & family,1955-01-01,59.0,Female,United States,United States,Jackson,Fashion and Retail,['Fashion and Retail'],Children's Scholarship Fund,Co-Chair,False,Increased
+2014,3,10,34.7,Walton,Jim,Jim Walton,1948-01-01,66.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2014,3,11,34.5,Bettencourt,Liliane,Liliane Bettencourt & family,1922-10-21,91.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,Increased
+2014,3,12,34.4,Persson,Stefan,Stefan Persson,1947-10-04,66.0,Male,Sweden,Sweden,Stockholm,Fashion & Retail,['Fashion & Retail'],H&#38;M,Chairman,False,Increased
+2014,3,13,34.3,Walton,Alice,Alice Walton,1949-10-07,64.0,Female,United States,United States,Fort Worth,Fashion and Retail,['Fashion and Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2014,3,14,34.2,Walton,S. Robson,S. Robson Walton,1944-01-01,70.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail'],Wal-Mart Stores,Chairman,False,Increased
+2014,3,15,33.5,Arnault,Bernard,Bernard Arnault & family,1949-03-05,64.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Increased
+2014,3,16,33.0,Bloomberg,Michael,Michael Bloomberg,1942-02-14,72.0,Male,United States,United States,New York,Finance,['Finance'],United States,"Mayor, New York City",True,Increased
+2014,3,17,32.3,Page,Larry,Larry Page,1973-03-26,40.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Google,Entrepreneur,True,Increased
+2014,3,18,32.0,Bezos,Jeff,Jeff Bezos,1964-01-12,50.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon.com,CEO,True,Increased
+2014,3,19,31.8,Brin,Sergey,Sergey Brin,1973-08-21,40.0,Male,United States,United States,Los Altos,Technology,['Technology'],Google,"Cofounder, Director Of Special Projects",True,Increased
+2014,3,20,31.0,Li,Ka-shing,Li Ka-shing,1928-06-13,85.0,Male,Hong Kong,Hong Kong,Hong Kong,Diversified,['Diversified'],CK Hutchison Holdings,Chairman,True,Remained Even
+2001,7,1,58.7,Gates,William,Bill Gates,1955-10-28,45.0,Male,United States,United States,Medina,,['Technology'],,,False,
+2001,7,2,32.3,,,Warren Buffett,,70.0,,United States,United States,Omaha,,['Finance'],,,,
+2001,7,3,30.4,Allen,Paul,Paul Allen,1953-01-21,48.0,Male,United States,United States,Mercer Island,,['Technology'],,,False,
+2001,7,4,26.0,,,Lawrence Ellison,,56.0,,United States,United States,Atherton,,['Software'],,,,
+2001,6,5,5.6,Henkel,,Christoph Henkel,1958-02-11,,,Germany,United Kingdom,London,Fashion & Retail,['Fashion & Retail'],,,False,
+2001,7,6,20.0,,,Prince Alwaleed Bin Talal Alsaud,,44.0,,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,,
+2001,7,7,18.8,,,Jim Walton,,53.0,,United States,United States,Bentonville,,['Retail'],,,,
+2001,7,8,4.7,,,David Sainsbury,,60.0,,United Kingdom,United Kingdom,London,,['Retail'],,,,
+2001,7,9,18.6,,,S. Robson Walton,,57.0,,United States,United States,Bentonville,,['Retail'],,,,
+2001,7,10,18.5,,,Alice Walton,,52.0,,United States,United States,Fort Worth,,['Retail'],,,,
+2001,7,12,17.8,,,Johanna Quandt,,74.0,,Germany,Germany,Bad Homburg,,,,,,
+2001,7,13,16.6,Ballmer,Steven,Steve Ballmer,1956-03-24,45.0,Male,United States,United States,Hunts Point,,['Technology'],,,False,
+2001,7,13,3.4,,,Michael Kadoorie & family,,60.0,,Hong Kong,China,Hong Kong,,,,,,
+2001,7,15,15.6,,,Liliane Bettencourt,,75.0,,France,France,Paris,,['Pharmaceuticals'],,,,
+2001,7,16,15.3,,,Philip Anschutz,,61.0,,United States,United States,Denver,,,,,,
+2001,7,17,13.0,,,Ingvar Kamprad & family,,75.0,,Sweden,Sweden,"Lausanne, Switz",,['Retail'],,,,
+2001,7,18,12.6,,,Ka-shing Li,,73.0,,Hong Kong,Hong Kong,Chaozhou,,,,,,
+2001,7,18,12.6,,,Sumner Redstone,,78.0,,United States,United States,Newton Centre,,['Media'],,,,
+2001,7,21,11.7,Chambers,Anne Cox,Anne Cox Chambers,1919-12-01,81.0,Female,United States,United States,Atlanta,,['Media'],,,False,
+2001,7,23,11.5,,,Kwok family,,0.0,,Hong Kong,Hong Kong,,,['Real Estate'],,,,
+2015,3,1,79.2,Gates,Bill,Bill Gates,1955-10-28,59.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cofounder,True,Increased
+2015,3,2,77.1,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,75.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],Am&#233;rica M&#243;vil,Honorary Chairman,True,Increased
+2015,3,3,72.7,Buffett,Warren,Warren Buffett,1930-08-30,84.0,Male,United States,United States,Omaha,Investments,['Investments'],Berkshire Hathaway,CEO,True,Increased
+2015,3,4,64.5,Ortega,Amancio,Amancio Ortega,1936-03-28,78.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Increased
+2015,3,5,54.3,Ellison,Larry,Larry Ellison,1944-08-17,70.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CEO and Founder,True,Increased
+2015,3,6,42.9,Koch,Charles,Charles Koch,1935-11-01,79.0,Male,United States,United States,Wichita,Diversified,['Diversified'],Koch Industries,CEO,False,Increased
+2015,3,6,42.9,Koch,David,David Koch,1940-05-03,74.0,Male,United States,United States,New York,Diversified,['Diversified'],Koch Industries,Executive Vice President,False,Increased
+2015,3,8,41.7,Walton,Christy,Christy Walton & family,1955-01-01,60.0,Female,United States,United States,Jackson,Fashion and Retail,['Fashion and Retail'],Children's Scholarship Fund,Co-Chair,False,Increased
+2015,3,9,40.6,Walton,Jim,Jim Walton,1948-01-01,67.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2015,3,10,40.1,Bettencourt,Liliane,Liliane Bettencourt & family,1922-10-21,92.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,Increased
+2015,3,11,39.4,Walton,Alice,Alice Walton,1949-10-07,65.0,Female,United States,United States,Fort Worth,Fashion and Retail,['Fashion and Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2015,3,12,39.1,Walton,S. Robson,S. Robson Walton,1944-10-27,70.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Wal-Mart Stores,Chairman,False,Increased
+2015,3,13,37.2,Arnault,Bernard,Bernard Arnault & family,1949-03-05,65.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Increased
+2015,3,14,35.5,Bloomberg,Michael,Michael Bloomberg,1942-02-14,73.0,Male,United States,United States,New York,Media,['Media'],Bloomberg,CEO,True,Increased
+2015,3,15,34.8,Bezos,Jeff,Jeff Bezos,1964-01-12,51.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon.com,Entrepreneur,True,Increased
+2015,3,16,33.4,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,30.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Facebook,Entrepreneur,True,Increased
+2015,3,17,33.3,Li,Ka-shing,Li Ka-shing,1928-06-13,86.0,Male,Hong Kong,Hong Kong,Hong Kong,Diversified,['Diversified'],CK Hutchison Holdings,Chairman,True,Increased
+2015,3,18,31.4,Adelson,Sheldon,Sheldon Adelson,1933-08-04,81.0,Male,United States,United States,Las Vegas,Gaming,['Gaming'],Las Vegas Sands,Chairman and CEO,True,Decreased
+2015,3,19,29.7,Page,Larry,Larry Page,1973-03-26,41.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Google,Entrepreneur,True,Decreased
+2015,3,20,29.2,Brin,Sergey,Sergey Brin,1973-08-21,41.0,Male,United States,United States,Los Altos,Technology,['Technology'],Google,"Cofounder, Director Of Special Projects",True,Decreased
+2018,3,1,112.0,Bezos,Jeff,Jeff Bezos,1964-01-12,54.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon.com,Entrepreneur,True,Increased
+2018,3,2,90.0,Gates,Bill,Bill Gates,1955-10-28,62.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cofounder,True,Increased
+2018,3,3,84.0,Buffett,Warren,Warren Buffett,1930-08-30,87.0,Male,United States,United States,Omaha,Finance and Investments,['Finance and Investments'],Berkshire Hathaway,CEO,True,Increased
+2018,3,4,72.0,Arnault,Bernard,Bernard Arnault & family,1949-03-05,69.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Increased
+2018,3,5,71.0,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,33.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Facebook,Entrepreneur,True,Increased
+2018,3,6,70.0,Ortega,Amancio,Amancio Ortega,1936-03-28,81.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Decreased
+2018,3,7,67.1,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,78.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],América Móvil,Honorary Chairman,True,Increased
+2018,3,8,60.0,Koch,Charles,Charles Koch,1935-11-01,82.0,Male,United States,United States,Wichita,Diversified,['Diversified'],Koch Industries,CEO,False,Increased
+2018,3,8,60.0,Koch,David,David Koch,1940-05-03,77.0,Male,United States,United States,New York,Diversified,['Diversified'],Koch Industries,Executive Vice President,False,Increased
+2018,3,10,58.5,Ellison,Larry,Larry Ellison,1944-08-17,73.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CTO and Founder,True,Increased
+2018,3,11,50.0,Bloomberg,Michael,Michael Bloomberg,1942-02-14,76.0,Male,United States,United States,New York,Media & Entertainment,['Media & Entertainment'],Bloomberg,CEO,True,Increased
+2018,3,12,48.8,Page,Larry,Larry Page,1973-03-26,44.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Alphabet,Entrepreneur,True,Increased
+2018,3,13,47.5,Brin,Sergey,Sergey Brin,1973-08-21,44.0,Male,United States,United States,Los Altos,Technology,['Technology'],Alphabet,President,True,Increased
+2018,3,14,46.4,Walton,Jim,Jim Walton,1948-06-07,69.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2018,3,15,46.2,Walton,Rob,Rob Walton,1944-10-27,73.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Wal-Mart Stores,Chairman,False,Increased
+2018,3,16,46.0,Walton,Alice,Alice Walton,1949-10-07,68.0,Female,United States,United States,Fort Worth,Fashion & Retail,['Fashion & Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2018,3,17,45.3,Ma,Huateng,Ma Huateng,1971-10-01,46.0,Male,China,China,Shenzhen,Technology,['Technology'],Tencent Holdings,Chairman and CEO,True,Increased
+2018,3,18,42.2,Bettencourt Meyers,Francoise,Francoise Bettencourt Meyers & family,1953-07-10,64.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,
+2018,3,19,40.1,Ambani,Mukesh,Mukesh Ambani,1957-04-19,60.0,Male,India,India,Mumbai,Energy,['Energy'],Reliance Industries,Founder and Chairman,False,Increased
+2018,3,20,39.0,Ma,Jack,Jack Ma,1964-09-10,53.0,Male,China,China,Hangzhou,Technology,['Technology'],Alibaba Group,Founder and Executive Chairman,True,Increased
+2019,3,1,131.0,Bezos,Jeff,Jeff Bezos,1964-01-12,55.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon.com,Entrepreneur,True,Increased
+2019,3,2,96.5,Gates,Bill,Bill Gates,1955-10-28,63.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cofounder,True,Increased
+2019,3,3,82.5,Buffett,Warren,Warren Buffett,1930-08-30,88.0,Male,United States,United States,Omaha,Finance and Investments,['Finance and Investments'],Berkshire Hathaway,CEO,True,Decreased
+2019,3,4,76.0,Arnault,Bernard,Bernard Arnault & family,1949-03-05,70.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Increased
+2019,3,5,64.0,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,79.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],América Móvil,Honorary Chairman,True,Decreased
+2019,3,6,62.7,Ortega,Amancio,Amancio Ortega,1936-03-28,82.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Decreased
+2019,3,7,62.5,Ellison,Larry,Larry Ellison,1944-08-17,74.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CTO and Founder,True,Increased
+2019,3,8,62.3,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,34.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Facebook,Entrepreneur,True,Decreased
+2019,3,9,55.5,Bloomberg,Michael,Michael Bloomberg,1942-02-14,77.0,Male,United States,United States,New York,Media & Entertainment,['Media & Entertainment'],Bloomberg,CEO,True,Increased
+2019,3,10,50.8,Page,Larry,Larry Page,1973-03-26,45.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Google,Entrepreneur,True,Increased
+2019,3,11,50.5,Koch,Charles,Charles Koch,1935-11-01,83.0,Male,United States,United States,Wichita,Diversified,['Diversified'],Koch Industries,CEO,False,Decreased
+2019,3,11,50.5,Koch,David,David Koch,1940-05-03,78.0,Male,United States,,,Diversified,['Diversified'],Koch Industries,Director Emeritus,False,Decreased
+2019,3,13,50.0,Ambani,Mukesh,Mukesh Ambani,1957-04-19,61.0,Male,India,India,Mumbai,Energy,['Energy'],Reliance Industries,Founder and Chairman,False,Increased
+2019,3,14,49.8,Brin,Sergey,Sergey Brin,1973-08-21,45.0,Male,United States,United States,Los Altos,Technology,['Technology'],Google,President,True,Increased
+2019,3,15,49.3,Bettencourt Meyers,Francoise,Francoise Bettencourt Meyers & family,1953-07-10,65.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,Increased
+2019,3,16,44.6,Walton,Jim,Jim Walton,1948-06-07,70.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Decreased
+2019,3,17,44.4,Walton,Alice,Alice Walton,1949-10-07,69.0,Female,United States,United States,Fort Worth,Fashion & Retail,['Fashion & Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Decreased
+2019,3,18,44.3,Walton,Rob,Rob Walton,1944-10-27,74.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Walmart,Director,False,Decreased
+2019,3,19,41.2,Ballmer,Steve,Steve Ballmer,1956-03-24,62.0,Male,United States,United States,Hunts Point,Technology,['Technology'],Los Angeles Clippers,Owner,True,Increased
+2019,3,20,38.8,Ma,Huateng,Ma Huateng,1971-10-29,47.0,Male,China,China,Shenzhen,Technology,['Technology'],Tencent Holdings,Chairman and CEO,True,Decreased
+2022,4,1,219.0,Musk,Elon,Elon Musk,1971-06-28,50.0,Male,United States,United States,Austin,Automotive,['Automotive'],Tesla,CEO,True,Increased
+2022,4,2,171.0,Bezos,Jeff,Jeff Bezos,1964-01-12,58.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon,Chairman and Founder,True,Decreased
+2022,4,3,158.0,Arnault,Bernard,Bernard Arnault & family,1949-03-05,73.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Increased
+2022,4,4,129.0,Gates,Bill,Bill Gates,1955-10-28,66.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cofounder,True,Increased
+2022,4,5,118.0,Buffett,Warren,Warren Buffett,1930-08-30,91.0,Male,United States,United States,Omaha,Finance & Investments,['Finance & Investments'],Berkshire Hathaway Inc. (Cl A),CEO,True,Increased
+2022,4,6,111.0,Page,Larry,Larry Page,1973-03-26,49.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Alphabet,Cofounder and board member,True,Increased
+2022,4,7,107.0,Brin,Sergey,Sergey Brin,1973-08-21,48.0,Male,United States,United States,Los Altos,Technology,['Technology'],Alphabet,Cofounder and board member,True,Increased
+2022,4,8,106.0,Ellison,Larry,Larry Ellison,1944-08-17,77.0,Male,United States,United States,Lanai,Technology,['Technology'],Oracle,CTO and Founder,True,Increased
+2022,4,9,91.4,Ballmer,Steve,Steve Ballmer,1956-03-24,66.0,Male,United States,United States,Hunts Point,Technology,['Technology'],Los Angeles Clippers,Owner,True,Increased
+2022,4,10,90.7,Ambani,Mukesh,Mukesh Ambani,1957-04-19,64.0,Male,India,India,Mumbai,Diversified,['Diversified'],Reliance Industries Ltd.,Founder and Chairman,False,Increased
+2022,4,11,90.0,Adani,Gautam,Gautam Adani,1962-06-24,59.0,Male,India,India,Ahmedabad,Diversified,['Diversified'],,,True,Increased
+2022,4,12,82.0,Bloomberg,Michael,Michael Bloomberg,1942-02-14,80.0,Male,United States,United States,New York,Media & Entertainment,['Media & Entertainment'],Bloomberg L.P.,CEO,True,Increased
+2022,4,13,81.2,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,82.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],America Movil SAB de CV (ADR),Honorary Chairman,True,Increased
+2022,4,14,74.8,Bettencourt Meyers,Francoise,Francoise Bettencourt Meyers & family,1953-07-10,68.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,Increased
+2022,4,15,67.3,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,37.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Facebook,Cofounder,True,Decreased
+2022,4,16,66.2,Walton,Jim,Jim Walton,1948-06-07,73.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2022,4,17,65.7,Zhong,Shanshan,Zhong Shanshan,1954-12-01,67.0,Male,China,China,Hangzhou,Food & Beverage,['Food & Beverage'],,,True,Decreased
+2022,4,18,65.3,Walton,Alice,Alice Walton,1949-10-07,72.0,Female,United States,United States,Fort Worth,Fashion & Retail,['Fashion & Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2022,4,19,65.0,Walton,Rob,Rob Walton,1944-10-27,77.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Walmart,Director,False,Increased
+2022,4,19,65.0,Zhao,Changpeng,Changpeng Zhao,1977-09-10,44.0,Male,Canada,United Arab Emirates,Dubai,Finance & Investments,['Finance & Investments'],,,True,Increased
+2023,4,1,211.0,Arnault,Bernard,Bernard Arnault & family,1949-03-05,74.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moët Hennessy Louis Vuitton,Chairman and CEO,False,Increased
+2023,4,2,180.0,Musk,Elon,Elon Musk,1971-06-28,51.0,Male,United States,United States,Austin,Automotive,['Automotive'],Tesla,CEO,True,Decreased
+2023,4,3,114.0,Bezos,Jeff,Jeff Bezos,1964-01-12,59.0,Male,United States,United States,Medina,Technology,['Technology'],Amazon,Chairman and Founder,True,Decreased
+2023,4,4,107.0,Ellison,Larry,Larry Ellison,1944-08-17,78.0,Male,United States,United States,Lanai,Technology,['Technology'],Oracle,CTO and Founder,True,Increased
+2023,4,5,106.0,Buffett,Warren,Warren Buffett,1930-08-30,92.0,Male,United States,United States,Omaha,Finance & Investments,['Finance & Investments'],Berkshire Hathaway Inc. (Cl A),CEO,True,Decreased
+2023,4,6,104.0,Gates,Bill,Bill Gates,1955-10-28,67.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cochair,True,Decreased
+2023,4,7,94.5,Bloomberg,Michael,Michael Bloomberg,1942-02-14,81.0,Male,United States,United States,New York,Media & Entertainment,['Media & Entertainment'],Bloomberg,CEO,True,Increased
+2023,4,8,93.0,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,83.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],América Móvil,Honorary Chairman,True,Increased
+2023,4,9,83.4,Ambani,Mukesh,Mukesh Ambani,1957-04-19,65.0,Male,India,India,Mumbai,Diversified,['Diversified'],Reliance Industries,Founder and Chairman,False,Decreased
+2023,4,10,80.7,Ballmer,Steve,Steve Ballmer,1956-03-24,67.0,Male,United States,United States,Hunts Point,Technology,['Technology'],Los Angeles Clippers,Owner,True,Decreased
+2023,4,11,80.5,Bettencourt Meyers,Francoise,Francoise Bettencourt Meyers & family,1953-07-10,69.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,Increased
+2023,4,12,79.2,Page,Larry,Larry Page,1973-03-26,50.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Alphabet,Cofounder and board member,True,Decreased
+2023,4,13,77.3,Ortega,Amancio,Amancio Ortega,1936-03-28,87.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Increased
+2023,4,14,76.0,Brin,Sergey,Sergey Brin,1973-08-21,49.0,Male,United States,United States,Los Altos,Technology,['Technology'],Alphabet,Cofounder and board member,True,Decreased
+2023,4,15,68.0,Zhong,Shanshan,Zhong Shanshan,1954-12-01,68.0,Male,China,China,Hangzhou,Food & Beverage,['Food & Beverage'],,,True,Increased
+2023,4,16,64.4,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,38.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Meta Platforms,Cofounder,True,Decreased
+2023,4,17,59.0,Koch,Charles,Charles Koch,1935-11-01,87.0,Male,United States,United States,Wichita,Diversified,['Diversified'],"Koch Industries, Inc.",Chairman and CEO,False,Decreased
+2023,4,17,59.0,Koch,Julia,Julia Koch & family,1962-04-12,60.0,Female,United States,United States,New York,Diversified,['Diversified'],,,False,Decreased
+2023,4,19,58.8,Walton,Jim,Jim Walton,1948-06-07,74.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Decreased
+2023,4,20,57.6,Walton,Rob,Rob Walton,1944-10-27,78.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Walmart,Director,False,Decreased
+2021,4,1,177.0,Bezos,Jeff,Jeff Bezos,1964-01-12,57.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon,Entrepreneur,True,Increased
+2021,4,2,151.0,Musk,Elon,Elon Musk,1971-06-28,49.0,Male,United States,United States,Austin,Automotive,['Automotive'],Tesla,CEO and Chairman,True,Increased
+2021,4,3,150.0,Arnault,Bernard,Bernard Arnault & family,1949-03-05,72.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Increased
+2021,4,4,124.0,Gates,Bill,Bill Gates,1955-10-28,65.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cofounder,True,Increased
+2021,4,5,97.0,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,36.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Facebook,Entrepreneur,True,Increased
+2021,4,6,96.0,Buffett,Warren,Warren Buffett,1930-08-30,90.0,Male,United States,United States,Omaha,Finance & Investments,['Finance & Investments'],Berkshire Hathaway Inc. (Cl A),CEO,True,Increased
+2021,4,7,93.0,Ellison,Larry,Larry Ellison,1944-08-17,76.0,Male,United States,United States,Lanai,Technology,['Technology'],Oracle Corp.,CTO and Founder,True,Increased
+2021,4,8,91.5,Page,Larry,Larry Page,1973-03-26,48.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Alphabet,Entrepreneur,True,Increased
+2021,4,9,89.0,Brin,Sergey,Sergey Brin,1973-08-21,47.0,Male,United States,United States,Los Altos,Technology,['Technology'],Alphabet,Cofounder and board member,True,Increased
+2021,4,10,84.5,Ambani,Mukesh,Mukesh Ambani,1957-04-19,63.0,Male,India,India,Mumbai,Diversified,['Diversified'],Reliance Industries Ltd.,Founder and Chairman,False,Increased
+2021,4,11,77.0,Ortega,Amancio,Amancio Ortega,1936-03-28,85.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Increased
+2021,4,12,73.6,Bettencourt Meyers,Francoise,Francoise Bettencourt Meyers & family,1953-07-10,67.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,Increased
+2021,4,13,68.9,Zhong,Shanshan,Zhong Shanshan,1954-12-01,66.0,Male,China,China,Hangzhou,Food & Beverage,['Food & Beverage'],,,True,Increased
+2021,4,14,68.7,Ballmer,Steve,Steve Ballmer,1956-03-24,65.0,Male,United States,United States,Hunts Point,Technology,['Technology'],Los Angeles Clippers,Owner,True,Increased
+2021,4,15,65.8,Ma,Huateng,Ma Huateng,1971-10-29,49.0,Male,China,China,Shenzhen,Technology,['Technology'],Tencent,Chairman and CEO,True,Increased
+2021,4,16,62.8,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,81.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],America Movil SAB de CV (ADR),Honorary Chairman,True,Increased
+2021,4,17,61.8,Walton,Alice,Alice Walton,1949-10-07,71.0,Female,United States,United States,Fort Worth,Fashion & Retail,['Fashion & Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2021,4,18,60.2,Walton,Jim,Jim Walton,1948-06-07,72.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2021,4,19,59.5,Walton,Rob,Rob Walton,1944-10-27,76.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Walmart Inc.,Director,False,Increased
+2021,4,20,59.0,Bloomberg,Michael,Michael Bloomberg,1942-02-14,79.0,Male,United States,United States,New York,Media & Entertainment,['Media & Entertainment'],Bloomberg L.P.,CEO,True,Increased
+2009,3,1,40.0,Gates,William,Bill Gates,1955-10-28,53.0,Male,United States,United States,Medina,Technology,['Technology                    '],Bill & Melinda Gates Foundation,Co-Chair,False,Decreased
+2009,3,2,37.0,Buffett,Warren,Warren Buffett,1930-08-30,78.0,Male,United States,United States,Omaha,Investments,['Investments                   '],Berkshire Hathaway,Chairman,False,Decreased
+2009,3,3,35.0,,,Carlos Slim Helu & family,,69.0,,Mexico,Mexico,Mexico City,,['Telecommunications'],,,,
+2009,3,4,22.5,Ellison,Lawrence,Larry Ellison,1944-08-17,64.0,Male,United States,United States,Woodside,Technology,['Technology                    '],Oracle,CEO,False,Decreased
+2009,3,5,22.0,,,Ingvar Kamprad & family,,83.0,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2009,3,6,21.5,,,Karl Albrecht,,89.0,,Germany,Germany,Mulheim an der Ruhr,,['Retail'],,,,
+2009,3,7,19.5,,,Mukesh Ambani,,51.0,,India,India,Mumbai,,['Manufacturing'],,,,
+2009,3,8,19.3,,,Lakshmi Mittal,,58.0,,India,United Kingdom,London,,['Steel'],,,,
+2009,3,10,18.3,,,Amancio Ortega,,73.0,,Spain,Spain,La Coruna,,['Retail'],,,,
+2009,3,11,17.8,Walton,Jim,Jim Walton,1948-01-01,61.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail            '],"Arvest Bank Group, Inc.",Chairman and CEO,False,Decreased
+2009,3,12,17.6,Walton,Alice,Alice Walton,1949-10-07,59.0,Female,United States,United States,Fort Worth,Billionaire,['Billionaire'],Crystal Bridges Museum of American Art,Philanthropist,False,Decreased
+2009,3,12,17.6,Walton,Christy,Christy Walton & family,1955-01-01,54.0,Female,United States,United States,Jackson,Fashion and Retail,['Fashion and Retail            '],Children's Scholarship Fund,Co-Chair,False,Decreased
+2009,3,12,17.6,Walton,S. Robson,S. Robson Walton,1944-01-01,65.0,Male,United States,United States,Bentonville,Fashion and Retail,['Fashion and Retail            '],Wal-Mart Stores,Chairman,False,Decreased
+2009,3,15,16.5,,,Bernard Arnault,,60.0,,France,France,Paris,,['Luxury Goods'],,,,
+2009,3,16,16.2,,,Ka-shing Li,,80.0,,Hong Kong,Hong Kong,Hong Kong,,['Diversified'],,,,
+2009,3,17,16.0,Bloomberg,Michael,Michael Bloomberg,1942-02-14,67.0,Male,United States,United States,New York,Politics,['Politics'],,,False,Increased
+2009,3,18,14.5,,,Stefan Persson,,61.0,,Sweden,Sweden,Stockholm,,['Retail'],,,,
+2009,3,19,14.0,Koch,Charles,Charles Koch,1935-11-01,73.0,Male,United States,United States,Wichita,Diversified,['Diversified'],,,False,Decreased
+2009,3,19,14.0,Koch,David,David Koch,1940-05-03,68.0,Male,United States,United States,New York,Diversified,['Diversified'],,,False,Decreased
+2009,3,21,13.4,,,Liliane Bettencourt,,86.0,,France,France,Paris,,['Consumer Products'],,,,
+2008,3,1,62.0,,,Warren Buffett,,77.0,,United States,United States,Omaha,,['Investments'],,,,
+2008,3,2,60.0,,,Carlos Slim Helu & family,,68.0,,Mexico,Mexico,Mexico City,,,,,,
+2008,3,3,58.0,Gates,William,Bill Gates,1955-10-28,52.0,Male,United States,United States,Medina,,['Technology'],,,False,Increased
+2008,3,4,45.0,,,Lakshmi Mittal,,57.0,,India,United Kingdom,London,,['Manufacturing'],,,,
+2008,3,5,43.0,,,Mukesh Ambani,,50.0,,India,India,Mumbai,,['Manufacturing'],,,,
+2008,3,6,42.0,,,Anil Ambani,,48.0,,India,India,Mumbai,,,,,,
+2008,3,7,31.0,,,Ingvar Kamprad & family,,81.0,,Sweden,Switzerland,Lausanne,,['Retail'],,,,
+2008,3,8,30.0,,,Kushal Pal Singh,,76.0,,India,India,Delhi,,['Real Estate'],,,,
+2008,3,9,28.0,,,Oleg Deripaska,,40.0,,Russia,Russia,Moscow,,,,,,
+2008,3,10,27.0,,,Karl Albrecht,,88.0,,Germany,Germany,Mulheim an der Ruhr,,['Retail'],,,,
+2008,3,11,26.5,,,Ka-shing Li,,79.0,,Hong Kong,Hong Kong,Hong Kong,,,,,,
+2008,3,12,26.0,Adelson,Sheldon,Sheldon Adelson,1933-08-04,74.0,Male,United States,United States,Las Vegas,Gaming,['Gaming'],Las Vegas Sands,Chairman and CEO,False,Decreased
+2008,3,13,25.5,,,Bernard Arnault,,59.0,,France,France,Paris,,,,,,
+2008,3,14,25.0,Ellison,Lawrence,Larry Ellison,1944-08-17,63.0,Male,United States,United States,Woodside,Technology,['Technology                    '],Oracle,CEO,False,Increased
+2008,3,15,23.5,,,Roman Abramovich,,41.0,,Russia,Russia,Moscow,,,,,,
+2008,3,17,22.9,,,Liliane Bettencourt,,85.0,,France,France,Paris,,['Manufacturing'],,,,
+2008,3,18,21.2,Mordashov,Alexey,Alexey Mordashov,1965-09-26,42.0,Male,Russia,Russia,Moscow,,['Metals & Mining'],,,False,Increased
+2008,3,19,21.0,,,Prince Alwaleed Bin Talal Alsaud,,51.0,,Saudi Arabia,Saudi Arabia,Riyadh,,['Investments'],,,,
+2008,3,20,20.8,,,Mikhail Fridman,,43.0,,Russia,Russia,Moscow,,,,,,
+2008,3,21,20.3,,,Vladimir Lisin,,51.0,,Russia,Russia,Moscow,,['Manufacturing'],,,,
+2020,4,1,113.0,Bezos,Jeff,Jeff Bezos,1964-01-12,56.0,Male,United States,United States,Seattle,Technology,['Technology'],Amazon,Entrepreneur,True,Decreased
+2020,4,2,98.0,Gates,Bill,Bill Gates,1955-10-28,64.0,Male,United States,United States,Medina,Technology,['Technology'],Bill & Melinda Gates Foundation,Cofounder,True,Increased
+2020,4,3,76.0,Arnault,Bernard,Bernard Arnault & family,1949-03-05,71.0,Male,France,France,Paris,Fashion & Retail,['Fashion & Retail'],LVMH Moet Hennessy Louis Vuitton,Chairman and CEO,False,Remained Even
+2020,4,4,67.5,Buffett,Warren,Warren Buffett,1930-08-30,89.0,Male,United States,United States,Omaha,Finance & Investments,['Finance & Investments'],Berkshire Hathaway,CEO,True,Decreased
+2020,4,5,59.0,Ellison,Larry,Larry Ellison,1944-08-17,75.0,Male,United States,United States,Woodside,Technology,['Technology'],Oracle,CTO and Founder,True,Decreased
+2020,4,6,55.1,Ortega,Amancio,Amancio Ortega,1936-03-28,84.0,Male,Spain,Spain,La Coruna,Fashion & Retail,['Fashion & Retail'],,,True,Decreased
+2020,4,7,54.7,Zuckerberg,Mark,Mark Zuckerberg,1984-05-14,35.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Facebook,Entrepreneur,True,Decreased
+2020,4,8,54.6,Walton,Jim,Jim Walton,1948-06-07,71.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],"Arvest Bank Group, Inc.",Chairman and CEO,False,Increased
+2020,4,9,54.4,Walton,Alice,Alice Walton,1949-10-07,70.0,Female,United States,United States,Fort Worth,Fashion & Retail,['Fashion & Retail'],Crystal Bridges Museum of American Art,Philanthropist,False,Increased
+2020,4,10,54.1,Walton,Rob,Rob Walton,1944-10-27,75.0,Male,United States,United States,Bentonville,Fashion & Retail,['Fashion & Retail'],Walmart,Director,False,Increased
+2020,4,11,52.7,Ballmer,Steve,Steve Ballmer,1956-03-24,64.0,Male,United States,United States,Hunts Point,Technology,['Technology'],Los Angeles Clippers,Owner,True,Increased
+2020,4,12,52.1,Slim Helu,Carlos,Carlos Slim Helu & family,1940-01-28,80.0,Male,Mexico,Mexico,Mexico City,Telecom,['Telecom'],America Movil SAB de CV (ADR),Honorary Chairman,True,Decreased
+2020,4,13,50.9,Page,Larry,Larry Page,1973-03-26,47.0,Male,United States,United States,Palo Alto,Technology,['Technology'],Alphabet,Entrepreneur,True,Increased
+2020,4,14,49.1,Brin,Sergey,Sergey Brin,1973-08-21,46.0,Male,United States,United States,Los Altos,Technology,['Technology'],Alphabet,Cofounder and board member,True,Decreased
+2020,4,15,48.9,Bettencourt Meyers,Francoise,Francoise Bettencourt Meyers & family,1953-07-10,66.0,Female,France,France,Paris,Fashion & Retail,['Fashion & Retail'],,,False,Decreased
+2020,4,16,48.0,Bloomberg,Michael,Michael Bloomberg,1942-02-14,78.0,Male,United States,United States,New York,Media & Entertainment,['Media & Entertainment'],Bloomberg L.P.,CEO,True,Decreased
+2020,4,17,38.8,Ma,Jack,Jack Ma,1964-09-10,55.0,Male,China,China,Hangzhou,Technology,['Technology'],Alibaba Group,Founder and Executive Chairman,True,Increased
+2020,4,18,38.2,Koch,Charles,Charles Koch,1935-11-01,84.0,Male,United States,United States,Wichita,Diversified,['Diversified'],Koch Industries,CEO,False,Decreased
+2020,4,18,38.2,Koch,Julia,Julia Koch & family,1962-04-12,57.0,Female,United States,United States,New York,Diversified,['Diversified'],,,False,
+2020,4,20,38.1,Ma,Huateng,Ma Huateng,1971-10-29,48.0,Male,China,China,Shenzhen,Technology,['Technology'],Tencent Holdings,Chairman and CEO,True,Decreased

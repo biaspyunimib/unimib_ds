@@ -1,0 +1,864 @@
+ingrediente,price_max,price_min
+"""Acciughe sottolio",49.83,49.08
+"""Acciughe sottolio filetti",47.6,38.4
+"""Burrata (4 da 125 g luna)",20.72,13.52
+"""Cosciotto dagnello",3.99,3.99
+"""Filetto di salmone da 200 g luno",74.5,17.45
+"""Peperoncini Jalapeno sottaceto",13.93,13.93
+"""Peperoni sottolio arrosto",49.75,6.9
+"""Petto danatra",29.83,10.68
+"""Piadine Sfogliatissime allOlio EVO",12.5,3.65
+"""Piadine Sfogliatissime allolio EVO",12.5,3.65
+"""Piadine sfogliatissime allolio EVO",12.5,3.65
+"""Pomodori secchi sottolio",14.32,10.32
+"""Pomodori secchi sottolio (non sgocciolati)",14.32,10.32
+"""Pomodori secchi sottolio (peso sgocciolati)",14.32,10.32
+"""Primosale (da 190 g luno)",17.63,13.61
+"""Scorza darancia",19.5,19.5
+"""Scorza darancia grattugiata",19.5,19.5
+"""Senape di Digione allancienne",12.79,12.79
+"""Succo darancia",51.5,1.79
+"""Tonno sottolio",162.5,11.14
+"""Tonno sottolio al",162.5,11.14
+"""Tonno sottolio con limone e pepe",23.77,23.77
+"""Tonno sottolio extravergine doliva sgocciolato",162.5,11.14
+"""Tonno sottolio filetti",55.47,55.47
+"""Tonno sottolio sgocciolato",162.5,11.14
+"""Vacherin Mont dOr forma intera",32.12,9.16
+"""Zenzero sottaceto",71.07,5.56
+Aceto balsamico,41.2,3.98
+Aceto balsamico di,41.2,3.98
+Aceto di lamponi,31.84,6.22
+Aceto di mele,4.18,2.3
+Aceto di riso,4.18,0.69
+Aceto di sidro,0.69,0.69
+Aceto di vino bianco,3.18,0.85
+Aceto di vino bianco cucchiai,3.18,0.85
+Acqua,2.78,0.11
+Acqua (a temperatura ambiente),2.78,0.11
+Acqua (ghiacciata),2.78,0.11
+Acqua a temperatura ambiente,2.78,0.11
+Acqua calda,7.12,7.12
+Acqua circa,2.78,0.11
+Acqua facoltativa,2.78,0.11
+Acqua fredda,2.78,0.11
+Acqua tiepida,2.78,0.11
+Aglio,70.0,13.52
+Aglio in polvere,33.17,33.17
+Aglio orsino,70.0,7.32
+Aglio rosso,31.58,7.32
+Agnello polpa,19.49,2.49
+Albumi,,
+Alga Wakame,106.25,106.25
+Alga kombu,,
+Alga nori,56.9,56.9
+Alga nori (da 19x21),56.9,56.9
+Alloro,136.11,33.33
+Amido di mais (maizena),4.36,3.96
+Anacardi,23.2,23.2
+Anacardi (tostati),23.2,23.2
+Anacardi tritati,33.33,12.96
+Aneto,23.47,23.47
+Anice stellato,8.99,5.38
+Appenzeller,,
+Arachidi,14.66,14.66
+Arachidi in granella,22.9,8.29
+Arachidi salate tostate,33.0,16.43
+Aragosta 4,,
+Arance,33.8,2.12
+Arance (pelate),33.8,2.12
+Arance bionde,3.99,3.99
+Asiago,15.69,9.85
+Asiago grattugiato,31.67,12.9
+Asparagi,20.76,5.56
+Astice (congelato già cotto),,
+Avocado,12.6,12.6
+Avocado (maturi),12.6,12.6
+Avocado grossi e maturi,3.3,1.9
+Avocado hass,13.73,9.9
+Avocado maturo,13.73,9.92
+Baccalà sotto sale,15.0,15.0
+Bacche di Goji,90.45,7.78
+Bacche di ginepro,90.45,90.45
+Bacon,22.27,11.07
+Bacon a fette,37.9,14.97
+Bacon affumicato,20.52,20.52
+Baguette,18.95,3.0
+Barbabietole,3.7,3.7
+Barbabietole (circa 1 intera),3.7,3.7
+Barbabietole precotte,7.47,7.47
+Barbabietole precotte (già pelate),7.47,7.47
+Basilico,132.67,2.0
+Basilico (1 foglia grande),132.67,2.0
+Berberè,,
+Bicarbonato,3.93,1.98
+Biete,,
+Bietole,,
+Bietole (fresche),,
+Bietole già pulite,24.9,24.9
+Birra chiara,2.98,2.98
+Birra chiara fredda,2.98,2.98
+Birra rossa,6.03,3.12
+Birra rossa fredda,6.03,3.12
+Birra scura,7.45,1.64
+Birra scura (tipo trappista),7.45,1.64
+Brandy,14.13,8.56
+Branzino (spigola) abbattuto,21.9,21.9
+Brie,17.95,10.45
+Broccoletti,5.18,2.96
+Broccoli romaneschi,18.06,2.54
+Brodo di carne,27.92,2.29
+Brodo di pollo,27.92,2.29
+Brodo vegetale,15.8,9.27
+Bulgur,14.39,14.39
+Bulgur (a grana fine),14.39,14.39
+Burrata,20.72,13.52
+Burrata piccole,20.72,13.52
+Burro,16.4,7.98
+Burro (freddo di frigo),16.4,5.97
+Burro chiarificato,15.96,15.96
+Burro di arachidi,19.19,14.66
+Burro fuso,27.92,5.97
+Burro morbido,14.6,14.6
+Burro noci,27.92,5.97
+Cachi mela,21.59,1.65
+Caciocavallo,18.5,14.89
+Cajun,,
+Cajun mix di spezie,40.61,3.16
+Cannella in polvere,199.0,199.0
+Cannella in stecche,78.33,5.16
+Capperi,47.8,13.95
+Capperi sotto sale,14.23,14.23
+Capperi sotto sale dissalati,14.23,14.23
+Caprino,20.94,20.94
+Capriolo polpa,19.49,2.49
+Carciofi (da pulire),22.68,12.97
+Carciofi mammole da pulire,23.36,12.96
+Cardamomo,,
+Carne bovina (spalla di manzo) tritata,49.83,10.45
+Carne bovina macinata,49.83,8.99
+Carne di suino macinata,8.99,8.99
+Carote,1.0,1.0
+Carote baby,6.4,6.4
+Cavoletti di Bruxelles,8.05,3.76
+Cavolfiore,19.42,2.35
+Cavolo cappuccio,3.99,3.99
+Cavolo cappuccio rosso,3.99,3.99
+Cavolo nero,42.71,6.8
+Cavolo riccio (Kale),19.42,19.42
+Cavolo rosso,22.58,3.08
+Ceci precotti,20.69,3.7
+Ceci precotti (peso sgocciolato),7.6,3.7
+Ceci secchi,20.69,3.7
+Cetrioli,13.18,1.85
+Cetrioli (o carota a bastoncini sottili),17.03,1.85
+Cetriolini sottaceto,9.17,7.87
+Cetriolini sottaceto grandi,16.9,4.19
+Champagne,,
+Cheddar,28.57,9.9
+Chicchi di mais giallo in scatola,47.33,3.79
+Chiodi di garofano,79.6,79.6
+Chorizo,,
+Chorizo fresco,,
+Cicale di mare,10.98,10.98
+Cicorino,,
+Cime di rapa,12.27,1.98
+Cime di rapa (da pulire),12.27,1.98
+Cipolle,2.33,2.33
+Cipolle bianche,,
+Cipolle bianche (tritata),3.25,3.25
+Cipolle bianche piccola,3.25,3.25
+Cipolle dorate,42.25,2.33
+Cipolle ramate,27.07,2.07
+Cipolle rosse,3.96,2.07
+Cipolle rosse di Tropea,3.96,2.07
+Cipolle rosse dolci,3.96,2.07
+Cipolle rosse grossa,3.96,2.07
+Cipolle secca,71.6,3.99
+Cipollotti,5.0,5.0
+Cipollotti 3 già puliti,29.63,29.63
+Cipollotti la parte verde,77.0,0.53
+Cipollotti rossi,5.0,5.0
+Cipollotto fresco,7.36,7.36
+Cipollotto fresco (la parte verde),7.36,7.36
+Cipollotto fresco la parte verde,77.0,0.53
+Cipollotto fresco piccoli,25.2,3.99
+Cocomero (anguria) polpa,2.59,2.59
+Coda di rospo pulita,45.45,39.6
+Concentrato di pomodoro,10.56,7.31
+Controfiletto di manzo,34.92,12.5
+Coppa di maiale,48.17,7.22
+Coriandolo,33.33,33.33
+Coriandolo (fresco),33.33,33.33
+Coriandolo fresco,33.33,33.33
+Corn flakes,8.33,4.38
+Cosce di pollo (circa 700 g),15.0,15.0
+Costine di maiale,9.0,7.99
+Cotechino Modena precotto,13.98,13.98
+Cotechino precotto,6.38,6.38
+Cous cous,19.5,2.38
+Cous cous Integrale,19.5,2.38
+Cous cous Semola Oro,18.14,2.38
+Cozze,16.76,4.99
+Crescenza,17.5,10.24
+Culatello a fette,74.9,74.9
+Cumino,,
+Cumino in polvere,23.22,14.67
+Curcuma in polvere,67.25,7.62
+Curry,78.33,23.8
+Curry thai verde,26.45,26.45
+Daikon,,
+Edamame,17.31,17.31
+Edamame surgelati,19.97,3.19
+Edamer,25.0,25.0
+Edamer (a fette),25.0,25.0
+Edamer (da cui ottenere 2 fette),25.0,25.0
+Edamer da grattugiare,25.0,25.0
+Emmentaler 8 fette,19.49,19.49
+Emmentaler a fette,19.49,19.49
+Emmentaler da grattugiare,19.49,19.49
+Erba cipollina,199.17,33.33
+Erba cipollina tritata,199.17,33.33
+Erbette,10.83,3.96
+Erbette (da pulire),10.83,3.96
+Fagioli bianchi secchi,2.04,2.04
+Fagioli borlotti precotti,4.36,4.36
+Fagioli borlotti secchi,4.36,4.36
+Fagioli cannellini precotti,5.31,4.5
+Fagioli cannellini precotti (peso sgocciolato),5.31,4.5
+Fagioli neri precotti,7.16,7.16
+Fagioli rossi precotti (già scolati),7.07,7.07
+Fagioli rossi secchi,7.07,7.07
+Fagiolini,14.16,2.84
+Fagiolini piattoni,14.16,2.84
+Farina,16.58,1.25
+Farina 0,16.58,1.25
+Farina 00,0.66,0.55
+Farina 00 + q.b. per la spianatoia,0.66,0.55
+Farina Manitoba,2.75,2.75
+Farina di ceci,20.69,3.7
+Farina di grano duro,12.5,1.45
+Farina di grano saraceno,21.5,3.27
+Farina di mais a cottura istantanea,3.44,3.44
+Farina di mais bianco precotto,5.29,5.29
+Farina di mais bramata,5.29,1.75
+Farina di mais fioretto,5.29,3.44
+Farina di mais integrale per polenta istantanea,1.75,1.75
+Farina di mais per polenta,5.29,3.44
+Farina di riso,16.58,1.25
+Farina integrale,27.0,1.59
+Farina istantanea per polenta,1.75,1.75
+Farina istantanea per polenta taragna,2.25,2.25
+Farro,23.12,2.19
+Farro perlato,8.27,3.7
+Farro precotto,23.12,2.19
+Fave,7.51,3.71
+Fave (da sgranare),7.51,3.71
+Fave sgranate,8.27,3.71
+Fave sgranate e sbucciate,8.27,3.71
+Fesa di tacchino,34.9,6.9
+Feta,19.39,16.5
+Feta da sbriciolare,16.5,16.5
+Fettine di manzo (2 fette),22.0,9.92
+Fettine di manzo spesse circa un centimetro,22.0,9.92
+Fichi,33.8,6.03
+Fieno greco semi,9.27,3.96
+Filetti di tonno,55.47,7.99
+Filetto di manzo,39.0,9.92
+Filetto di merluzzo,31.19,31.19
+Filetto di salmone,50.8,9.92
+Filetto di salmone grigliato,50.8,29.9
+Filoncini di pane,15.56,3.96
+Filoncini di pane (2 panini),15.56,3.96
+Filoncini di pane (tipo francesino),15.56,3.96
+Finocchietto selvatico,,
+Fiordilatte,13.96,5.58
+Fiori di zucca,39.09,10.58
+Fiori di zucca (da pulire),39.09,10.58
+Foglie di bambù secche,165.83,46.9
+Fontina,20.49,20.49
+Formaggio,26.9,3.93
+Formaggio comté,26.9,3.93
+Formaggio fresco spalmabile,20.62,9.66
+Formaggio puzzone,26.9,3.93
+Fragole,4.89,4.89
+Friggitelli,5.66,5.66
+Fumetto di pesce,69.75,6.64
+Funghi champignon,7.83,3.98
+Funghi champignon (da pulire),7.83,3.98
+Funghi finferli (gallinacci),203.33,3.98
+Funghi orecchioni o ostrica (Pleurotus),203.33,3.98
+Funghi porcini,203.33,6.63
+Funghi portobello ( del diametro di circa 8 cm),203.33,3.98
+Fusi di pollo,6.49,3.99
+Fusi di pollo (6 pezzi),6.49,3.99
+Gallinella pulita,17.9,12.9
+Gamberetti,47.92,27.92
+Gamberi,23.89,6.82
+Gamberi (da pulire),23.89,6.82
+Gamberi gamberetti,47.92,12.51
+Gamberi interi,19.88,19.88
+Gamberi le code,29.16,29.16
+Garam Masala,19.45,19.45
+Germogli di ravanello,11.67,7.17
+Germogli di soia,11.67,7.17
+Gherigli di noci,37.5,2.28
+Ghiaccio,1.48,1.48
+Glassa di aceto balsamico,27.16,3.98
+Gorgonzola,22.5,9.97
+Gorgonzola dolce cremoso,35.38,35.38
+Gorgonzola piccante,22.5,9.97
+Grana Padano DOP,27.53,12.45
+Grana Padano DOP (da grattugiare),27.53,12.45
+Grana Padano DOP Riserva oltre 20 mesi,21.96,21.96
+Grana Padano DOP da grattugiare,27.53,12.45
+Granella di nocciole,53.0,5.38
+Grissini,22.04,1.5
+Groviera,,
+IGP,49.9,1.9
+Indivia belga,7.87,2.56
+Insalata,13.52,13.52
+Insalata Batavia,33.33,2.36
+Insalata batavia,33.33,2.36
+Insalata mista,9.9,1.9
+Insalata misticanza,16.9,16.9
+Insalata trocadero,2.24,2.24
+Ketchup,74.17,3.89
+Lamponi,31.84,6.22
+Lampredotto,,
+Lardo,35.57,25.56
+Lardo di Colonnata,25.56,25.56
+Latte,29.84,14.76
+Latte (caldo),29.84,14.76
+Latte (tiepido),29.84,14.76
+Latte di cocco,11.93,2.28
+Latte di cocco intero,,
+Latte intero,4.58,0.99
+Latte intero (a temperatura ambiente),4.58,0.99
+Lattuga,2.16,1.84
+Lattuga baby,4.03,1.95
+Lattuga iceberg,6.72,2.16
+Lattuga iceberg a julienne,5.5,5.5
+Lattuga iceberg piccolo cespo,2.16,1.84
+Lattuga lollo,2.16,1.84
+Lattuga qualche,2.16,1.84
+Lemongrass,2.23,1.35
+Lemongrass (citronella),2.23,1.35
+Lenticchie rosse decorticate,5.18,5.18
+Lenticchie secche,10.93,3.7
+Lievito di birra fresco,50.0,7.8
+Lievito di birra secco,50.0,45.0
+Lievito di birra secco (o 11 g se fresco),50.0,45.0
+Lievito di birra secco (o fresco 11 g),50.0,45.0
+Lievito istantaneo per preparazioni salate,23.33,23.33
+"Lievito istantaneo per preparazioni salate 3,8",23.33,23.33
+Lime,44.91,4.5
+Lime (Kaffir lime),5.93,5.93
+Lime (il succo e la scorza),44.91,4.5
+Lime il succo e la scorza,44.91,4.5
+Limoni,15.0,2.0
+Limoni di Sorrento,14.98,2.0
+Lonza di maiale,34.9,7.79
+Luganega,11.11,9.99
+Maggiorana,254.44,199.0
+Maggiorana secca,71.6,3.99
+Maionese,115.83,3.98
+Maionese (o ketchup),115.83,3.98
+Mais,8.75,2.77
+Malto,7.05,3.56
+Mandorle,56.25,3.84
+Mandorle in scaglie,9.62,9.62
+Mandorle pelate,75.0,10.96
+Mango,30.69,1.35
+Manzo (punta di petto),34.92,8.48
+Manzo (straccetti di bovino adulto),34.92,8.48
+Manzo macinato,34.92,8.48
+Manzo punta di petto,57.0,42.38
+Manzo roast beef a fette,24.91,24.0
+Manzo scamone,34.92,12.5
+Manzo tritato,25.8,25.8
+Mascarpone,15.16,6.69
+Melanzane,21.39,1.98
+Melanzane (circa 1),21.39,1.98
+Melanzane lunga,,
+Melanzane lunghe,17.27,1.98
+Melanzane tonde,4.24,2.35
+Mele Evelina (circa 2),2.76,2.76
+Mele Golden,26.39,0.98
+Mele Granny Smith,2.18,2.18
+Mele verdi,15.9,6.18
+Menta,33.33,2.0
+Menta qualche,33.33,2.0
+Miele,25.16,5.48
+Miele di acacia,15.38,6.71
+Miele millefiori,10.38,5.98
+Mix di farine senza glutine (mix universale),1.69,1.69
+Mix di pepi in grani,40.61,3.16
+Moscardini puliti,7.6,7.6
+Mozzarella,35.45,6.3
+Mozzarella (affumicata),35.45,6.3
+Mozzarella di bufala,19.6,12.3
+Mozzarella per pizza,8.98,7.48
+Mozzarelline ciliegine,11.96,11.96
+Nasello (filetto pulito),25.96,13.98
+Nduja,26.61,26.61
+Nocciole intere spellate,16.61,13.9
+Noce moscata,78.33,11.96
+Noce moscata (da grattugiare),78.33,11.96
+Noce moscata da grattugiare,78.33,56.86
+Noci,37.5,2.28
+Noodles,28.08,7.0
+Noodles di grano tenero,1.39,1.39
+Noodles di riso,28.08,7.0
+Olio di oliva,66.56,5.17
+Olio di semi,29.0,1.79
+Olio di semi (per friggere),35.95,1.79
+Olio di semi di arachide,4.79,1.79
+Olio di semi di arachide per friggere,4.79,3.29
+Olio di semi di girasole,10.85,1.79
+Olio di semi di girasole alto oleico,26.5,1.79
+Olio di semi di girasole per friggere,21.9,1.79
+Olio di semi di mais,9.73,1.79
+Olio di semi per friggere,2.29,1.79
+Olio di semi per friggere le melanzane,1.99,1.99
+Olio di sesamo,9.97,7.69
+Olio extravergine di oliva,12.25,9.39
+Olio extravergine di oliva biologico non filtrato,15.87,9.89
+Olio extravergine di oliva circa,12.25,12.25
+Olive leccino,14.6,14.6
+Olive nere,28.85,3.98
+Olive nere (denocciolate),28.85,3.98
+Olive nere denocciolate,22.89,15.31
+Olive nere greche,11.9,10.9
+Olive nere greche denocciolate,22.89,15.31
+Olive taggiasche,25.87,25.87
+Olive taggiasche (denocciolate),25.87,25.87
+Olive taggiasche denocciolate,31.47,16.58
+Olive verdi denocciolate,22.38,7.0
+Origano,199.17,58.63
+Origano fresco,199.17,58.63
+Origano secco,199.17,58.63
+Ossibuchi di tacchino (quattro),13.98,13.98
+Pan brioche (tipo Hokkaido),22.46,2.27
+Pancarrè,,
+Pancarrè ai cereali,7.86,7.86
+Pancetta,40.0,5.98
+Pancetta affumicata,40.0,9.9
+Pancetta affumicata a cubetti,24.94,9.95
+Pane,7.63,7.63
+Pane (panini tipo michetta),7.63,7.63
+Pane (sfilatino),7.63,7.63
+Pane (tipo sfilatino da 20/22 cm),7.63,7.63
+Pane ai 3 farri,21.16,6.18
+Pane ai cereali,7.87,3.56
+Pane arabo,15.56,3.96
+Pane bianco in cassetta,8.97,5.5
+Pane casereccio,17.08,17.08
+Pane casereccio (1 filone intero),17.08,17.08
+Pane casereccio (1 pagnotta tipo pugliese),17.08,17.08
+Pane grattugiato,27.53,2.18
+Pane integrale in cassetta,5.5,5.5
+Pane integrale multi-cereali,10.83,10.83
+Pane integrale raffermo,5.5,5.5
+Pane macinato grossolanamente,15.56,3.96
+Pane raffermo ai cereali,7.86,7.86
+Pane raffermo mollica,15.56,3.96
+Pane raffermo soltanto la mollica,,
+Pane rustico,8.97,4.18
+Pane senza glutine (con lievito madre),24.4,1.4
+Pane senza glutine (mini baguette),24.4,1.4
+Pane senza glutine ai cereali,8.95,5.83
+Pane senza glutine bianco,11.88,5.16
+"Pane tipo ""francesino""",1.75,0.99
+Pane toscano,21.5,21.5
+Pangrattato,11.96,3.23
+Pangrattato (per la panatura),11.96,3.23
+Pangrattato per impanare,11.96,11.96
+Panini (tartarughe),8.3,3.23
+Panini (tipo michette),8.3,3.23
+Panini ai cereali,7.87,7.86
+Panini ai cereali con semi,7.87,7.86
+Panini ai cereali piccoli,8.95,5.83
+Panini da hamburger,7.0,3.63
+Panini da hamburger (con semi),26.6,3.63
+Panini da hamburger ai cereali,7.86,5.63
+Panini da hamburger con i semi,7.0,5.63
+Panini da hamburger con semi,7.0,5.63
+Panini da hot dog,7.16,3.96
+Panini da hot dog (New England hot dog bun),7.16,3.96
+Panini di grano duro,12.5,1.45
+Panini di grano duro (tipo tartaruga),12.5,1.45
+Panini integrali,16.6,1.78
+Panini michette,7.16,5.63
+Panko,,
+Panna acida,13.0,7.17
+Panna fresca liquida,11.4,6.38
+Paprika,70.0,70.0
+Paprika affumicata,70.0,9.78
+Paprika dolce,70.0,49.75
+Paprika forte,78.77,2.98
+Paprika piccante,70.0,9.78
+Parmigiano Reggiano DOP,45.67,0.99
+Parmigiano Reggiano DOP (da grattugiare),45.67,0.99
+Parmigiano Reggiano DOP da grattugiare,26.76,0.99
+Parmigiano Reggiano DOP grattugiato,31.67,0.99
+Parmigiano Reggiano DOP stagionato 24 mesi,26.63,19.9
+Passata di pomodoro,3.67,1.27
+Patate,18.32,0.99
+Patate (1 grande),18.32,0.99
+Patate fritte congelate,3.83,3.83
+Patate medie,18.32,0.99
+Patate novelle,1.97,1.97
+Patate piccole,5.62,5.62
+Patate rosse,3.5,3.5
+Patate rosse (grandi),3.5,3.5
+Patate tutte della stessa grandezza,21.56,21.56
+Pecorino da grattugiare,25.49,19.9
+Pecorino di fossa,25.49,19.9
+Pecorino grattugiato,31.5,2.18
+Pecorino media stagionatura,25.49,19.9
+Pecorino romano,31.5,15.16
+Pecorino romano DOP,26.36,22.9
+Pecorino romano da grattugiare,26.36,22.9
+Pecorino romano grattugiato,31.5,22.9
+Pecorino romano in scaglie,26.36,22.9
+Pecorino toscano semi stagionato,29.83,17.9
+Pepe,283.33,7.25
+Pepe bianco,,
+Pepe di Caienna,283.33,14.76
+Pepe giamaicano in grani,283.33,14.76
+Pepe nero,81.17,14.32
+Pepe nero (facoltativo),81.17,14.32
+Pepe nero in grani,81.17,14.32
+Pepe nero macinato al momento,81.17,14.32
+Pepe rosa,129.55,0.12
+Pepe rosa in grani,129.55,0.12
+Peperoncino,90.45,4.0
+Peperoncino fresco,90.45,42.71
+"Peperoncino fresco ( varietà molto piccante, Aji amarillo)",90.45,4.0
+Peperoncino fresco dolce,14.15,14.15
+Peperoncino fresco lungo,71.93,1.89
+Peperoncino fresco piccoli,25.2,3.99
+Peperoncino fresco rosso,22.58,3.08
+Peperoncino in polvere,23.22,14.67
+Peperoncino privato dai semi,90.45,4.0
+Peperoncino secco,13.2,13.2
+Peperoncino secco piccoli,25.2,3.99
+Peperoncino secco piccolo,90.45,4.0
+Peperoncino verde piccante,,
+Peperoni,18.76,2.98
+Peperoni (rossi e gialli),18.76,2.98
+Peperoni gialli,3.45,3.45
+Peperoni misti,33.33,9.83
+Peperoni rossi,3.45,0.98
+Peperoni rossi medio,3.45,3.45
+"Peperoni rossi, gialli e verdi",3.45,3.45
+Peperoni verdi,15.9,6.18
+Pesce del prete pulito,19.9,19.9
+Pesce spada,69.0,21.98
+Petto di pollo,29.83,11.0
+Petto di pollo (100% italiano),29.83,11.0
+Petto di pollo 100% italiano,43.9,4.31
+Petto di pollo intero,43.9,9.96
+Petto di tacchino arrosto,39.08,10.68
+Piadine,8.71,6.38
+Piadine (da circa 24 cm di diametro),8.71,6.38
+Piadine Arrotolabili,12.5,3.65
+Piadine Romagnole IGP alla riminese,9.97,3.65
+Piadine Sfogliatissime,12.5,3.65
+Piadine arrotolabili sofficissime,12.5,3.65
+Piadine integrali,16.6,1.78
+Piadine integrali ( da 50 gr ciascuna),16.6,1.78
+Piadine senza strutto (diametro 28 cm),7.96,7.96
+Piadine sfogliatissime,12.5,3.65
+Piadine sfogliatissime classiche,16.98,3.42
+Pinoli,112.14,74.8
+Piselli secchi,11.0,1.79
+Piselli surgelati,11.0,1.79
+Pisellini,8.56,4.7
+Pisellini (da sgranare),8.56,4.7
+Pisellini sgranati,8.56,4.7
+Pisellini sgranati da 400 g di baccelli,19.38,2.36
+Pistacchi,34.17,14.32
+Pistacchi non salati non tostati,7.94,2.68
+Pistacchi sgusciati,46.86,11.38
+Pita,,
+Pollo (fettine),20.79,20.79
+Pollo arrosto,49.75,9.49
+Pollo intero (eviscerato),4.58,0.99
+Polpa di pomodoro,35.45,0.01
+Polpo,87.38,19.9
+Polpo (da 600 g),87.38,19.9
+Polpo (fresco),87.38,19.9
+Polpo già lessato,87.38,19.9
+Pomodori,6.96,6.96
+Pomodori San Marzano,5.73,5.73
+Pomodori cuore di bue,4.56,4.56
+Pomodori datterini pelati,5.38,5.38
+Pomodori gialli campani freschi,18.69,5.78
+Pomodori marinda,6.96,6.96
+Pomodori pelati (peso da sgocciolati),5.38,5.38
+Pomodori perini,6.96,6.96
+Pomodori piccadilly,4.96,4.96
+Pomodori piccadilly maturi,4.96,4.96
+Pomodori ramati,6.96,6.96
+Pomodori ramati (1 medio),6.96,6.96
+Pomodori sardi (camone),3.58,3.58
+Pomodori secchi,15.5,10.32
+Pomodorini,12.88,12.88
+"Pomodorini (rossi, verdi, gialli)",12.88,12.88
+Pomodorini ciliegino,8.5,8.5
+Pomodorini colorati,7.6,7.6
+Pomodorini datterini,14.14,8.9
+Pomodorini datterini rossi verdi e gialli,8.9,8.9
+Pomodorini gialli,3.45,3.45
+Pomodorini secchi sottolio,12.88,8.5
+Porri,5.0,2.38
+Porri la parte verde,5.0,2.38
+Prezzemolo,647.5,19.8
+Prezzemolo (da tritare),647.5,19.8
+Prezzemolo (le foglie),647.5,19.8
+Prezzemolo (tritato),647.5,19.8
+Prezzemolo da tritare,647.5,19.8
+Prezzemolo riccio,647.5,19.8
+Prezzemolo tritato,25.8,19.8
+Primosale,17.63,13.61
+Prosciutto cotto,69.9,4.9
+Prosciutto cotto (2 fette spesse),69.9,4.9
+Prosciutto cotto (a fette),69.9,4.9
+Prosciutto cotto (arrosto),69.9,4.9
+Prosciutto cotto a cubetti,53.55,4.9
+Prosciutto cotto alle erbe,41.84,6.41
+Prosciutto cotto in un unica fetta,53.55,4.9
+Prosciutto cotto pezzo intero,53.55,4.9
+Prosciutto cotto una fetta spessa di spalla,53.55,4.9
+Prosciutto crudo,73.75,3.38
+Prosciutto crudo di Parma,73.75,3.38
+Provola,20.0,8.14
+Provola affumicata,20.0,10.5
+Provolone,25.0,9.92
+Provolone Valpadana DOP (a fette),14.36,14.36
+Provolone piccante,25.0,9.92
+Puccia salentina,5.17,5.17
+Quinoa,19.93,9.26
+Quinoa (già cotta seguendo indicazioni sulla confezione),19.93,9.26
+Quinoa rossa,9.26,9.26
+Quinoa tricolore,6.38,4.96
+Radicchio,17.72,2.86
+Radicchio lungo,71.93,1.89
+Radicchio qualche,17.72,15.4
+Rana pescatrice pulita,22.33,3.9
+Ravanelli,6.4,6.4
+Reblochon forma intera,23.33,23.33
+Ribes,39.84,7.62
+Ricotta vaccina,14.5,3.09
+Riso,26.4,1.65
+Riso Arborio,4.25,2.95
+Riso Basmati,7.38,3.98
+Riso Bomba,26.4,1.65
+Riso Carnaroli,5.49,3.69
+Riso Ribe,5.98,2.49
+Riso a chicco lungo (tipo Basmati),1.89,1.89
+Riso a chicco tondo,3.73,1.69
+Riso glutinoso,21.86,21.86
+Riso integrale,16.13,1.59
+Riso nero Venere,7.18,7.18
+Riso nishiki (per sushi cotto),26.4,1.65
+Riso per insalata,13.52,13.52
+Riso per sushi,42.62,14.97
+Riso per sushi cotto,42.62,14.97
+Riso pilaf,26.4,1.65
+Riso rosso,22.58,3.08
+Riso vialone nano,3.99,3.99
+Robiola,26.9,10.95
+Roquefort,30.0,30.0
+Rosmarino,163.33,2.0
+Rosmarino qualche,33.33,2.0
+Rucola,23.16,9.9
+Rum,68.43,9.99
+Sake,,
+Salame,49.88,10.6
+Salame di Milano (per ciascun panino),36.67,9.9
+Salame napoletano,14.36,14.36
+Sale,38.38,2.58
+Sale delle Hawaii rosso,22.58,3.08
+Sale di maldon,56.25,0.29
+Sale fino,4.6,0.29
+Sale grosso,0.89,0.29
+Sale grosso (per le cipolle),0.89,0.29
+Salmone,79.0,13.93
+Salmone abbattuto,90.53,10.6
+Salmone affumicato,95.87,15.16
+Salsa Worcestershire,25.93,25.93
+Salsa barbecue,11.73,6.48
+Salsa barbecue veg,11.15,6.48
+Salsa cocktail,15.36,0.88
+Salsa di soia,21.57,19.93
+Salsa di soia (o di pesce Thai),21.57,19.93
+Salsa di soia chiara,21.57,19.93
+Salsa di soia scura,21.57,19.93
+Salsa piccante,49.17,12.36
+Salsa ponzu,59.88,3.69
+Salsa sriracha,18.09,18.09
+Salsa teriyaki,15.96,10.82
+Salsa verde,77.0,0.53
+Salsiccia,25.0,7.99
+Salsiccia di maiale,25.0,7.99
+Salvia,165.83,2.0
+Sarde (da pulire),,
+Scalogno,9.37,6.32
+Scalogno (piccolo),9.37,6.32
+Scalogno piccolo,9.37,6.32
+Scamorza (provola),19.92,9.16
+Scamorza (provola) a fette,28.57,2.94
+Scamorza (provola) dolce,19.92,9.16
+Scamorza (provola) fettine sottili,23.63,5.7
+Scamorza affumicata,19.92,9.16
+Scamorza affumicata a,39.9,9.16
+Scamorza affumicata sottili,19.92,9.16
+Scampi interi,33.98,26.9
+Scorfano intero,4.58,0.99
+Scorza di lime,5.93,5.93
+Scorza di limone,3.5,3.5
+Scorza di limone (da grattugiare),139.0,0.53
+Scorza di limone da grattugiare,2.6,2.6
+Scorze di fave,29.86,29.86
+Sedano,7.48,1.55
+Sedano con le foglie,7.48,2.58
+Semi di coriandolo,33.33,33.33
+Semi di cumino,71.14,4.0
+Semi di lino,14.2,4.18
+Semi di papavero,4.97,4.97
+Semi di sesamo,34.9,26.58
+Semi di sesamo misti,34.9,10.66
+Semi di sesamo nero,34.9,10.66
+Semi di zucca,32.0,11.8
+Semola,6.91,2.09
+Semola di grano duro,6.5,1.39
+Semola di grano duro rimacinata,1.9,1.39
+Senape,17.78,6.6
+Senape allantica,16.43,6.6
+Senape antica,16.43,12.32
+Senape di Digione in grani,12.79,12.79
+Senape gialla,16.43,6.6
+Senape in grani,17.78,6.6
+Senape scarso,16.43,6.6
+Seppie pulite,24.9,17.48
+Shiso,,
+Songino,14.29,9.9
+Soppressata,,
+Sovracosce di pollo,6.5,3.99
+Speck,47.67,7.32
+Speck senza glutine,24.4,1.4
+Spinaci,22.17,1.99
+Spinaci freschi,22.17,1.99
+Spinacini,,
+Squacquerone,14.25,10.63
+Stracchino,19.33,7.16
+Stracciatella,20.79,5.58
+Stracciatella (a temperatura ambiente),20.79,5.58
+Stracciatella (peso sgocciolata),20.79,5.58
+Strutto,7.96,7.96
+Succo di lime,8.36,5.93
+Succo di limone,11.25,5.58
+Succo di limone goccia,6.18,6.18
+Succo di mandarino,9.11,9.11
+Surimi,43.33,14.95
+Tabasco,,
+Tabasco®,,
+Tagliolini alluovo freschi,14.76,3.96
+Tahina,8.42,8.42
+Taleggio,20.0,12.95
+Tartufo,66.13,10.9
+Tartufo nero,27.86,10.9
+Timo,132.67,132.67
+Timo fresco,132.67,132.67
+Timo rametti,132.67,132.67
+Timo secco,132.67,132.67
+Tofu,165.31,7.96
+Toma,20.9,20.9
+"Toma (con latte 100% italiano, 4 fettine)",20.9,20.9
+Toma piemontese,23.8,5.48
+Tomini,,
+Tonno,162.5,11.14
+Tonno (abbattuto),162.5,11.14
+Tonno (o salmone fresco a bastoncini di 1 cm),162.5,11.14
+Tonno precedentemente abbattuto,162.5,11.14
+Tortillas,16.62,7.64
+Tortillas di farina,16.62,7.64
+Tortillas di farina mini,25.46,2.59
+Tortillas di farina piccole,16.62,7.64
+Tortillas di mais,16.62,7.64
+Tortillas piccole,16.62,7.64
+Tracina pulita,17.9,12.9
+Tranci di salmone,36.32,9.37
+Triglie pulite,24.9,24.9
+"Trippa(reticolo,rumine e omaso ""centupezzi"")",9.98,7.99
+Tuorli,,
+Uova,7.86,3.98
+Uova (1 piccolo),7.86,2.86
+Uova (circa 1 medio),17.59,2.86
+Uova (circa 1),17.59,2.86
+Uova (circa 2 medie),17.59,2.86
+Uova (circa 3 medie),17.59,2.86
+Uova (circa 5),7.86,3.98
+Uova (medie),17.59,3.98
+Uova (per spennellare),17.59,2.86
+Uova bio,17.59,2.86
+Uova di lompo (succedaneo caviale) (o di,57.8,57.8
+Uova di lompo (succedaneo caviale) o di salmone o di pesce volante,57.8,57.8
+Uova freschissime,10.23,2.86
+Uova grandi biologiche,10.23,4.2
+Uova medie,7.16,3.74
+Uvetta,26.98,12.0
+Valeriana (songino),,
+Verdure miste surgelate,10.68,9.39
+Verza,0.98,0.98
+Verza già pulita,11.96,5.38
+Vino bianco,27.23,27.23
+Vino bianco secco,27.23,27.23
+Vino di riso,27.23,27.23
+Vino rosso,27.23,0.85
+Vitello copertina di spalla,39.93,8.49
+Vitello cuore,18.03,6.5
+Vitello grasso,39.93,8.49
+Vitello macinato,39.93,8.49
+Vitello milza,39.93,8.49
+Vitello pancia,39.93,8.49
+Vitello polmoni,39.93,8.49
+Vitello trachea,39.93,8.49
+Vongole,29.8,5.98
+Wasabi,69.53,69.53
+Wasabi (kizami),69.53,69.53
+Worcestershire sauce,27.4,5.52
+Wurstel,17.9,2.89
+Yogurt greco,7.94,4.99
+Yogurt magro,11.0,1.7
+Zafferano,10156.25,10.57
+Zenzero fresco,71.07,12.6
+Zenzero fresco (polpa),12.6,12.6
+Zenzero fresco 3 cm di,71.07,5.56
+Zenzero fresco 4 cm di,71.07,5.56
+Zenzero in polvere,71.07,7.92
+Zucca,25.82,1.58
+Zucca (già pulita),25.82,1.58
+Zucca da pulire,25.82,1.58
+Zucca delica,2.78,2.78
+Zucchero,13.45,1.39
+Zucchero di canna,19.18,1.89
+Zucchine,4.6,1.59
+Zucchine (3 medie),19.23,1.59
+Zucchine baby,4.03,1.95
+Zucchine bianche,3.25,3.25
+Zucchine chiare,10.68,1.59
+Zucchine piccola,10.68,1.59
+Zucchine piccole,5.62,5.62
+Zucchine tonde,10.68,1.59
+con latte 100% italiano,15.5,1.95
+macinato,,
+macinato grossolanamente,,
+macinato grossolanamente),,
+o di pesce volante),69.75,6.64
+pulito e rifilato,19.9,19.9
+pulito e rifilato),19.9,19.9
+sgocciolato,,

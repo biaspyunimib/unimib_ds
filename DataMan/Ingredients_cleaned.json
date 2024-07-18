@@ -1,0 +1,4321 @@
+[
+    {
+        "titolo": "Masala di ceci",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Ceci precotti (peso sgocciolato)": "500 g",
+            "Latte di cocco intero": "300 g",
+            "Pomodori ramati": "100 g",
+            "Cipolle bianche": "50.0 g",
+            "Aglio": "5 g",
+            "Zenzero fresco": "3 g",
+            "Peperoncino fresco": "20 g",
+            "Garam Masala": "10 g",
+            "Cumino in polvere": "10 g",
+            "Curcuma in polvere": "10 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Coriandolo": "3 g",
+            "Succo di lime": "3 g"
+        }
+    },
+    {
+        "titolo": "Bacalhau à Braz",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Baccalà sotto sale": "400 g",
+            "Patate": "500 g",
+            "Cipolle bianche": "300.0 g",
+            "Olive nere denocciolate": "3 g",
+            "Uova": "240 g",
+            "Aglio": "5 g",
+            "Prezzemolo": "5 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Olio di semi di arachide": "3 g"
+        }
+    },
+    {
+        "titolo": "Pasticcio di patate e pancetta",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate tutte della stessa grandezza": "100 g",
+            "Cipolle bianche": "400 g",
+            "Pancetta affumicata": "250 g",
+            "Asiago grattugiato": "200 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Timo": "3 g",
+            "Farina 00": "30 g",
+            "Burro": "30 g",
+            "Noce moscata da grattugiare": "3 g"
+        }
+    },
+    {
+        "titolo": "Burrito con verdure",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Tortillas di farina": "20 g",
+            "Fagioli borlotti precotti": "250 g",
+            "Mais": "140 g",
+            "Funghi champignon": "100 g",
+            "Peperoni rossi medio": "100 g",
+            "Cipolle bianche piccola": "100 g",
+            "Pomodori ramati": "100 g",
+            "Zucchine piccola": "100 g",
+            "Lattuga iceberg": "100 g",
+            "Olio extravergine di oliva": "10 g",
+            "Pepe nero": "3 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Pasticcio di pollo e patate",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate": "600 g",
+            "Pollo (non disossato e senza pelle)": "100 g",
+            "Acqua": "100 g",
+            "Alloro": "100 g",
+            "Parmigiano Reggiano DOP da grattugiare": "50 g",
+            "Uova": "60 g",
+            "Scamorza affumicata": "100 g",
+            "Rosmarino": "3 g",
+            "Scorza di limone": "10 g",
+            "Olio extravergine di oliva": "3 g",
+            "Pepe nero": "3 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Filetto di merluzzo allo zenzero",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Filetto di merluzzo": "400 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Olio extravergine di oliva": "50 g",
+            "Scorza di lime": "10 g",
+            "Succo di lime": "10 g",
+            "Zenzero fresco (polpa)": "20 g",
+            "Menta qualche": "100 g",
+            "Riso Basmati": "200 g",
+            "Latte di cocco": "400 g",
+            "Acqua": "200 g",
+            "Sale grosso": "10 g",
+            "Cannella in stecche": "10 g",
+            "Curry thai verde": "10 g"
+        }
+    },
+    {
+        "titolo": "Noodles con pollo e gamberi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Noodles": "200 g",
+            "Gamberi (da pulire)": "550 g",
+            "Petto di pollo": "200 g",
+            "Broccoletti": "100 g",
+            "Fagiolini": "100 g",
+            "Peperoni rossi": "80 g",
+            "Peperoni gialli": "80 g",
+            "Porri": "40 g",
+            "Aglio": "5 g",
+            "Peperoncino fresco": "20 g",
+            "Semi di sesamo": "10 g",
+            "Salsa di soia": "50 g",
+            "Olio di semi": "20 g",
+            "Acqua": "20 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Crescia sfogliata",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina 00 + q.b. per la spianatoia": "600 g",
+            "Uova (circa 5)": "295 g",
+            "Strutto": "150 g",
+            "Latte intero": "80 g",
+            "Sale fino": "12 g",
+            "Pepe nero macinato al momento": "6 g"
+        }
+    },
+    {
+        "titolo": "Tonno fagioli e cipolla",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Fagioli bianchi secchi": "250 g",
+            "Cipolle rosse di Tropea": "170 g",
+            "Olio extravergine di oliva": "30 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Curry verde Thai",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Peperoncino verde piccante": "70 g",
+            "Zenzero fresco 4 cm di": "10 g",
+            "Scalogno": "20 g",
+            "Sale fino": "10 g",
+            "Semi di coriandolo": "10 g",
+            "Semi di cumino": "10 g",
+            "Aglio": "5 g",
+            "Lemongrass (citronella)": "20 g",
+            "Lime (Kaffir lime)": "100 g",
+            "Manzo scamone": "400 g",
+            "Melanzane lunga": "100 g",
+            "Fagiolini": "150 g",
+            "Zenzero fresco 3 cm di": "10 g",
+            "Zucchero": "10 g",
+            "Latte di cocco": "600 g",
+            "Olio di semi di girasole": "10 g",
+            "Peperoncino fresco": "20 g",
+            "Coriandolo": "10 g",
+            "Salsa di soia (o di pesce Thai)": "10 g",
+            "Cipolle": "100 g"
+        }
+    },
+    {
+        "titolo": "Angelica salata alla birra",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina Manitoba": "400 g",
+            "Acqua tiepida": "75 g",
+            "Lievito di birra secco": "3 g",
+            "Malto": "10 g",
+            "Birra chiara": "150 g",
+            "Burro morbido": "120 g",
+            "Parmigiano Reggiano DOP da grattugiare": "75 g",
+            "Tuorli": "50 g",
+            "Sale fino": "5 g",
+            "Pomodori secchi": "100 g",
+            "Salame": "150 g",
+            "Feta": "100 g",
+            "Olive verdi denocciolate": "50 g",
+            "Olive nere denocciolate": "50 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "Chicken rolls",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo": "250 g",
+            "Piadine": "480 g",
+            "Pomodori ramati": "160 g",
+            "Lattuga": "100 g",
+            "Olio extravergine di oliva": "10 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Cavolo cappuccio": "150 g",
+            "Carote": "50 g",
+            "Cipollotto fresco": "50.0 g",
+            "Yogurt magro": "90 g",
+            "Aceto di vino bianco": "10 g",
+            "Zucchero": "10 g",
+            "Maionese": "10 g",
+            "Erba cipollina tritata": "10 g",
+            "Senape": "10 g"
+        }
+    },
+    {
+        "titolo": "Veggie burger",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Lenticchie secche": "200 g",
+            "Carote": "100 g",
+            "Pane raffermo mollica": "100 g",
+            "Uova": "60 g",
+            "Sedano": "30 g",
+            "Cipollotto fresco": "3 g",
+            "Timo": "3 g",
+            "Paprika": "3 g",
+            "Olio extravergine di oliva biologico non filtrato": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Panini da hamburger": "300 g",
+            "Provolone": "20 g",
+            "Pomodori cuore di bue": "400 g",
+            "Senape": "3 g"
+        }
+    },
+    {
+        "titolo": "Panada",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Semola di grano duro rimacinata": "750 g",
+            "Strutto": "60 g",
+            "Sale fino": "3 g",
+            "Agnello polpa": "100 g",
+            "Patate": "100 g",
+            "Aglio": "5 g",
+            "Prezzemolo": "10 g",
+            "Olio extravergine di oliva": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadine con petti di pollo e mais",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo": "500 g",
+            "Pepe nero": "10 g",
+            "Pepe bianco": "10 g",
+            "Paprika dolce": "10 g",
+            "Timo secco": "10 g",
+            "Alloro": "100 g",
+            "Aglio in polvere": "10 g",
+            "Cipolle secca": "10 g",
+            "Sale fino": "3 g",
+            "Chicchi di mais giallo in scatola": "400 g",
+            "Peperoncino fresco": "15 g",
+            "Succo di limone": "25 g",
+            "Olio extravergine di oliva": "10 g",
+            "Piadine (da circa 24 cm di diametro)": "480 g"
+        }
+    },
+    {
+        "titolo": "Quesadillas",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Tortillas di mais": "40 g",
+            "Petto di pollo": "600 g",
+            "Fontina": "400 g",
+            "Pomodori ramati": "450 g",
+            "Cipolle ramate": "400.0 g",
+            "Insalata": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Quiche di polenta",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina di mais integrale per polenta istantanea": "185 g",
+            "Acqua": "750 g",
+            "Sale grosso": "3 g",
+            "Olio extravergine di oliva circa": "40 g",
+            "Biete": "120 g",
+            "Funghi champignon": "130 g",
+            "Panna fresca liquida": "250 g",
+            "Uova (medie)": "180 g",
+            "Parmigiano Reggiano DOP (da grattugiare)": "50 g"
+        }
+    },
+    {
+        "titolo": "Veggie wrap",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine senza strutto (diametro 28 cm)": "480 g",
+            "Carote": "160 g",
+            "Cetrioli": "170 g",
+            "Zucchine": "120 g",
+            "Feta": "100 g",
+            "Insalata misticanza": "50 g",
+            "Yogurt greco": "250 g",
+            "Menta": "25 g",
+            "Aglio": "5 g",
+            "Sale fino": "8 g",
+            "Pomodorini ciliegino": "320 g",
+            "Zucchero di canna": "18 g",
+            "Timo": "4 g"
+        }
+    },
+    {
+        "titolo": "Gattò di patate con soppressata e provola affumicata",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate": "100 g",
+            "Soppressata": "250 g",
+            "Provola affumicata": "250 g",
+            "Uova (medie)": "240 g",
+            "Grana Padano DOP (da grattugiare)": "100 g",
+            "Burro": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Pangrattato": "3 g"
+        }
+    },
+    {
+        "titolo": "Bagel farcito",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Acqua a temperatura ambiente": "205 g",
+            "Farina 0": "350 g",
+            "Sale fino": "3 g",
+            "Lievito di birra secco": "4 g",
+            "Malto": "10 g",
+            "Semi di sesamo": "3 g",
+            "Manzo roast beef a fette": "70 g",
+            "Caprino": "80 g",
+            "Zucchine": "100 g",
+            "Pomodori ramati": "65 g",
+            "Lattuga baby": "50 g",
+            "Pepe nero": "3 g",
+            "Salmone affumicato": "100 g",
+            "Lattuga": "50 g",
+            "Ravanelli": "25 g",
+            "Carote": "65 g",
+            "Cetrioli": "60 g"
+        }
+    },
+    {
+        "titolo": "Nasi Goreng",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso Basmati": "250 g",
+            "Petto di pollo": "250 g",
+            "Gamberetti": "250 g",
+            "Cipolle rosse grossa": "100 g",
+            "Aglio": "5 g",
+            "Peperoncino privato dai semi": "10 g",
+            "Olio extravergine di oliva": "10 g",
+            "Olio di semi di arachide": "10 g",
+            "Paprika dolce": "10 g",
+            "Curry": "10 g",
+            "Passata di pomodoro": "150 g",
+            "Salsa di soia": "10 g",
+            "Uova medie": "120 g"
+        }
+    },
+    {
+        "titolo": "Polpette in insalata",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Ceci secchi": "150 g",
+            "Uova (1 piccolo)": "35 g",
+            "Cipollotto fresco": "80 g",
+            "Grana Padano DOP da grattugiare": "50 g",
+            "Pangrattato": "25 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Olio di semi per friggere": "100 g",
+            "Lattuga lollo": "180 g",
+            "Songino": "65 g",
+            "Pomodori cuore di bue": "370 g",
+            "Provola": "180 g",
+            "Mango": "350 g",
+            "Mandorle in scaglie": "30 g",
+            "Senape": "50 g",
+            "Olio extravergine di oliva": "20 g",
+            "Succo di limone": "30 g"
+        }
+    },
+    {
+        "titolo": "Rotolo di crespelle con zucchine",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Formaggio fresco spalmabile": "10 g",
+            "Zucchine": "300.0 g",
+            "Emmentaler da grattugiare": "100 g",
+            "Grana Padano DOP": "10 g",
+            "Uova": "120 g",
+            "Burro": "20 g",
+            "Sale": "3 g",
+            "Pepe": "3 g",
+            "Farina 00": "100 g",
+            "Latte": "10 g",
+            "Noce moscata": "3 g",
+            "Basilico": "3 g"
+        }
+    },
+    {
+        "titolo": "Jambalaya",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso a chicco lungo (tipo Basmati)": "500 g",
+            "Gamberi": "600 g",
+            "Polpa di pomodoro": "450 g",
+            "Chorizo": "100 g",
+            "Peperoni verdi": "300 g",
+            "Cipolle": "100 g",
+            "Sedano": "50 g",
+            "Olio extravergine di oliva": "40 g",
+            "Cajun mix di spezie": "10 g",
+            "Prezzemolo": "3 g",
+            "Pepe nero": "3 g",
+            "Fusi di pollo": "100 g",
+            "Acqua": "100 g",
+            "Carote": "100 g",
+            "Sale grosso": "10 g",
+            "Pepe giamaicano in grani": "10 g"
+        }
+    },
+    {
+        "titolo": "Gratin dauphinois",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Uova medie": "300 g",
+            "Groviera": "350 g",
+            "Burro": "3 g",
+            "Aglio": "5 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Noce moscata": "3 g",
+            "Patate": "100 g"
+        }
+    },
+    {
+        "titolo": "Lampredotto",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Lampredotto": "100 g",
+            "Pane (panini tipo michetta)": "80 g",
+            "Salsa verde": "3 g",
+            "Acqua": "100 g",
+            "Carote": "200.0 g",
+            "Sedano": "5 g",
+            "Cipolle dorate": "100 g",
+            "Pomodori ramati": "100 g",
+            "Passata di pomodoro": "700 g",
+            "Concentrato di pomodoro": "65 g",
+            "Basilico": "10 g",
+            "Salvia": "10 g",
+            "Menta": "5 g",
+            "Cannella in polvere": "3 g",
+            "Origano": "3 g",
+            "Sale grosso": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Sandwich cubano",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Lonza di maiale": "500 g",
+            "Limoni": "100 g",
+            "Arance": "100 g",
+            "Aglio rosso": "5 g",
+            "Coriandolo (fresco)": "15 g",
+            "Cumino": "3 g",
+            "Olio extravergine di oliva": "100 g",
+            "Sale grosso": "10 g",
+            "Pepe nero in grani": "2 g",
+            "Baguette": "500 g",
+            "Burro": "100 g",
+            "Senape gialla": "50 g",
+            "Cetriolini sottaceto grandi": "300 g",
+            "Prosciutto cotto (a fette)": "200 g",
+            "Edamer (a fette)": "200 g"
+        }
+    },
+    {
+        "titolo": "Morzello (Morzeddhu alla Catanzarisi)",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Trippa(reticolo,rumine e omaso \"centupezzi\")": "600 g",
+            "Origano": "5 g",
+            "Peperoncino fresco": "15 g",
+            "Olio extravergine di oliva": "10 g",
+            "Sale fino": "3 g",
+            "Vitello trachea": "180 g",
+            "Vitello grasso": "160 g",
+            "Vitello cuore": "400 g",
+            "Vitello polmoni": "400 g",
+            "Vitello pancia": "230 g",
+            "Vitello milza": "300 g",
+            "Concentrato di pomodoro": "400 g",
+            "Acqua": "100 g",
+            "Alloro": "100 g"
+        }
+    },
+    {
+        "titolo": "Torta di ceci",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina di ceci": "500 g",
+            "Acqua": "100 g",
+            "Sale fino": "30 g"
+        }
+    },
+    {
+        "titolo": "Capriolo in salmì con polenta di grano saraceno",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Capriolo polpa": "100 g",
+            "Cipolle": "40 g",
+            "Carote": "60 g",
+            "Sedano": "60 g",
+            "Burro": "50 g",
+            "Olio extravergine di oliva": "15 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Vino rosso": "500 g",
+            "Bacche di ginepro": "3 g",
+            "Aglio": "5 g",
+            "Salvia": "100 g",
+            "Alloro": "100 g",
+            "Rosmarino": "3 g",
+            "Finocchietto selvatico": "2 g",
+            "Chiodi di garofano": "1 g",
+            "Acqua": "100 g",
+            "Farina di mais bramata": "150 g",
+            "Farina di grano saraceno": "100 g",
+            "Sale grosso": "3 g"
+        }
+    },
+    {
+        "titolo": "Fajitas di pollo e cubetti di pancetta affumicata",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo": "700 g",
+            "Pancetta affumicata a cubetti": "100 g",
+            "Peperoni rossi": "100 g",
+            "Peperoni gialli": "100 g",
+            "Cipollotto fresco": "400.0 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Lime": "100 g",
+            "Paprika dolce": "10 g",
+            "Peperoncino in polvere": "10 g",
+            "Prezzemolo da tritare": "3 g",
+            "Tortillas": "40 g",
+            "Formaggio": "200 g",
+            "Panna acida": "3 g"
+        }
+    },
+    {
+        "titolo": "Peperoni ripieni di cous cous",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Peperoni (rossi e gialli)": "400 g",
+            "Cous cous": "125 g",
+            "Brodo vegetale": "125 g",
+            "Pomodorini ciliegino": "200 g",
+            "Scalogno (piccolo)": "20 g",
+            "Olive taggiasche (denocciolate)": "100 g",
+            "Basilico": "100 g",
+            "Feta": "100 g",
+            "Sale fino": "3 g",
+            "Pinoli": "30 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "Peperoni ripieni di ricotta, melanzane e pinoli",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Peperoni gialli": "250 g",
+            "Peperoni rossi": "250 g",
+            "Pangrattato": "20 g",
+            "Grana Padano DOP da grattugiare": "20 g",
+            "Olio extravergine di oliva": "3 g",
+            "Melanzane": "200 g",
+            "Ricotta vaccina": "250 g",
+            "Pinoli": "10 g",
+            "Capperi": "20 g",
+            "\"Acciughe sottolio filetti": "5 g",
+            "Sale": "3 g",
+            "Aglio": "5 g",
+            "Origano fresco": "5 g",
+            "Pomodori piccadilly maturi": "100 g",
+            "Pepe nero (facoltativo)": "3 g"
+        }
+    },
+    {
+        "titolo": "Parmigiana di carciofi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Carciofi mammole da pulire": "600 g",
+            "Aglio": "5 g",
+            "Sale fino": "3 g",
+            "Fiordilatte": "250 g",
+            "Scamorza (provola)": "250 g",
+            "Grana Padano DOP (da grattugiare)": "100 g"
+        }
+    },
+    {
+        "titolo": "Vegan burger di lenticchie rosse",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Lenticchie rosse decorticate": "150 g",
+            "Alga kombu": "8 g",
+            "Cipollotto fresco": "40 g",
+            "Olio extravergine di oliva": "5 g",
+            "Curry": "2 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Pane integrale raffermo": "50 g",
+            "Erba cipollina": "5 g",
+            "Avocado maturo": "120 g",
+            "Succo di limone": "8 g",
+            "Aglio": "5 g",
+            "Zucchine": "50 g",
+            "Melanzane": "40 g",
+            "Pomodori": "50 g",
+            "Basilico": "100 g",
+            "Panini ai cereali": "400 g"
+        }
+    },
+    {
+        "titolo": "Lomo saltado",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Filetto di manzo": "480 g",
+            "Pomodori ramati": "190 g",
+            "Cipolle rosse": "125 g",
+            "Peperoncino fresco ( varietà molto piccante, Aji amarillo)": "55 g",
+            "Coriandolo": "3 g",
+            "Cumino in polvere": "10 g",
+            "Aceto di vino bianco": "20 g",
+            "Cipollotto fresco (la parte verde)": "35 g",
+            "Salsa di soia": "20 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Riso Basmati": "120 g",
+            "Patate": "250 g",
+            "Olio di semi di arachide": "3 g"
+        }
+    },
+    {
+        "titolo": "Polenta e fagioli",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina di mais per polenta": "250 g",
+            "Acqua": "100 g",
+            "Olio extravergine di oliva": "30 g",
+            "Sale grosso": "3 g",
+            "Fagioli borlotti secchi": "500 g",
+            "Pomodori San Marzano": "400 g",
+            "Scalogno": "40 g",
+            "Alloro": "3 g",
+            "Rosmarino": "3 g",
+            "Origano secco": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Arepas ripiene di carne",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina di mais bianco precotto": "320 g",
+            "Acqua": "500 g",
+            "Olio di semi di mais": "10 g",
+            "Sale fino": "3 g",
+            "Manzo punta di petto": "1350 g",
+            "Cipolle": "350 g",
+            "Peperoni rossi": "350 g",
+            "Aglio": "5 g",
+            "Rum": "40 g",
+            "Olio extravergine di oliva": "10 g",
+            "Paprika affumicata": "10 g",
+            "Cumino in polvere": "10 g",
+            "Pepe nero": "10 g",
+            "Avocado": "200.0 g",
+            "Succo di lime": "10 g",
+            "Edamer da grattugiare": "120 g",
+            "Prezzemolo": "3 g"
+        }
+    },
+    {
+        "titolo": "Panzanella croccante",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane raffermo ai cereali": "120 g",
+            "Cipolle rosse di Tropea": "55 g",
+            "Zucchine bianche": "185 g",
+            "Fagiolini": "100 g",
+            "Pinoli": "30 g",
+            "Basilico": "15 g",
+            "Olio extravergine di oliva": "15 g",
+            "Aceto balsamico": "15 g",
+            "Sale fino": "3 g",
+            "Sale grosso (per le cipolle)": "10 g",
+            "Pomodorini ciliegino": "200 g",
+            "Zucchero": "3 g"
+        }
+    },
+    {
+        "titolo": "Tajine con verdure",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate novelle": "600 g",
+            "Carote baby": "250 g",
+            "Cipollotti rossi": "150 g",
+            "Fagiolini": "280 g",
+            "Fave sgranate": "200 g",
+            "Pisellini": "170 g",
+            "Peperoncino fresco": "30 g",
+            "Olio extravergine di oliva": "40 g",
+            "Berberè": "10 g",
+            "Aglio": "5 g",
+            "Sale fino": "3 g",
+            "Menta": "3 g",
+            "Bulgur": "250 g",
+            "Acqua": "500 g",
+            "Yogurt magro": "3 g"
+        }
+    },
+    {
+        "titolo": "Il Goloso",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo 100% italiano": "300 g",
+            "Bacon": "20 g",
+            "Panini da hamburger con semi": "200 g",
+            "Insalata": "100 g",
+            "Farina 00": "200 g",
+            "Acqua": "100 g",
+            "Birra chiara": "50 g",
+            "Scorza di limone": "5 g",
+            "Sale fino": "3 g",
+            "Maggiorana secca": "3 g",
+            "Timo secco": "3 g",
+            "Pepe bianco": "3 g",
+            "Semola di grano duro": "3 g",
+            "macinato grossolanamente": "500 g",
+            "Olio di semi di girasole": "3 g",
+            "Pomodori gialli campani freschi": "350 g",
+            "Cipolle dorate": "100 g",
+            "Zucchero": "50 g",
+            "Amido di mais (maizena)": "10 g",
+            "Aceto di vino bianco": "50 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "Salmone agli agrumi con riso pilaf",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "\"Filetto di salmone da 200 g luno": "4 g",
+            "Arance bionde": "500.0 g",
+            "Limoni di Sorrento": "200.0 g",
+            "Cipollotto fresco": "300.0 g",
+            "Miele di acacia": "10 g",
+            "Burro": "50 g",
+            "Zenzero fresco": "3 g",
+            "Sale fino": "3 g",
+            "Riso Basmati": "200 g",
+            "Olio extravergine di oliva": "10 g",
+            "Sale grosso": "3 g"
+        }
+    },
+    {
+        "titolo": "Vellutata di ceci con sautè di cozze e vongole",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Ceci secchi": "450 g",
+            "Porri": "100 g",
+            "Carote": "100 g",
+            "Timo": "3 g",
+            "Olio extravergine di oliva": "20 g",
+            "Acqua": "100 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Sedano": "60 g",
+            "Cozze": "100 g",
+            "Vongole": "100 g",
+            "Pomodori": "200 g",
+            "Aglio": "5 g",
+            "Prezzemolo (tritato)": "10 g"
+        }
+    },
+    {
+        "titolo": "Pita con hummus di pomodori secchi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina Manitoba": "125 g",
+            "Farina 00": "125 g",
+            "Acqua tiepida": "150 g",
+            "Olio extravergine di oliva": "20 g",
+            "Malto": "6 g",
+            "Sale fino": "3 g",
+            "Lievito di birra secco": "3 g",
+            "Acqua": "3 g",
+            "\"Pomodori secchi sottolio": "4 g",
+            "Ceci precotti": "100 g",
+            "Tahina": "12 g",
+            "Coriandolo": "3 g",
+            "Pepe nero": "3 g",
+            "Peperoncino fresco rosso": "20 g",
+            "Rucola": "3 g"
+        }
+    },
+    {
+        "titolo": "Tigelle crudo e crescenza",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina 0": "250 g",
+            "Farina 00": "500 g",
+            "Latte intero": "300 g",
+            "Acqua": "200 g",
+            "Strutto": "60 g",
+            "Olio extravergine di oliva": "50 g",
+            "Lievito di birra secco (o fresco 11 g)": "3 g",
+            "Sale fino": "10 g",
+            "Crescenza": "300 g",
+            "Prosciutto crudo": "200 g"
+        }
+    },
+    {
+        "titolo": "Crescentine (o tigelle) con la cunza",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina 0": "250 g",
+            "Farina 00": "500 g",
+            "Latte intero": "300 g",
+            "Acqua": "200 g",
+            "Strutto": "60 g",
+            "Lievito di birra secco (o 11 g se fresco)": "3 g",
+            "Olio extravergine di oliva": "50 g",
+            "Sale fino": "3 g",
+            "Lardo": "200 g",
+            "Rosmarino": "3 g",
+            "Aglio": "5 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Crostata salata di polenta",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina di mais bramata": "200 g",
+            "Parmigiano Reggiano DOP da grattugiare": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Funghi porcini": "250 g",
+            "Funghi champignon": "250 g",
+            "Luganega": "450 g",
+            "Vino bianco secco": "50 g",
+            "Burro": "40 g",
+            "Aglio": "5 g",
+            "Timo": "3 g",
+            "Rosmarino": "3 g",
+            "Noce moscata": "3 g",
+            "Farina 00": "40 g"
+        }
+    },
+    {
+        "titolo": "Tabuleh con verdure",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Bulgur (a grana fine)": "200 g",
+            "Pomodori perini": "650 g",
+            "Cipolle rosse": "100 g",
+            "Prezzemolo": "150 g",
+            "Succo di limone": "20 g",
+            "Olio extravergine di oliva": "10 g",
+            "Menta": "10 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Pulled chicken",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pollo intero (eviscerato)": "100 g",
+            "Limoni": "100 g",
+            "Aglio": "5 g",
+            "Timo": "3 g",
+            "Rosmarino": "3 g",
+            "Salvia": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Birra rossa": "330 g",
+            "Salsa barbecue": "10 g",
+            "Cavolo rosso": "100 g",
+            "Cavolo cappuccio": "100 g",
+            "Ketchup": "100 g",
+            "Maionese": "100 g",
+            "Salsa Worcestershire": "10 g",
+            "Panini da hamburger": "400 g",
+            "Lattuga iceberg": "3 g"
+        }
+    },
+    {
+        "titolo": "Cipollata",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Acqua": "100 g",
+            "Costine di maiale": "500 g",
+            "Carote": "100 g",
+            "Sedano": "5 g",
+            "Pepe nero in grani": "10 g",
+            "Rosmarino": "5 g",
+            "Aglio": "5 g",
+            "Sale fino": "3 g",
+            "Cipolle bianche": "800 g",
+            "Pancetta": "70 g",
+            "Salsiccia": "50 g",
+            "Olio di oliva": "30 g",
+            "Pane": "20 g"
+        }
+    },
+    {
+        "titolo": "Panino wurstel e patatine",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane tipo \"francesino\"": "1",
+            "Wurstel": "100 g",
+            "Patate fritte congelate": "3 g",
+            "Scamorza (provola) fettine sottili": "150 g",
+            "Sale fino": "3 g",
+            "Maionese (o ketchup)": "3 g"
+        }
+    },
+    {
+        "titolo": "Insalata di farro fredda",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farro": "200 g",
+            "Peperoni rossi": "390 g",
+            "Ceci precotti": "150 g",
+            "Olive taggiasche": "28 g",
+            "Yogurt greco": "170 g",
+            "Basilico": "100 g",
+            "Olio extravergine di oliva": "10 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Pizza con bicarbonato",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina 0": "500 g",
+            "Bicarbonato": "7 g",
+            "Acqua (a temperatura ambiente)": "270 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Passata di pomodoro": "300 g",
+            "Mozzarella per pizza": "180 g",
+            "Origano secco": "3 g",
+            "Basilico": "3 g"
+        }
+    },
+    {
+        "titolo": "Paella di pollo, peperoni e piselli",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso Bomba": "320 g",
+            "Fusi di pollo (6 pezzi)": "100 g",
+            "Peperoni verdi": "450 g",
+            "Pisellini": "200 g",
+            "Brodo vegetale": "100 g",
+            "Zafferano": "0.15 g",
+            "Olio extravergine di oliva": "100 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Acqua": "100 g",
+            "Vino bianco": "30 g"
+        }
+    },
+    {
+        "titolo": "Piadina senza glutine",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Mix di farine senza glutine (mix universale)": "400 g",
+            "Acqua": "200 g",
+            "Olio extravergine di oliva": "40 g",
+            "Sale fino": "15 g",
+            "Bicarbonato": "10 g"
+        }
+    },
+    {
+        "titolo": "Sushi vegetariano",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso per sushi": "200 g",
+            "Avocado": "80 g",
+            "Acqua": "300 g",
+            "Barbabietole precotte (già pelate)": "100 g",
+            "Cetrioli": "150 g",
+            "Radicchio": "20 g",
+            "Alga nori": "100 g",
+            "Aceto di riso": "25 g"
+        }
+    },
+    {
+        "titolo": "Wrap con hummus piccante e verdure",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine integrali ( da 50 gr ciascuna)": "200 g",
+            "Carote": "150 g",
+            "Zucchine": "100 g",
+            "Peperoncino fresco dolce": "10 g",
+            "Lattuga iceberg": "80 g",
+            "Barbabietole": "50 g",
+            "Emmentaler 8 fette": "150 g",
+            "Ceci precotti": "300 g",
+            "Prezzemolo": "20 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Tabasco": "10 g",
+            "Succo di limone": "30 g",
+            "Aglio": "5 g",
+            "Paprika piccante": "10 g",
+            "Tahina": "50 g",
+            "Olio extravergine di oliva": "50 g",
+            "Acqua facoltativa": "50 g"
+        }
+    },
+    {
+        "titolo": "Zucchine ripiene di riso",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Zucchine (3 medie)": "550 g",
+            "Riso Carnaroli": "125 g",
+            "Grana Padano DOP": "15 g",
+            "Acqua": "300 g",
+            "Burro": "10 g",
+            "Fontina": "20 g",
+            "Passata di pomodoro": "400 g",
+            "Aglio": "5 g",
+            "Olio extravergine di oliva": "20 g",
+            "Basilico": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Hamburger piemontesi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Panini da hamburger": "200 g",
+            "Manzo tritato": "520 g",
+            "Toma piemontese": "120 g",
+            "Olio extravergine di oliva": "35 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Patate": "200 g",
+            "Rosmarino": "3 g",
+            "Uova": "60 g",
+            "\"Acciughe sottolio": "100 g",
+            "Aglio": "5 g",
+            "Prezzemolo": "30 g",
+            "Pane raffermo soltanto la mollica": "40 g",
+            "Capperi sotto sale": "10 g",
+            "Aceto di vino bianco": "10 g"
+        }
+    },
+    {
+        "titolo": "Noodles fritti alle verdure",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Noodles": "200 g",
+            "Peperoni verdi": "100 g",
+            "Peperoni rossi": "100 g",
+            "Carote": "100 g",
+            "Funghi champignon": "80 g",
+            "Germogli di soia": "80 g",
+            "Peperoncino": "20 g",
+            "Aglio": "5 g",
+            "Cipollotto fresco": "100 g",
+            "Olio extravergine di oliva": "10 g",
+            "Aceto di mele": "10 g",
+            "Sale fino": "3 g",
+            "Olio di semi di arachide": "100 g"
+        }
+    },
+    {
+        "titolo": "Pasticcio di patate e salsiccia",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate rosse": "900 g",
+            "Salsiccia": "650 g",
+            "Cipolle bianche": "100 g",
+            "Rosmarino": "3 g",
+            "Salvia": "100 g",
+            "Vino bianco": "20 g",
+            "Parmigiano Reggiano DOP da grattugiare": "120 g",
+            "Robiola": "200 g",
+            "Olio extravergine di oliva": "3 g",
+            "Pangrattato": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Sandwich di pollo",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pollo arrosto": "800 g",
+            "Pane bianco in cassetta": "20 g",
+            "Bacon": "20 g",
+            "Lattuga iceberg piccolo cespo": "100 g",
+            "Pomodori ramati": "200 g",
+            "Cipolle rosse": "200.0 g",
+            "Maionese": "200 g",
+            "Cajun": "10 g",
+            "Concentrato di pomodoro": "10 g",
+            "Burro": "3 g"
+        }
+    },
+    {
+        "titolo": "Pane cunzato",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane casereccio (1 filone intero)": "500 g",
+            "Primosale": "300 g",
+            "Pomodori ramati": "200 g",
+            "\"Acciughe sottolio": "100 g",
+            "Origano secco": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Pasticcio di patate",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Carne bovina macinata": "200 g",
+            "Patate": "600 g",
+            "Olio extravergine di oliva": "3 g",
+            "Cipolle bianche": "120 g",
+            "Sale fino": "3 g",
+            "Provola": "200 g",
+            "Parmigiano Reggiano DOP": "50 g",
+            "Latte intero": "800 g",
+            "Burro": "80 g",
+            "Farina 00": "80 g",
+            "Noce moscata": "3 g"
+        }
+    },
+    {
+        "titolo": "Futomaki",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso per sushi cotto": "150 g",
+            "Wasabi": "3 g",
+            "Alga nori": "100 g",
+            "Surimi": "15 g",
+            "Uova di lompo (succedaneo caviale) (o di": "100 g",
+            "o di pesce volante)": "12 g",
+            "Cetrioli (o carota a bastoncini sottili)": "20 g",
+            "Tonno (o salmone fresco a bastoncini di 1 cm)": "40 g",
+            "Avocado maturo": "15 g",
+            "Salsa di soia": "3 g",
+            "\"Zenzero sottaceto": "3 g"
+        }
+    },
+    {
+        "titolo": "Club sandwich al salmone",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pancarrè": "20 g",
+            "Salmone affumicato": "200 g",
+            "Avocado": "100 g",
+            "Pomodorini ciliegino": "130 g",
+            "Uova": "120 g",
+            "Maionese": "60 g",
+            "Rucola": "40 g",
+            "Burro": "30 g",
+            "Succo di limone": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Insalata di gamberi con salsa allo yogurt",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Cavolo cappuccio": "200 g",
+            "Arance (pelate)": "200 g",
+            "Gamberi": "120 g",
+            "Gherigli di noci": "80 g",
+            "Scorza di limone": "5 g",
+            "Spinacini": "3 g",
+            "Yogurt greco": "10 g",
+            "Succo di lime": "10 g",
+            "Menta": "100 g",
+            "Timo": "5 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina Tirolo",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Strutto": "125 g",
+            "Farina 00": "500 g",
+            "Lievito istantaneo per preparazioni salate": "7.5 g",
+            "Miele": "5 g",
+            "Sale fino": "17 g",
+            "Zucchero": "15 g",
+            "Speck": "250 g",
+            "Stracchino": "300 g",
+            "Pomodori": "250 g",
+            "Erba cipollina": "10 g",
+            "Olio extravergine di oliva": "12 g",
+            "Scamorza (provola) a fette": "250 g"
+        }
+    },
+    {
+        "titolo": "Piadina con verdure gratinate",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "\"Piadine sfogliatissime allolio EVO": "4 g",
+            "Squacquerone": "300 g",
+            "Zucchine": "200 g",
+            "Peperoni rossi": "120 g",
+            "Peperoni gialli": "120 g",
+            "Peperoni verdi": "120 g",
+            "Melanzane": "300 g",
+            "Olio extravergine di oliva": "40 g",
+            "Rosmarino": "3 g",
+            "Salvia": "100 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Pangrattato": "70 g",
+            "Rucola": "40 g"
+        }
+    },
+    {
+        "titolo": "Poke bowl vegetariano",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Tofu": "200 g",
+            "Salsa di soia": "10 g",
+            "Succo di lime": "3 g",
+            "Peperoncino fresco": "20 g",
+            "Semi di sesamo": "10 g",
+            "Sale delle Hawaii rosso": "3 g",
+            "Riso vialone nano": "320 g",
+            "Zucchine": "200 g",
+            "Peperoni": "100 g",
+            "Carote": "120 g",
+            "Olio di sesamo": "3 g",
+            "Ravanelli": "200.0 g",
+            "Cipolle rosse dolci": "50.0 g",
+            "Mango": "100 g",
+            "Avocado hass": "200.0 g",
+            "Gherigli di noci": "40 g",
+            "Semi di sesamo misti": "10 g",
+            "Pomodorini colorati": "3 g"
+        }
+    },
+    {
+        "titolo": "Colcannon",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate": "950 g",
+            "Verza già pulita": "340 g",
+            "Cipollotti 3 già puliti": "115 g",
+            "Olio extravergine di oliva": "60 g",
+            "Latte intero": "200 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Burro": "60 g"
+        }
+    },
+    {
+        "titolo": "Insalata di quinoa alla greca",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Quinoa rossa": "200 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Feta": "200 g",
+            "Cetrioli": "100 g",
+            "Cipolle rosse": "50.0 g",
+            "Pomodorini ciliegino": "200 g",
+            "Olive nere greche denocciolate": "50 g",
+            "Menta": "100 g"
+        }
+    },
+    {
+        "titolo": "Piadina con crudo, brie, insalata e salsa cocktail",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine": "400 g",
+            "Prosciutto crudo": "250 g",
+            "Brie": "200 g",
+            "Insalata": "100 g",
+            "Salsa cocktail": "80 g"
+        }
+    },
+    {
+        "titolo": "One-pot paella vegetariana di riso rosso",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso rosso": "200 g",
+            "Asparagi": "130 g",
+            "Fagiolini": "120 g",
+            "Feta": "100 g",
+            "Carote": "90 g",
+            "Pisellini sgranati": "80 g",
+            "Fave sgranate": "70 g",
+            "Cipolle rosse": "40 g",
+            "Acqua circa": "600 g",
+            "Peperoncino fresco": "20 g",
+            "Succo di limone": "3 g",
+            "Menta": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Zucchine alla pizzaiola",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Zucchine chiare": "600 g",
+            "Passata di pomodoro": "350 g",
+            "Mozzarella": "300 g",
+            "Parmigiano Reggiano DOP grattugiato": "50 g",
+            "Basilico": "100 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Crepe salate con finferli e pancetta",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Latte intero": "450 g",
+            "Farina 00": "200 g",
+            "Uova medie": "120 g",
+            "Burro": "20 g",
+            "Sale fino": "3 g",
+            "Funghi finferli (gallinacci)": "140 g",
+            "Pancetta affumicata": "200 g",
+            "Fontina": "175 g",
+            "Cipolle rosse": "100 g",
+            "Timo": "5 g",
+            "Parmigiano Reggiano DOP da grattugiare": "60 g",
+            "Olio extravergine di oliva": "3 g",
+            "Pepe nero": "3 g",
+            "Pangrattato": "3 g"
+        }
+    },
+    {
+        "titolo": "Formaggio vegano spalmabile",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Tofu": "180 g",
+            "Mandorle pelate": "90 g",
+            "Pepe nero in grani": "10 g",
+            "Pepe rosa in grani": "10 g",
+            "Sale fino": "10 g",
+            "Acqua": "40 g",
+            "Succo di limone": "4 g",
+            "Aglio orsino": "10 g"
+        }
+    },
+    {
+        "titolo": "Parmigiana bianca di verdure e parmigiano",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Melanzane": "600 g",
+            "Zucchine": "400 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Latte intero": "500 g",
+            "Parmigiano Reggiano DOP": "50 g",
+            "Burro": "30 g",
+            "Farina 00": "30 g"
+        }
+    },
+    {
+        "titolo": "Manzo piccante con peperoni e germogli di soia",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Fettine di manzo spesse circa un centimetro": "600 g",
+            "Peperoni verdi": "100 g",
+            "Peperoncino fresco rosso": "40 g",
+            "Germogli di soia": "130 g",
+            "Salsa di soia": "10 g",
+            "Olio extravergine di oliva": "10 g",
+            "Erba cipollina": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Riso Basmati": "300 g"
+        }
+    },
+    {
+        "titolo": "Insalata con uova strapazzate",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Uova": "480 g",
+            "Prosciutto cotto pezzo intero": "200 g",
+            "Piselli surgelati": "180 g",
+            "Pomodorini datterini": "100 g",
+            "Fagioli cannellini precotti (peso sgocciolato)": "100 g",
+            "Insalata misticanza": "80 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Basilico": "100 g",
+            "Scorza di limone da grattugiare": "10 g",
+            "Succo di limone": "20 g",
+            "Pane casereccio": "20 g"
+        }
+    },
+    {
+        "titolo": "Tomino burger",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Tomini": "500 g",
+            "Panini da hamburger ai cereali": "100 g",
+            "Olio extravergine di oliva": "10 g",
+            "Aglio": "5 g",
+            "Peperoncino fresco": "3 g",
+            "Timo": "3 g",
+            "Zucca da pulire": "250 g",
+            "Sale fino": "3 g",
+            "Cime di rapa": "180 g",
+            "Pinoli": "10 g",
+            "Parmigiano Reggiano DOP": "10 g"
+        }
+    },
+    {
+        "titolo": "Panino con salame e bietole",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane casereccio": "100 g",
+            "Salame di Milano (per ciascun panino)": "140 g",
+            "Mozzarella di bufala": "240 g",
+            "Bietole": "500 g",
+            "Aceto di vino bianco": "100 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pomodorini datterini": "500 g",
+            "Aglio": "5 g",
+            "Scorza di limone (da grattugiare)": "10 g",
+            "Basilico": "3 g",
+            "Origano secco": "3 g",
+            "Zucchero": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Club sandwich con uova strapazzate",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pancarrè ai cereali": "20 g",
+            "Uova grandi biologiche": "240 g",
+            "Caciocavallo": "60 g",
+            "Avocado grossi e maturi": "200.0 g",
+            "Funghi champignon": "250 g",
+            "Carote": "100 g",
+            "Lattuga qualche": "100 g",
+            "Radicchio qualche": "100 g",
+            "Burro noci": "50 g",
+            "Timo": "3 g",
+            "Succo di limone goccia": "100 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Bowl di riso e salmone al vapore",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Tranci di salmone": "150 g",
+            "Salsa di soia": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Riso Basmati": "80 g",
+            "Cardamomo": "3 g",
+            "Edamame surgelati": "55 g",
+            "Acqua": "10 g",
+            "Avocado": "50.0 g",
+            "Carote": "100 g",
+            "Cipollotto fresco la parte verde": "100 g",
+            "Semi di sesamo nero": "3 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Sandwich di manzo e insalata di cavolo con patate croccanti",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Manzo (punta di petto)": "100 g",
+            "Cipolle rosse": "200 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Olio extravergine di oliva": "10 g",
+            "Worcestershire sauce": "30 g",
+            "Cavolo cappuccio": "80 g",
+            "Cavolo rosso": "80 g",
+            "Yogurt greco": "200 g",
+            "Senape in grani": "15 g",
+            "Miele": "10 g",
+            "Tabasco®": "1 g",
+            "Patate": "300 g",
+            "Paprika affumicata": "3 g",
+            "Panini da hot dog": "400 g"
+        }
+    },
+    {
+        "titolo": "Torta di crespelle ai funghi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Latte intero": "100 g",
+            "Farina 00": "100 g",
+            "Uova medie": "120 g",
+            "Burro fuso": "30 g",
+            "Burro": "100 g",
+            "Sale": "3 g",
+            "Noce moscata": "3 g",
+            "Funghi champignon": "500 g",
+            "Funghi finferli (gallinacci)": "300 g",
+            "Porri": "130 g",
+            "Grana Padano DOP": "250 g",
+            "Olio extravergine di oliva": "30 g",
+            "Prosciutto cotto in un unica fetta": "300 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Polenta al forno",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Acqua": "100 g",
+            "Farina di mais fioretto": "250 g",
+            "Sale fino": "10 g",
+            "Olio extravergine di oliva": "10 g",
+            "Asiago": "140 g",
+            "Fontina": "130 g",
+            "Gorgonzola": "120 g",
+            "Grana Padano DOP (da grattugiare)": "55 g",
+            "Burro": "10 g"
+        }
+    },
+    {
+        "titolo": "Cistecca",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane (tipo sfilatino da 20/22 cm)": "200 g",
+            "Scamorza affumicata sottili": "20 g",
+            "Manzo (straccetti di bovino adulto)": "250 g",
+            "Lattuga": "100 g",
+            "Melanzane": "200 g",
+            "Aglio": "5 g",
+            "Caciocavallo": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Poke di salmone",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Edamame": "160 g",
+            "Cetrioli": "60 g",
+            "Ravanelli": "60 g",
+            "Carote": "60 g",
+            "Cavolo rosso": "60 g",
+            "Semi di sesamo nero": "3 g",
+            "Semi di sesamo": "3 g",
+            "Salsa teriyaki": "3 g",
+            "Erba cipollina": "3 g",
+            "Riso per sushi": "500 g",
+            "Acqua": "500 g",
+            "Aceto di riso": "30 g",
+            "Zucchero": "10 g",
+            "Sale fino": "5 g",
+            "Salmone abbattuto": "500 g",
+            "Salsa di soia": "80 g",
+            "Zenzero fresco": "3 g",
+            "Cipollotti": "100 g"
+        }
+    },
+    {
+        "titolo": "McChicken Saporito",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo (100% italiano)": "300 g",
+            "Bacon": "20 g",
+            "Pomodori ramati": "100 g",
+            "Toma (con latte 100% italiano, 4 fettine)": "80 g",
+            "Panini da hamburger con semi": "200 g",
+            "Farina 00": "200 g",
+            "Acqua": "330 g",
+            "Birra chiara": "50 g",
+            "Scorza di limone": "10 g",
+            "Sale fino": "10 g",
+            "Maggiorana secca": "3 g",
+            "Timo secco": "3 g",
+            "Pepe bianco": "3 g",
+            "Semola di grano duro": "3 g",
+            "macinato grossolanamente": "500 g",
+            "Olio di semi di girasole": "220 g",
+            "Tuorli": "17 g",
+            "Aceto di vino bianco": "10 g",
+            "Senape in grani": "5 g"
+        }
+    },
+    {
+        "titolo": "Bowl di salmone, avocado e croccante di pane",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Salmone": "360 g",
+            "Riso Basmati": "100 g",
+            "Avocado": "100 g",
+            "Pane ai 3 farri": "40 g",
+            "Limoni": "50.0 g",
+            "Olio extravergine di oliva": "20 g",
+            "Semi di papavero": "3 g",
+            "Timo": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Timballo di riso",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso Carnaroli": "300 g",
+            "Passata di pomodoro": "300 g",
+            "Scamorza affumicata": "200 g",
+            "Piselli surgelati": "160 g",
+            "Uova": "120 g",
+            "Albumi": "35 g",
+            "Sale fino": "3 g",
+            "Origano": "3 g",
+            "Pepe nero": "3 g",
+            "Parmigiano Reggiano DOP": "60 g",
+            "Burro": "3 g",
+            "Pangrattato": "3 g"
+        }
+    },
+    {
+        "titolo": "Lobster roll",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Panini da hot dog (New England hot dog bun)": "200 g",
+            "Astice (congelato già cotto)": "100 g",
+            "Maionese": "120 g",
+            "Sedano": "60 g",
+            "Lattuga iceberg": "60 g",
+            "Limoni": "100 g",
+            "Erba cipollina": "3 g",
+            "Burro": "3 g",
+            "Sale fino": "10 g",
+            "Pepe nero": "10 g",
+            "Ghiaccio": "3 g"
+        }
+    },
+    {
+        "titolo": "One-pot di pollo e verdure",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo intero": "580 g",
+            "Patate": "450 g",
+            "Cavolo nero": "130 g",
+            "Barbabietole precotte": "30 g",
+            "Farro precotto": "100 g",
+            "Brodo vegetale": "600 g",
+            "Zenzero fresco": "10 g",
+            "Scalogno": "20 g",
+            "Salvia": "100 g",
+            "Semi di zucca": "8 g",
+            "Miele millefiori": "15 g",
+            "Curcuma in polvere": "6 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Lentil tofu di lenticchie rosse",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Lenticchie rosse decorticate": "250 g",
+            "Acqua calda": "350 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina al salmone con salsa allo yogurt",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine integrali": "200 g",
+            "Salmone affumicato": "90 g",
+            "Yogurt greco": "80 g",
+            "Olio extravergine di oliva": "20 g",
+            "Rucola": "30 g",
+            "Aneto": "5 g",
+            "Sale fino": "3 g",
+            "Pepe rosa": "3 g",
+            "Scorza di limone": "10 g",
+            "Zucchero": "10 g",
+            "Acqua": "10 g"
+        }
+    },
+    {
+        "titolo": "Melanzane ripiene di bulgur",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Melanzane": "800 g",
+            "Timo": "3 g",
+            "Rosmarino": "3 g",
+            "Aglio": "5 g",
+            "Olio extravergine di oliva": "10 g",
+            "Sale fino": "10 g",
+            "Pepe nero": "10 g",
+            "Bulgur": "100 g",
+            "Pomodorini datterini": "250 g",
+            "Cetrioli": "50 g",
+            "Feta": "40 g",
+            "Sedano": "25 g",
+            "Basilico": "100 g"
+        }
+    },
+    {
+        "titolo": "Rotolo di polenta con salsiccia e funghi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Acqua": "100 g",
+            "Olio extravergine di oliva": "10 g",
+            "Farina di mais a cottura istantanea": "250 g",
+            "Sale fino": "3 g",
+            "Salsiccia": "450 g",
+            "Sedano": "5 g",
+            "Carote": "100 g",
+            "Cipolle": "100 g",
+            "Grana Padano DOP da grattugiare": "10 g",
+            "Vino bianco": "250 g",
+            "Funghi champignon": "500 g",
+            "Passata di pomodoro": "250 g",
+            "Pepe nero": "3 g",
+            "Prezzemolo tritato": "10 g"
+        }
+    },
+    {
+        "titolo": "Carpaccio di zucchine con tonno",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Zucchine": "400 g",
+            "Mozzarelline ciliegine": "150 g",
+            "Pomodorini ciliegino": "150 g",
+            "Succo di limone": "60 g",
+            "Olio extravergine di oliva": "60 g",
+            "Scorza di limone": "5 g",
+            "Prezzemolo": "3 g",
+            "Menta": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Sformato di patate e funghi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate": "740 g",
+            "Funghi orecchioni o ostrica (Pleurotus)": "210 g",
+            "Timo": "3 g",
+            "Scorza di limone": "5 g",
+            "Panna fresca liquida": "150 g",
+            "Uova": "180 g",
+            "Grana Padano DOP": "120 g",
+            "Pangrattato": "3 g",
+            "Pepe nero": "3 g",
+            "Sale fino": "3 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "Portobello burger",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Funghi portobello ( del diametro di circa 8 cm)": "80 g",
+            "Zucchine tonde": "100 g",
+            "Melanzane tonde": "100 g",
+            "Scamorza affumicata": "300 g",
+            "Olio extravergine di oliva": "50 g",
+            "Maionese": "10 g",
+            "Radicchio": "100 g",
+            "Rosmarino qualche": "5 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Sashimi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Branzino (spigola) abbattuto": "150 g",
+            "pulito e rifilato": "150 g",
+            "Salsa di soia": "3 g",
+            "Wasabi": "3 g",
+            "Wasabi (kizami)": "3 g",
+            "Daikon": "3 g",
+            "Alga Wakame": "15 g"
+        }
+    },
+    {
+        "titolo": "Insalata di pollo croccante con vinaigrette",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo": "450 g",
+            "Uova (medie)": "120 g",
+            "Pangrattato (per la panatura)": "100 g",
+            "Olio di semi (per friggere)": "300 g",
+            "Insalata misticanza": "200 g",
+            "Carote": "300 g",
+            "Cetrioli": "300 g",
+            "Pomodori cuore di bue": "400 g",
+            "Olio extravergine di oliva": "120 g",
+            "Sale fino": "3 g",
+            "Aceto di vino bianco": "40 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Ossobuco di tacchino con risotto",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Ossibuchi di tacchino (quattro)": "950 g",
+            "Aglio": "10 g",
+            "Scorza di limone": "5 g",
+            "Prezzemolo": "40 g",
+            "Cipolle bianche (tritata)": "150 g",
+            "Olio extravergine di oliva": "30 g",
+            "Sale fino": "3 g",
+            "Farina 00": "50 g",
+            "Burro": "10 g",
+            "Vino bianco": "45 g",
+            "Riso Carnaroli": "350 g",
+            "Brodo vegetale": "100 g",
+            "Zucchine baby": "250 g",
+            "Fiori di zucca": "125 g",
+            "Sedano": "5 g",
+            "Carote": "50.0 g",
+            "Cipolle bianche": "50.0 g",
+            "Grana Padano DOP (da grattugiare)": "50 g"
+        }
+    },
+    {
+        "titolo": "Insalata di riso alla greca",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso per insalata": "320 g",
+            "Pomodorini": "300 g",
+            "Cetrioli": "250 g",
+            "Feta": "180 g",
+            "Olive nere greche": "100 g",
+            "Basilico": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Madame club sandwich",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane rustico": "300 g",
+            "Petto di tacchino arrosto": "200 g",
+            "Groviera": "200 g",
+            "Pomodori ramati": "100 g",
+            "Uova": "120 g",
+            "Spinacini": "20 g",
+            "Burro": "40 g",
+            "Maionese": "80 g",
+            "Paprika affumicata": "10 g"
+        }
+    },
+    {
+        "titolo": "Piadina con salsiccia e cipolle stufate",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine Romagnole IGP alla riminese": "400 g",
+            "Salsiccia di maiale": "600 g",
+            "Vino bianco": "85 g",
+            "Sale fino": "3 g",
+            "Parmigiano Reggiano DOP": "80 g",
+            "Rucola": "60 g",
+            "Cipolle dorate": "100 g",
+            "Acqua": "50 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "Lasagne di zucca con crema di funghi e scamorza",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Zucca (già pulita)": "500 g",
+            "Funghi champignon": "350 g",
+            "Timo": "3 g",
+            "Rosmarino": "3 g",
+            "Panna fresca liquida": "150 g",
+            "Scamorza (provola) dolce": "400 g",
+            "Olio extravergine di oliva": "30 g",
+            "Parmigiano Reggiano DOP (da grattugiare)": "60 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Wrap di tonno e avocado con salsa allo yogurt e daikon",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine integrali": "400 g",
+            "Daikon": "150 g",
+            "Yogurt greco": "250 g",
+            "Avocado": "250 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Insalata di quinoa vegetariana",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Quinoa (già cotta seguendo indicazioni sulla confezione)": "400 g",
+            "Peperoni rossi": "100 g",
+            "Peperoni gialli": "100 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Olive taggiasche": "10 g",
+            "Feta": "200 g",
+            "Erba cipollina": "3 g",
+            "Prezzemolo": "3 g",
+            "Basilico": "100 g",
+            "Menta": "100 g",
+            "Pinoli": "10 g",
+            "Limoni": "100 g",
+            "Senape": "10 g",
+            "Aglio": "5 g",
+            "Feta da sbriciolare": "3 g"
+        }
+    },
+    {
+        "titolo": "Quinoa melanzane e menta",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Quinoa": "200 g",
+            "Melanzane": "250 g",
+            "Pomodorini ciliegino": "250 g",
+            "Cipolle rosse": "50 g",
+            "Acqua": "40 g",
+            "Olio extravergine di oliva": "10 g",
+            "Rucola": "20 g",
+            "Feta": "60 g",
+            "Menta": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Noodles di pollo piccanti",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Noodles di grano tenero": "200 g",
+            "Verza": "100 g",
+            "Zucchine": "100 g",
+            "Carote": "200.0 g",
+            "Porri": "100 g",
+            "Peperoni rossi": "100 g",
+            "Aglio": "5 g",
+            "Zenzero fresco": "30 g",
+            "Salsa di soia": "80 g",
+            "Olio di semi": "3 g",
+            "Peperoncino fresco": "20 g",
+            "Pollo (fettine)": "250 g",
+            "Panko": "100 g",
+            "Farina 00": "80 g",
+            "Uova": "120 g",
+            "Olio di semi (per friggere)": "3 g"
+        }
+    },
+    {
+        "titolo": "Pita con melanzane e pollo",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina Manitoba": "125 g",
+            "Farina 00": "125 g",
+            "Acqua": "150 g",
+            "Olio extravergine di oliva": "10 g",
+            "Sale fino": "3 g",
+            "Malto": "10 g",
+            "Lievito di birra secco": "3 g",
+            "Petto di pollo": "100 g",
+            "Paprika": "10 g",
+            "Rosmarino": "3 g",
+            "Origano fresco": "3 g",
+            "Pepe nero": "3 g",
+            "Melanzane lunghe": "100 g",
+            "Olio di semi": "3 g",
+            "Pomodori perini": "200 g",
+            "Spinacini": "20 g",
+            "Yogurt greco": "200 g",
+            "Scorza di limone": "10 g",
+            "Succo di limone": "20 g",
+            "Erba cipollina": "3 g"
+        }
+    },
+    {
+        "titolo": "Temaki",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso nishiki (per sushi cotto)": "50 g",
+            "pulito e rifilato)": "40 g",
+            "Alga nori (da 19x21)": "100 g",
+            "Shiso": "100 g",
+            "Acqua": "3 g",
+            "Aceto di riso": "3 g",
+            "Wasabi": "3 g",
+            "Salsa di soia": "3 g"
+        }
+    },
+    {
+        "titolo": "Burger di fave",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Scorze di fave": "400 g",
+            "Pecorino romano grattugiato": "80 g",
+            "Pane ai cereali": "170 g",
+            "Uova": "60 g",
+            "Menta": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Pangrattato": "3 g",
+            "Fave sgranate": "300 g",
+            "Olio extravergine di oliva": "30 g",
+            "Succo di limone": "20 g",
+            "Aglio": "5 g",
+            "Insalata mista": "3 g",
+            "Pecorino toscano semi stagionato": "200 g",
+            "Panini ai cereali piccoli": "400 g"
+        }
+    },
+    {
+        "titolo": "Fonduta di Reblochon",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate novelle": "800 g",
+            "Reblochon forma intera": "500 g",
+            "Rosmarino": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina di grano saraceno con straccetti di pollo e chips al forno",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina 00": "125 g",
+            "Farina di grano saraceno": "125 g",
+            "Strutto": "63 g",
+            "Acqua (a temperatura ambiente)": "50 g",
+            "Sale fino": "3 g",
+            "Miele": "2.5 g",
+            "Zucchero": "7.5 g",
+            "Latte intero (a temperatura ambiente)": "53 g",
+            "Petto di pollo": "600 g",
+            "Olio extravergine di oliva": "30 g",
+            "Rosmarino": "2 g",
+            "Maggiorana": "2 g",
+            "Finocchietto selvatico": "2 g",
+            "Paprika affumicata": "2 g",
+            "Peperoncino in polvere": "2 g",
+            "Origano": "2 g",
+            "Zucchero di canna": "2 g",
+            "Yogurt greco": "150 g",
+            "Radicchio": "100 g",
+            "Erba cipollina": "2 g",
+            "Pepe nero": "3 g",
+            "Patate novelle": "600 g",
+            "Ketchup": "100 g"
+        }
+    },
+    {
+        "titolo": "Egg sandwich",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Uova": "540 g",
+            "Pan brioche (tipo Hokkaido)": "20 g",
+            "Maionese": "10 g",
+            "Scalogno piccolo": "20 g",
+            "Cetriolini sottaceto": "100 g",
+            "Senape allantica": "10 g",
+            "Erba cipollina": "3 g",
+            "Prezzemolo (le foglie)": "3 g",
+            "Aneto": "3 g",
+            "Aceto di vino bianco": "3 g",
+            "Salsa piccante": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Acqua": "3 g",
+            "Ghiaccio": "3 g"
+        }
+    },
+    {
+        "titolo": "Timballo di verdure e noci",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate": "300 g",
+            "Latte (caldo)": "80 g",
+            "Gherigli di noci": "40 g",
+            "Parmigiano Reggiano DOP (da grattugiare)": "20 g",
+            "Noce moscata (da grattugiare)": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Broccoli romaneschi": "150 g",
+            "Cipolle": "100 g",
+            "Zucca": "150 g",
+            "Porri": "100 g",
+            "Olio extravergine di oliva": "20 g",
+            "Funghi porcini": "150 g",
+            "Aglio": "5 g",
+            "Prezzemolo (tritato)": "3 g",
+            "Pangrattato": "20 g"
+        }
+    },
+    {
+        "titolo": "Farro con verdure e tonno",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farro perlato": "250 g",
+            "Pomodorini datterini": "400 g",
+            "Carote": "200.0 g",
+            "Sedano": "5 g",
+            "Tonno": "200 g",
+            "Basilico": "3 g",
+            "Timo": "3 g",
+            "Maggiorana": "3 g",
+            "Origano": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Grana Padano DOP": "50 g"
+        }
+    },
+    {
+        "titolo": "Pizza di tagliolini",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Tagliolini alluovo freschi": "250 g",
+            "Salame napoletano": "150 g",
+            "Provolone piccante": "150 g",
+            "Uova": "360 g",
+            "Latte intero": "200 g",
+            "Parmigiano Reggiano DOP": "30 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Burro": "3 g",
+            "Pangrattato": "3 g"
+        }
+    },
+    {
+        "titolo": "Egg burger",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Panini da hamburger": "200 g",
+            "Tuorli": "70 g",
+            "Albumi": "175 g",
+            "Bacon": "20 g",
+            "Cheddar": "20 g",
+            "Cipolle rosse": "50.0 g",
+            "Lattuga qualche": "100 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Crespelle integrali con prosciutto, groviera e spinaci",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina integrale": "150 g",
+            "Burro": "25 g",
+            "Uova": "120 g",
+            "Sale fino": "3 g",
+            "Spinaci freschi": "300 g",
+            "Prosciutto cotto a cubetti": "100 g",
+            "Groviera": "150 g",
+            "Farina 00": "25 g",
+            "Noce moscata da grattugiare": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina spessa romagnola",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina 00": "500 g",
+            "Latte intero": "200 g",
+            "Acqua": "60 g",
+            "Strutto": "70 g",
+            "Burro morbido": "40 g",
+            "Bicarbonato": "10 g",
+            "Sale fino": "10 g",
+            "Lievito istantaneo per preparazioni salate": "10 g",
+            "Zucchero di canna": "10 g"
+        }
+    },
+    {
+        "titolo": "Polenta con polpo in umido ed erbette saltate",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Polpo (fresco)": "750 g",
+            "Passata di pomodoro": "150 g",
+            "Acqua": "500 g",
+            "Scalogno": "20 g",
+            "Aglio": "5 g",
+            "Vino bianco": "50 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "2 g",
+            "Salvia": "3 g",
+            "Timo": "3 g",
+            "Olio extravergine di oliva": "15 g",
+            "Farina di mais bramata": "250 g",
+            "Sale grosso": "3 g",
+            "Erbette": "300 g"
+        }
+    },
+    {
+        "titolo": "Ghormeh sabzi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Vitello copertina di spalla": "100 g",
+            "Cipolle rosse": "320 g",
+            "Fagioli rossi secchi": "140 g",
+            "Porri la parte verde": "200 g",
+            "Cipollotti la parte verde": "70 g",
+            "Prezzemolo": "80 g",
+            "Coriandolo": "80 g",
+            "Fieno greco semi": "15 g",
+            "Curcuma in polvere": "10 g",
+            "Acqua": "100 g",
+            "Lime il succo e la scorza": "10 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Insalatona nel pane",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane casereccio (1 pagnotta tipo pugliese)": "600 g",
+            "Cipollotti rossi": "80 g",
+            "Pomodori sardi (camone)": "100 g",
+            "Mozzarella": "100 g",
+            "Basilico": "100 g",
+            "Olive taggiasche denocciolate": "40 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Origano secco": "3 g"
+        }
+    },
+    {
+        "titolo": "Congee",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso glutinoso": "100 g",
+            "Zucchero": "3 g",
+            "Miele": "3 g",
+            "Fragole": "3 g",
+            "Bacche di Goji": "3 g",
+            "Semi di sesamo nero": "3 g",
+            "Salsa di soia": "3 g",
+            "Cipollotto fresco": "3 g",
+            "Arachidi in granella": "3 g"
+        }
+    },
+    {
+        "titolo": "Uova nel pane",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Panini (tipo michette)": "100 g",
+            "Uova (circa 2 medie)": "110 g",
+            "Mozzarella (affumicata)": "80 g",
+            "Pomodori pelati (peso da sgocciolati)": "100 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Origano": "3 g"
+        }
+    },
+    {
+        "titolo": "Uova alla benedict con tartufo e fonduta di tomino",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate rosse": "300 g",
+            "Burro chiarificato": "3 g",
+            "Uova bio": "120 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Grissini": "100 g",
+            "Spinaci": "150 g",
+            "Aglio": "15 g",
+            "Burro": "10 g",
+            "Uova freschissime": "120 g",
+            "Aceto di vino bianco cucchiai": "20 g",
+            "Sale grosso": "3 g",
+            "Tomini": "250 g",
+            "Panna fresca liquida": "3 g",
+            "Tartufo nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Poke di pollo",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso per sushi": "500 g",
+            "Acqua": "500 g",
+            "Aceto di riso": "30 g",
+            "Zucchero": "10 g",
+            "Sale fino": "3 g",
+            "Petto di pollo": "600 g",
+            "Panko": "50 g",
+            "Farina 00": "3 g",
+            "Uova": "120 g",
+            "Pepe nero": "3 g",
+            "Olio di semi di girasole per friggere": "3 g",
+            "Peperoni rossi": "150 g",
+            "Peperoni verdi": "150 g",
+            "Peperoni gialli": "150 g",
+            "Lime": "100 g",
+            "Germogli di ravanello": "80 g",
+            "Anacardi": "40 g",
+            "Semi di sesamo": "3 g",
+            "Salsa ponzu": "3 g"
+        }
+    },
+    {
+        "titolo": "Pizza di polenta",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina istantanea per polenta": "375 g",
+            "Acqua": "100 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Zucca delica": "220 g",
+            "Cavoletti di Bruxelles": "200 g",
+            "Funghi champignon": "180 g",
+            "Funghi finferli (gallinacci)": "100 g",
+            "Scalogno": "20 g",
+            "Pepe nero": "3 g",
+            "Cavolo nero": "100 g",
+            "Peperoncino fresco": "10 g",
+            "Mozzarella": "400 g",
+            "Taleggio": "300 g",
+            "Gherigli di noci": "30 g",
+            "Timo": "3 g"
+        }
+    },
+    {
+        "titolo": "Schiscetta con couscous e salmone",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Cous cous": "70 g",
+            "Filetto di salmone grigliato": "100 g",
+            "Peperoni gialli": "70 g",
+            "Zucchine": "30 g",
+            "Carote": "20 g",
+            "Olive nere denocciolate": "50 g",
+            "Curcuma in polvere": "3 g",
+            "Acqua": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Panino con roast beef e cipolle caramellate",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Controfiletto di manzo": "100 g",
+            "Rosmarino": "3 g",
+            "Salvia": "3 g",
+            "Aglio": "10 g",
+            "Sale fino": "3 g",
+            "Alloro": "100 g",
+            "Cipolle dorate": "300.0 g",
+            "Burro": "30 g",
+            "Brandy": "20 g",
+            "Olio extravergine di oliva": "3 g",
+            "Farina 00": "30 g",
+            "Latte intero": "300 g",
+            "Formaggio comté": "150 g",
+            "Parmigiano Reggiano DOP": "30 g",
+            "Tuorli": "34 g",
+            "Pepe nero": "3 g",
+            "Panini michette": "200 g"
+        }
+    },
+    {
+        "titolo": "Piadina con zucchine e stracchino",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "\"Piadine Sfogliatissime allolio EVO": "2 g",
+            "Zucchine": "400 g",
+            "Stracchino": "250 g",
+            "Gherigli di noci": "50 g",
+            "Glassa di aceto balsamico": "3 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Parmigiana nel panino",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Panini di grano duro": "200 g",
+            "Melanzane": "300 g",
+            "Passata di pomodoro": "400 g",
+            "Parmigiano Reggiano DOP": "100 g",
+            "Aglio": "5 g",
+            "Basilico": "3 g",
+            "Sale fino": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Olio di semi per friggere le melanzane": "3 g"
+        }
+    },
+    {
+        "titolo": "Cacciucco toscano",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Polpo": "800 g",
+            "Cicale di mare": "350 g",
+            "Seppie pulite": "260 g",
+            "Coda di rospo pulita": "500 g",
+            "Gallinella pulita": "250 g",
+            "Triglie pulite": "200 g",
+            "Pesce del prete pulito": "200 g",
+            "Scorfano intero": "800 g",
+            "Tracina pulita": "200 g",
+            "Cozze": "550 g",
+            "Scampi interi": "450 g",
+            "Gamberi interi": "200 g",
+            "Moscardini puliti": "300 g",
+            "Basilico": "3 g",
+            "Vino bianco": "250 g",
+            "Concentrato di pomodoro": "10 g",
+            "Passata di pomodoro": "500 g",
+            "Acqua": "300 g",
+            "Salvia": "3 g",
+            "Pane toscano": "3 g",
+            "Pepe nero": "3 g",
+            "Peperoncino fresco": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Aglio": "5 g"
+        }
+    },
+    {
+        "titolo": "Primosale alla piastra con verdure di stagione",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "\"Primosale (da 190 g luno)": "4 g",
+            "Broccoli romaneschi": "350 g",
+            "Cavoletti di Bruxelles": "300 g",
+            "Patate novelle": "300 g",
+            "Carote": "250 g",
+            "Cipolle rosse di Tropea": "360 g",
+            "Rosmarino": "5 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "L'Audace",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo 100% italiano": "300 g",
+            "Panini da hamburger con semi": "200 g",
+            "Scamorza affumicata a": "20 g",
+            "con latte 100% italiano": "80 g",
+            "Peperoni": "630 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Farina 00": "200 g",
+            "Acqua": "250 g",
+            "Birra chiara": "50 g",
+            "Scorza di limone": "5 g",
+            "Maggiorana secca": "3 g",
+            "Timo secco": "3 g",
+            "Pepe bianco": "3 g",
+            "Semola di grano duro": "3 g",
+            "Pane macinato grossolanamente": "500 g",
+            "Cipolle dorate": "240 g",
+            "IGP": "40 g",
+            "Amido di mais (maizena)": "10 g",
+            "Zucchero": "10 g",
+            "Olio di semi di girasole": "3 g"
+        }
+    },
+    {
+        "titolo": "Il Gustoso",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo (100% italiano)": "300 g",
+            "Panini da hamburger con semi": "200 g",
+            "Bacon": "20 g",
+            "Cavolo cappuccio rosso": "160 g",
+            "Olio di semi di girasole": "3 g",
+            "Aceto di vino bianco": "10 g",
+            "Sale fino": "5 g",
+            "Pecorino romano DOP": "40 g",
+            "Latte intero": "30 g",
+            "Pepe nero in grani": "3 g",
+            "Tuorli": "17 g",
+            "Farina 00": "200 g",
+            "Acqua": "330 g",
+            "Birra chiara": "50 g",
+            "Scorza di limone": "5 g",
+            "Maggiorana secca": "3 g",
+            "Timo secco": "3 g",
+            "Pepe bianco": "3 g",
+            "Semola di grano duro": "3 g",
+            "macinato grossolanamente)": "3 g"
+        }
+    },
+    {
+        "titolo": "Burger di manzo con maionese di soia",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Vitello macinato": "800 g",
+            "Fontina": "160 g",
+            "Pomodori ramati": "400 g",
+            "Lattuga": "100 g",
+            "Olio extravergine di oliva": "20 g",
+            "Panini da hamburger": "200 g",
+            "Tuorli": "17 g",
+            "Salsa di soia": "25 g",
+            "Olio di semi": "150 g"
+        }
+    },
+    {
+        "titolo": "Piadina con prosciutto e scamorza",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine Sfogliatissime": "200 g",
+            "Prosciutto cotto (arrosto)": "150 g",
+            "Scamorza (provola)": "230 g",
+            "Senape antica": "3 g"
+        }
+    },
+    {
+        "titolo": "One-pot di riso",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso Basmati": "220 g",
+            "Fiori di zucca (da pulire)": "110 g",
+            "Zucchine baby": "90 g",
+            "Prosciutto cotto una fetta spessa di spalla": "150 g",
+            "Porri": "110 g",
+            "Rucola": "30 g",
+            "Scorza di limone": "5 g",
+            "Menta": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Brodo vegetale": "400 g"
+        }
+    },
+    {
+        "titolo": "Cirashi Sushi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso a chicco tondo": "300 g",
+            "Salmone": "200 g",
+            "Tonno": "200 g",
+            "Pesce spada": "200 g",
+            "Gamberi gamberetti": "120 g",
+            "Zucchero": "10 g",
+            "Avocado": "50.0 g",
+            "Sale fino": "10 g",
+            "Salsa di soia": "3 g",
+            "Wasabi": "3 g",
+            "\"Zenzero sottaceto": "3 g"
+        }
+    },
+    {
+        "titolo": "Chivito",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane (sfilatino)": "100 g",
+            "Fettine di manzo (2 fette)": "320 g",
+            "Prosciutto cotto (2 fette spesse)": "80 g",
+            "Uova": "120 g",
+            "Lattuga": "100 g",
+            "Mozzarella": "100 g",
+            "Pomodori ramati": "100 g",
+            "Bacon": "50 g",
+            "Maionese": "10 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Colazione messicana",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Tortillas piccole": "20 g",
+            "Uova": "240 g",
+            "Fagioli neri precotti": "200 g",
+            "Pomodorini (rossi, verdi, gialli)": "200 g",
+            "Cipollotti rossi": "100 g",
+            "Cheddar": "80 g",
+            "Feta": "20 g",
+            "Peperoncino fresco lungo": "10 g",
+            "Olio extravergine di oliva": "10 g",
+            "Avocado": "200.0 g",
+            "Lime (il succo e la scorza)": "10 g",
+            "Sale fino": "10 g",
+            "Pepe nero": "10 g"
+        }
+    },
+    {
+        "titolo": "Kebab vegetariano",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane arabo": "400 g",
+            "Peperoni rossi, gialli e verdi": "340 g",
+            "Melanzane": "150 g",
+            "Zucchine": "180 g",
+            "Carote": "90 g",
+            "Aglio": "5 g",
+            "Olio extravergine di oliva": "50 g",
+            "Sale fino": "3 g",
+            "Patate": "400 g",
+            "Olio di semi di arachide per friggere": "3 g",
+            "Origano secco": "10 g",
+            "Paprika piccante": "10 g",
+            "Paprika dolce": "3 g",
+            "Cumino": "10 g",
+            "Pepe nero": "3 g",
+            "Yogurt greco": "60 g",
+            "Panna acida": "60 g",
+            "Concentrato di pomodoro": "10 g",
+            "Feta": "200 g",
+            "Pomodori ramati": "100 g",
+            "Cipollotto fresco": "100 g",
+            "Lattuga": "3 g",
+            "Succo di lime": "3 g"
+        }
+    },
+    {
+        "titolo": "Zongzi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Foglie di bambù secche": "40 g",
+            "Coppa di maiale": "700 g",
+            "Salsa di soia chiara": "10 g",
+            "Salsa di soia scura": "5 g",
+            "Vino di riso": "15 g",
+            "Zucchero": "10 g",
+            "Sale fino": "10 g",
+            "Pepe nero": "3 g",
+            "Riso glutinoso": "100 g"
+        }
+    },
+    {
+        "titolo": "Fish tacos",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Filetto di merluzzo": "400 g",
+            "Tortillas di farina piccole": "40 g",
+            "Pomodorini datterini": "100 g",
+            "Lattuga iceberg": "120 g",
+            "Carote": "80 g",
+            "Coriandolo": "3 g",
+            "Radicchio": "60 g",
+            "Succo di lime": "10 g",
+            "Farina 00": "135 g",
+            "Birra scura": "165 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Yogurt greco": "200 g",
+            "Scorza di lime": "5 g",
+            "Olio di semi": "3 g"
+        }
+    },
+    {
+        "titolo": "Wrap di polpo",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Polpo già lessato": "800 g",
+            "Tortillas": "40 g",
+            "Olio extravergine di oliva": "40 g",
+            "Scorza di limone": "10 g",
+            "Succo di limone": "20 g",
+            "Peperoncino in polvere": "10 g",
+            "Finocchietto selvatico": "3 g",
+            "Sale fino": "3 g",
+            "Fichi": "80 g",
+            "Roquefort": "80 g",
+            "Sedano": "60 g",
+            "Rucola": "30 g",
+            "Gherigli di noci": "40 g",
+            "Aceto balsamico": "3 g"
+        }
+    },
+    {
+        "titolo": "Sandwich di fave e formaggio",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Fave sgranate e sbucciate": "100 g",
+            "Pane integrale multi-cereali": "20 g",
+            "Stracciatella": "140 g",
+            "Pecorino media stagionatura": "80 g",
+            "Olio extravergine di oliva": "20 g",
+            "Pomodorini secchi sottolio": "100 g",
+            "Insalata": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Poke di tonno",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso per sushi": "500 g",
+            "Acqua": "500 g",
+            "Aceto di riso": "30 g",
+            "Zucchero": "10 g",
+            "Sale fino": "5 g",
+            "Tonno (abbattuto)": "340 g",
+            "Avocado": "100 g",
+            "Succo di limone": "3 g",
+            "Cipollotto fresco": "200.0 g",
+            "Mango": "100 g",
+            "Alga Wakame": "80 g",
+            "Pomodorini ciliegino": "120 g",
+            "Germogli di soia": "40 g",
+            "Arachidi": "3 g",
+            "Semi di sesamo misti": "3 g",
+            "Maionese": "3 g",
+            "Salsa sriracha": "3 g"
+        }
+    },
+    {
+        "titolo": "Vacherin al forno alle erbe",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Aglio": "5 g",
+            "Rosmarino": "5 g",
+            "Timo": "5 g",
+            "Patate": "400 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Choripan",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Filoncini di pane (tipo francesino)": "440 g",
+            "Chorizo fresco": "500 g",
+            "Prezzemolo (da tritare)": "15 g",
+            "Aglio": "5 g",
+            "Origano secco": "10 g",
+            "Timo secco": "10 g",
+            "Cumino in polvere": "10 g",
+            "Peperoncino secco piccoli": "40 g",
+            "Sale fino": "10 g",
+            "Pepe nero": "10 g",
+            "Acqua": "60 g",
+            "Olio extravergine di oliva": "40 g",
+            "Aceto di vino bianco": "20 g"
+        }
+    },
+    {
+        "titolo": "Panino vegetariano con peperoni e uova",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Panini di grano duro (tipo tartaruga)": "100 g",
+            "Peperoni rossi": "450 g",
+            "Edamer (a fette)": "80 g",
+            "Olio extravergine di oliva": "3 g",
+            "Aglio": "5 g",
+            "Menta": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Panna acida": "100 g",
+            "Erba cipollina": "3 g",
+            "Uova": "120 g"
+        }
+    },
+    {
+        "titolo": "One-pot di pollo biryani",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Cosce di pollo (circa 700 g)": "2800 g",
+            "Riso Basmati": "250 g",
+            "Fagiolini piattoni": "200 g",
+            "Aglio": "5 g",
+            "Peperoncino fresco lungo": "20 g",
+            "Zenzero fresco": "50 g",
+            "Cipolle rosse": "200 g",
+            "Burro chiarificato": "50 g",
+            "Brodo di pollo": "500 g",
+            "Uvetta": "50 g",
+            "Mandorle in scaglie": "40 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Curcuma in polvere": "10 g",
+            "Cumino in polvere": "10 g",
+            "Paprika forte": "10 g",
+            "Coriandolo": "3 g"
+        }
+    },
+    {
+        "titolo": "Rosticciata (grostl) ai finferli con speck",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate medie": "200 g",
+            "Speck": "100 g",
+            "Aglio": "5 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Funghi finferli (gallinacci)": "250 g",
+            "Cipolle": "100 g",
+            "Olio extravergine di oliva": "3 g",
+            "Brodo vegetale": "3 g"
+        }
+    },
+    {
+        "titolo": "Hamburger alle erbe aromatiche con verdure miste e patatine",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina": "65 g",
+            "Lievito di birra secco": "1.5 g",
+            "Acqua": "50 g",
+            "Latte (tiepido)": "70 g",
+            "Farina 00": "200 g",
+            "Zucchero": "7.5 g",
+            "Malto": "10 g",
+            "Burro": "15 g",
+            "Sale fino": "3 g",
+            "Cavolo rosso": "100 g",
+            "Fagiolini": "200 g",
+            "Carote": "200 g",
+            "Zucchine": "200 g",
+            "Manzo macinato": "400 g",
+            "Pepe nero": "3 g",
+            "Aneto": "3 g",
+            "Erba cipollina": "3 g",
+            "Patate": "300 g",
+            "Olio di semi di arachide": "500 g",
+            "Ketchup": "140 g",
+            "Semi di sesamo": "3 g",
+            "Uova (per spennellare)": "60 g"
+        }
+    },
+    {
+        "titolo": "Pita con pollo fritto",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Peperoni gialli": "150 g",
+            "Peperoni rossi": "150 g",
+            "Cipolle rosse": "150 g",
+            "Olio extravergine di oliva": "10 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Petto di pollo": "600 g",
+            "Uova": "180 g",
+            "Pane grattugiato": "50 g",
+            "Farina 00": "50 g",
+            "Corn flakes": "50 g",
+            "Origano secco": "10 g",
+            "Yogurt greco": "100 g",
+            "Limoni": "100 g",
+            "Olio di semi di girasole": "3 g",
+            "Erba cipollina": "3 g"
+        }
+    },
+    {
+        "titolo": "Cous cous con gamberi e pomodorini confit",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Cous cous Semola Oro": "320 g",
+            "Stracciatella (a temperatura ambiente)": "250 g",
+            "Scorza di limone": "5 g",
+            "\"Scorza darancia": "0.5 g",
+            "Prezzemolo (da tritare)": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Pomodorini ciliegino": "300 g",
+            "Aglio": "5 g",
+            "Zucchero": "10 g",
+            "Timo": "3 g",
+            "Maggiorana": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Gamberi (da pulire)": "400 g",
+            "Succo di limone": "20 g",
+            "\"Succo darancia": "0.5 g",
+            "Acqua": "600 g",
+            "Vino bianco": "20 g",
+            "Cipolle dorate": "100 g",
+            "Prezzemolo": "3 g",
+            "Pepe nero in grani": "3 g"
+        }
+    },
+    {
+        "titolo": "Insalata di farro con pesto di erbe e primosale",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farro perlato": "250 g",
+            "Primosale": "150 g",
+            "Sale fino": "3 g",
+            "Basilico": "20 g",
+            "Erba cipollina": "4 g",
+            "Menta": "4 g",
+            "Maggiorana": "2 g",
+            "Pecorino romano": "60 g",
+            "Olio extravergine di oliva": "65 g",
+            "Anacardi": "35 g",
+            "Anacardi tritati": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina con pomodori secchi e mozzarella di bufala",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "\"Piadine Sfogliatissime allOlio EVO": "2 g",
+            "Mozzarella di bufala": "400 g",
+            "Pomodori secchi": "200 g",
+            "Origano": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Double cheeseburger",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Carne bovina (spalla di manzo) tritata": "800 g",
+            "Cheddar": "20 g",
+            "Carote": "100 g",
+            "Cavolo cappuccio": "100 g",
+            "Maionese": "10 g",
+            "Ketchup": "10 g",
+            "Salsa Worcestershire": "3 g",
+            "Pomodori ramati": "200 g",
+            "\"Peperoncini Jalapeno sottaceto": "20 g",
+            "Spinacini": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina con taleggio e cipolle caramellate",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine integrali": "400 g",
+            "Taleggio": "350 g",
+            "Cipolle bianche": "900 g",
+            "Zucchero di canna": "40 g",
+            "Acqua": "150 g",
+            "Sale fino": "3 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "Panino con tonno e cipolle",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Panini (tartarughe)": "100 g",
+            "Olive nere denocciolate": "80 g",
+            "Olive verdi denocciolate": "100 g",
+            "Capperi sotto sale dissalati": "50 g",
+            "Songino": "30 g",
+            "Cipolle rosse": "150 g",
+            "Olio extravergine di oliva": "10 g",
+            "Sale fino": "3 g",
+            "Zucchero di canna": "15 g",
+            "Acqua": "150 g",
+            "Tonno precedentemente abbattuto": "200 g",
+            "Scorza di limone": "10 g",
+            "Tuorli": "17 g",
+            "Succo di limone": "5 g",
+            "Olio di semi di girasole": "125 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Curry di rana pescatrice",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso per insalata": "320 g",
+            "Cannella in stecche": "10 g",
+            "Chiodi di garofano": "10 g",
+            "Anice stellato": "30 g",
+            "Limoni": "100 g",
+            "Scorza di limone": "10 g",
+            "Cannella in polvere": "10 g",
+            "Olio extravergine di oliva": "10 g",
+            "Rana pescatrice pulita": "600 g",
+            "Curry": "10 g",
+            "Cipolle bianche": "100 g",
+            "Aglio": "5 g",
+            "Zenzero fresco": "30 g",
+            "Peperoncino fresco": "30 g",
+            "Latte di cocco": "400 g",
+            "Prezzemolo": "3 g",
+            "Pepe nero": "3 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Burger di funghi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Funghi champignon (da pulire)": "400 g",
+            "Pangrattato": "70 g",
+            "Aglio": "5 g",
+            "Cumino in polvere": "3 g",
+            "Prezzemolo": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Cipolle rosse": "250 g",
+            "Zucchero di canna": "10 g",
+            "Panini da hamburger": "200 g",
+            "Fontina": "180 g",
+            "Pomodori cuore di bue": "20 g",
+            "Cicorino": "3 g"
+        }
+    },
+    {
+        "titolo": "Veggie hot dog",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Anacardi (tostati)": "125 g",
+            "Cipolle rosse": "200.0 g",
+            "Peperoncino fresco": "8 g",
+            "Origano": "3 g",
+            "Farina di riso": "200 g",
+            "Semi di lino": "10 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Acqua": "60 g",
+            "Olio extravergine di oliva": "3 g",
+            "Brodo vegetale": "100 g",
+            "Panini da hot dog": "200 g",
+            "Zucchero di canna": "20 g",
+            "Avocado (maturi)": "200.0 g",
+            "Succo di limone": "10 g",
+            "Cheddar": "20 g",
+            "Valeriana (songino)": "3 g"
+        }
+    },
+    {
+        "titolo": "Insalata di riso invernale",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso Ribe": "320 g",
+            "Cavolo cappuccio rosso": "80 g",
+            "Cavolfiore": "80 g",
+            "Carote": "80 g",
+            "Gherigli di noci": "50 g",
+            "Timo": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Succo di limone": "40 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Spiedini di pollo con pita",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina Manitoba": "250 g",
+            "Farina 00": "250 g",
+            "Acqua": "300 g",
+            "Lievito di birra fresco": "10 g",
+            "Malto": "10 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Sovracosce di pollo": "600 g",
+            "Pomodori ramati": "200 g",
+            "Cipolle rosse": "100 g",
+            "Friggitelli": "30 g",
+            "Peperoncino fresco": "3 g",
+            "Burro di arachidi": "10 g",
+            "Aglio": "5 g",
+            "Succo di lime": "3 g",
+            "Arachidi salate tostate": "3 g",
+            "Salsa piccante": "3 g",
+            "Coriandolo": "3 g"
+        }
+    },
+    {
+        "titolo": "Peperoni ripieni di riso nero, salmone e zucchine",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Peperoni rossi": "100 g",
+            "Peperoni gialli": "100 g",
+            "Zucchine": "200.0 g",
+            "Salmone affumicato": "80 g",
+            "Riso nero Venere": "300 g",
+            "Olio extravergine di oliva": "40 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina con tacchino e guacamole",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine Sfogliatissime": "200 g",
+            "Fesa di tacchino": "600 g",
+            "Avocado": "600 g",
+            "Cipolle": "100 g",
+            "Peperoncino fresco": "10 g",
+            "Prezzemolo": "10 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Polenta taragna al gorgonzola",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina istantanea per polenta taragna": "330 g",
+            "Acqua": "100 g",
+            "Gorgonzola": "220 g",
+            "Panna fresca liquida": "60 g",
+            "Sale fino": "3 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "Quesadillas con funghi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Funghi champignon": "300 g",
+            "Edamer": "100 g",
+            "Cipolle bianche": "100 g",
+            "Pomodori ramati": "200 g",
+            "Peperoncino in polvere": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Olio extravergine di oliva": "20 g",
+            "Coriandolo fresco": "10 g",
+            "Tortillas di farina": "40 g"
+        }
+    },
+    {
+        "titolo": "Panino con tonno, verdure grigliate e stracciatella",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane senza glutine (mini baguette)": "400 g",
+            "Peperoni rossi": "300 g",
+            "Zucchine": "300 g",
+            "Stracciatella": "160 g",
+            "Olio extravergine di oliva": "50 g",
+            "Prezzemolo": "15 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Farro con pesce spada",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farro perlato": "250 g",
+            "Pesce spada": "250 g",
+            "Mandorle pelate": "100 g",
+            "Olive nere": "10 g",
+            "Arance": "100 g",
+            "Limoni": "50.0 g",
+            "Olio extravergine di oliva": "10 g",
+            "Prezzemolo": "10 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Club Sandwich altoatesino",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane senza glutine (con lievito madre)": "20 g",
+            "Speck senza glutine": "20 g",
+            "Formaggio puzzone": "120 g",
+            "Mele Granny Smith": "50 g",
+            "Gherigli di noci": "40 g",
+            "Miele di acacia": "20 g",
+            "Burro": "3 g"
+        }
+    },
+    {
+        "titolo": "Vegan shepherd's pie",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate": "100 g",
+            "Fagioli bianchi secchi": "400 g",
+            "Pomodori datterini pelati": "350 g",
+            "Friggitelli": "250 g",
+            "Cipollotto fresco": "180 g",
+            "Sedano con le foglie": "150 g",
+            "Carote": "150 g",
+            "Acqua": "400 g",
+            "Alloro": "100 g",
+            "Origano fresco": "3 g",
+            "Noce moscata": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Omelette caprese",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Uova": "240 g",
+            "Pomodori ramati": "200 g",
+            "Mozzarella": "200 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Basilico": "3 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina al gorgonzola con crudo e pomodori",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine sfogliatissime classiche": "400 g",
+            "Gorgonzola dolce cremoso": "400 g",
+            "Prosciutto crudo di Parma": "20 g",
+            "Pomodori cuore di bue": "400 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Puccia con burrata e fiori di zucca",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Zucchine": "200.0 g",
+            "Burrata piccole": "300 g",
+            "Puccia salentina": "400 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Basilico": "3 g",
+            "Fiori di zucca": "120 g",
+            "Farina 00": "115 g",
+            "Acqua fredda": "170 g",
+            "Olio di semi di arachide": "3 g"
+        }
+    },
+    {
+        "titolo": "Pasticcio di zucca",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Zucca da pulire": "100 g",
+            "Bacon a fette": "150 g",
+            "Emmentaler a fette": "150 g",
+            "Panna fresca liquida": "250 g",
+            "Latte intero": "200 g",
+            "Prezzemolo riccio": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Burro": "3 g"
+        }
+    },
+    {
+        "titolo": "McChicken Delicato",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo (100% italiano)": "300 g",
+            "Provolone Valpadana DOP (a fette)": "120 g",
+            "Zucchine piccole": "200.0 g",
+            "Panini da hamburger con semi": "200 g",
+            "Farina 00": "200 g",
+            "Acqua": "330 g",
+            "Birra chiara": "50 g",
+            "Scorza di limone": "5 g",
+            "Sale fino": "10 g",
+            "Maggiorana secca": "3 g",
+            "Timo secco": "3 g",
+            "Pepe bianco": "3 g",
+            "Semola di grano duro": "3 g",
+            "macinato grossolanamente": "500 g",
+            "Olio di semi di girasole": "220 g",
+            "Tuorli": "17 g",
+            "Aceto di vino bianco": "10 g"
+        }
+    },
+    {
+        "titolo": "Quinoa bowl con mele, formaggio e frutti rossi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Quinoa tricolore": "200 g",
+            "Mele Evelina (circa 2)": "400 g",
+            "Appenzeller": "80 g",
+            "Avocado": "100 g",
+            "Nocciole intere spellate": "60 g",
+            "Semi di zucca": "30 g",
+            "Lamponi": "120 g",
+            "Ribes": "3 g",
+            "Erba cipollina": "3 g"
+        }
+    },
+    {
+        "titolo": "Turkey sandwich",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane integrale multi-cereali": "20 g",
+            "Fesa di tacchino": "20 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Aglio": "5 g",
+            "Tuorli": "17 g",
+            "Succo di limone": "10 g",
+            "Olio di semi": "100 g",
+            "Mele verdi": "100 g",
+            "Pomodori cuore di bue": "200 g",
+            "Bietole già pulite": "200 g",
+            "Peperoncino fresco": "10 g"
+        }
+    },
+    {
+        "titolo": "Pulled aubergine",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Panini ai cereali con semi": "200 g",
+            "Melanzane": "200.0 g",
+            "Salsa barbecue veg": "3 g",
+            "Aglio in polvere": "3 g",
+            "Cumino": "3 g",
+            "Pepe di Caienna": "3 g",
+            "Zenzero in polvere": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Cavolo rosso": "200 g",
+            "Carote": "200.0 g",
+            "Maionese": "10 g",
+            "Insalata": "100 g"
+        }
+    },
+    {
+        "titolo": "Panino con polpette",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina di grano duro": "300 g",
+            "Farina 0": "200 g",
+            "Acqua": "390 g",
+            "Lievito di birra fresco": "2 g",
+            "Sale fino": "3 g",
+            "Carne di suino macinata": "400 g",
+            "Passata di pomodoro": "500 g",
+            "Uova": "120 g",
+            "Pane grattugiato": "50 g",
+            "Aglio": "5 g",
+            "Prezzemolo": "5 g",
+            "Grana Padano DOP": "3 g",
+            "Olio extravergine di oliva": "20 g",
+            "Cipolle rosse": "25 g",
+            "Basilico": "3 g"
+        }
+    },
+    {
+        "titolo": "Cous cous con anguria, feta e pomodorini",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Cous cous": "320 g",
+            "Cocomero (anguria) polpa": "3 g",
+            "Pomodorini datterini rossi verdi e gialli": "300 g",
+            "Feta": "250 g",
+            "Origano secco": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina salsiccia e patate",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine Arrotolabili": "400 g",
+            "Salsiccia": "350 g",
+            "Patate": "650 g",
+            "Rosmarino": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Burger d'anatra con maionese agli agrumi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Gorgonzola piccante": "200 g",
+            "Pomodori piccadilly": "200 g",
+            "Insalata misticanza": "3 g",
+            "Olio extravergine di oliva": "15 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Panini da hamburger": "200 g",
+            "Cipolle rosse": "170 g",
+            "Zucchero di canna": "30 g",
+            "Acqua": "170 g",
+            "Tuorli": "34 g",
+            "Aceto di sidro": "5 g",
+            "Succo di mandarino": "20 g",
+            "Olio di semi di girasole": "150 g",
+            "\"Scorza darancia grattugiata": "1 g",
+            "Tabasco®": "3 g",
+            "Patate": "300 g",
+            "Olio di semi di arachide per friggere": "3 g"
+        }
+    },
+    {
+        "titolo": "Torta di patate con cuore al ragù di cotechino",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate": "100 g",
+            "Grana Padano DOP da grattugiare": "100 g",
+            "Pecorino da grattugiare": "100 g",
+            "Uova medie": "180 g",
+            "Prezzemolo": "10 g",
+            "Pangrattato": "10 g",
+            "Pepe nero": "3 g",
+            "Cotechino Modena precotto": "100 g",
+            "Sedano": "5 g",
+            "Carote": "100 g",
+            "Cipolle bianche": "50.0 g",
+            "Concentrato di pomodoro": "50 g",
+            "Vino rosso": "30 g",
+            "Salvia": "100 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Quiche carote e legumi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina 00": "200 g",
+            "Burro (freddo di frigo)": "100 g",
+            "Acqua (ghiacciata)": "50 g",
+            "Timo rametti": "20 g",
+            "Sale fino": "3 g",
+            "Piselli secchi": "100 g",
+            "Lenticchie secche": "100 g",
+            "Carote": "280 g",
+            "Sedano": "60 g",
+            "Scalogno": "60 g",
+            "Acqua": "100 g",
+            "Olio extravergine di oliva": "3 g",
+            "Pepe nero": "3 g",
+            "Uova (circa 3 medie)": "185 g",
+            "Panna fresca liquida": "210 g",
+            "Grana Padano DOP": "80 g",
+            "Timo": "3 g"
+        }
+    },
+    {
+        "titolo": "Zuppa di pollo con riso basmati",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso Basmati": "100 g",
+            "Petto di pollo": "300 g",
+            "Carote": "70 g",
+            "Edamame": "60 g",
+            "Semi di sesamo nero": "3 g",
+            "Semi di sesamo": "3 g",
+            "Arachidi": "10 g",
+            "Latte di cocco": "400 g",
+            "Lemongrass": "10 g",
+            "Zenzero fresco": "20 g",
+            "Cipolle": "50.0 g",
+            "Aglio": "5 g",
+            "Pomodori ramati": "150 g",
+            "Curcuma in polvere": "10 g",
+            "Garam Masala": "10 g",
+            "Peperoncino fresco": "10 g",
+            "Semi di cumino": "10 g",
+            "Coriandolo": "5 g",
+            "Olio extravergine di oliva": "50 g"
+        }
+    },
+    {
+        "titolo": "McChicken® Pesto Rosso",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo 100% italiano": "300 g",
+            "Panini da hamburger con semi": "200 g",
+            "Bacon": "20 g",
+            "Insalata batavia": "100 g",
+            "Farina 00": "200 g",
+            "Acqua fredda": "330 g",
+            "Birra chiara fredda": "50 g",
+            "Scorza di limone (da grattugiare)": "10 g",
+            "Maggiorana secca": "3 g",
+            "Timo secco": "3 g",
+            "Sale fino": "10 g",
+            "Pepe bianco": "3 g",
+            "macinato grossolanamente": "500 g",
+            "Semola": "3 g",
+            "Olio di semi di girasole": "220 g",
+            "Tuorli": "17 g",
+            "Aceto di vino bianco": "10 g",
+            "Olio extravergine di oliva": "25 g",
+            "Grana Padano DOP (da grattugiare)": "25 g",
+            "Concentrato di pomodoro": "15 g",
+            "Senape": "10 g",
+            "Anacardi": "3 g",
+            "Origano secco": "3 g"
+        }
+    },
+    {
+        "titolo": "Toast con verdure in agrodolce e provolone piccante",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Verdure miste surgelate": "250 g",
+            "Pane bianco in cassetta": "20 g",
+            "Provolone piccante": "200 g",
+            "Zucchero": "60 g",
+            "Aceto di mele": "60 g",
+            "Acqua": "30 g"
+        }
+    },
+    {
+        "titolo": "Salmone croccante con insalata di noodles",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Filetto di salmone": "600 g",
+            "Olio extravergine di oliva": "10 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Timo": "3 g",
+            "Aneto": "3 g",
+            "Olive taggiasche denocciolate": "50 g",
+            "Pistacchi sgusciati": "50 g",
+            "Limoni": "100 g",
+            "Noodles di riso": "200 g",
+            "Aglio": "5 g",
+            "Zenzero fresco": "40 g",
+            "Peperoncino fresco": "10 g",
+            "Biete": "400 g"
+        }
+    },
+    {
+        "titolo": "Riso con tofu saltato piccante",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso Basmati": "320 g",
+            "Tofu": "360 g",
+            "Melanzane": "350 g",
+            "Pomodorini ciliegino": "300 g",
+            "Peperoncino fresco": "10 g",
+            "Rosmarino": "5 g",
+            "Erba cipollina": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina con salsiccia e peperoni arrosto",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine arrotolabili sofficissime": "400 g",
+            "Peperoni misti": "600 g",
+            "Salsiccia": "240 g",
+            "Cipolle rosse": "100 g",
+            "Olio extravergine di oliva": "20 g",
+            "Sale fino": "3 g",
+            "Paprika dolce": "3 g",
+            "Vino bianco": "30 g",
+            "Fagioli cannellini precotti": "120 g",
+            "Succo di limone": "20 g"
+        }
+    },
+    {
+        "titolo": "Frittata di riso",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso": "200 g",
+            "Uova": "410 g",
+            "Fave (da sgranare)": "400 g",
+            "Pisellini (da sgranare)": "300 g",
+            "Asparagi": "200 g",
+            "Cipollotto fresco": "100 g",
+            "Grana Padano DOP (da grattugiare)": "70 g",
+            "Panna fresca liquida": "50 g",
+            "Maggiorana": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Club sandwich con polpo e patate",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane integrale in cassetta": "300 g",
+            "Polpo": "100 g",
+            "Alloro": "100 g",
+            "Olio extravergine di oliva": "3 g",
+            "Patate": "100 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Prezzemolo": "10 g",
+            "Spinacini": "100 g",
+            "Limoni": "100 g"
+        }
+    },
+    {
+        "titolo": "Insalata con polpette di ceci e bacon",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Ceci precotti": "500 g",
+            "Bacon affumicato": "150 g",
+            "Rosmarino": "3 g",
+            "Uova (circa 1)": "50 g",
+            "Parmigiano Reggiano DOP": "30 g",
+            "Pangrattato per impanare": "100 g",
+            "Olio di semi di girasole alto oleico": "3 g",
+            "Songino": "100 g",
+            "Mandorle": "40 g",
+            "Arachidi": "40 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "Tacos con kale e gamberi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Tortillas di farina mini": "40 g",
+            "Cavolo riccio (Kale)": "250 g",
+            "Fagioli rossi precotti (già scolati)": "240 g",
+            "Gamberi le code": "200 g",
+            "Aglio": "5 g",
+            "Scorza di limone": "10 g",
+            "Peperoncino fresco": "20 g",
+            "Olio extravergine di oliva": "10 g",
+            "Acqua calda": "20 g",
+            "Sale fino": "10 g",
+            "Yogurt greco": "150 g",
+            "Miele di acacia": "10 g",
+            "Erba cipollina": "3 g"
+        }
+    },
+    {
+        "titolo": "Timballo di polenta e cotechino",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina istantanea per polenta": "400 g",
+            "Cotechino precotto": "500 g",
+            "Toma": "200 g",
+            "Acqua": "800 g",
+            "Olio extravergine di oliva": "20 g",
+            "Sale fino": "20 g",
+            "Rosmarino": "3 g",
+            "Senape scarso": "10 g",
+            "Pepe nero": "3 g",
+            "Glassa di aceto balsamico": "3 g"
+        }
+    },
+    {
+        "titolo": "Crepe di patate con brie e prosciutto",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Patate piccole": "400 g",
+            "Uova": "60 g",
+            "Latte intero": "200 g",
+            "Farina": "100 g",
+            "Prosciutto cotto": "200 g",
+            "Brie": "200 g",
+            "Cipolle rosse": "100 g",
+            "Olio extravergine di oliva": "10 g",
+            "Burro": "3 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina culatello e carciofi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine integrali": "400 g",
+            "Carciofi (da pulire)": "450 g",
+            "Culatello a fette": "200 g",
+            "Aceto di mele": "7 g",
+            "Olio extravergine di oliva": "10 g",
+            "Parmigiano Reggiano DOP stagionato 24 mesi": "40 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Riso basmati con gamberoni alla griglia e peperoni",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso Basmati": "320 g",
+            "Peperoni rossi": "500 g",
+            "Pomodorini ciliegino": "300 g",
+            "Porri": "200 g",
+            "Anacardi": "60 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Gamberi": "120 g",
+            "Pepe nero": "3 g",
+            "Lime": "100 g",
+            "Maggiorana": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina con prosciutto crudo e mascarpone",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine Romagnole IGP alla riminese": "200 g",
+            "Prosciutto crudo": "150 g",
+            "Mascarpone": "250 g",
+            "Mandorle": "50 g"
+        }
+    },
+    {
+        "titolo": "Fish pie",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Burro (freddo di frigo)": "200 g",
+            "Farina 00": "40 g",
+            "Nasello (filetto pulito)": "600 g",
+            "Cipollotto fresco": "100 g",
+            "Olive nere (denocciolate)": "200 g",
+            "Pomodorini ciliegino": "200 g",
+            "Timo": "3 g",
+            "Aneto": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Burro": "40 g",
+            "Uova": "60 g"
+        }
+    },
+    {
+        "titolo": "Pita con agnello",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Farina Manitoba": "125 g",
+            "Farina 00": "125 g",
+            "Acqua": "150 g",
+            "Olio extravergine di oliva": "20 g",
+            "Sale fino": "3 g",
+            "Lievito di birra secco": "3 g",
+            "Malto": "10 g",
+            "Pita": "200 g",
+            "Paprika dolce": "10 g",
+            "Cumino": "3 g",
+            "Melanzane (circa 1)": "350 g",
+            "Patate (1 grande)": "300 g",
+            "Pomodori ramati": "100 g",
+            "Pepe nero": "3 g",
+            "Yogurt greco": "200 g",
+            "Basilico": "3 g",
+            "Aneto": "3 g"
+        }
+    },
+    {
+        "titolo": "Tentacoli di polpo con cous cous alla paprika",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Cous cous Integrale": "300 g",
+            "Paprika dolce": "10 g",
+            "Timo fresco": "3 g",
+            "Sale fino": "3 g",
+            "Acqua": "300 g",
+            "Polpo": "100 g",
+            "Alloro": "100 g",
+            "Pepe nero in grani": "3 g",
+            "Bacche di ginepro": "3 g",
+            "Scorza di limone": "10 g",
+            "Succo di limone": "20 g",
+            "Olio extravergine di oliva": "3 g",
+            "Tabasco®": "10 g",
+            "Salsa di soia": "10 g",
+            "Sale di maldon": "3 g",
+            "Bietole (fresche)": "800 g",
+            "Peperoncino secco piccolo": "10 g",
+            "Aglio": "5 g",
+            "Patate rosse (grandi)": "200 g",
+            "Olio di semi di arachide per friggere": "3 g"
+        }
+    },
+    {
+        "titolo": "Riso piccante con uovo fritto",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso Basmati": "320 g",
+            "Porri": "150 g",
+            "Peperoni rossi": "350 g",
+            "Pomodorini ciliegino": "250 g",
+            "Passata di pomodoro": "500 g",
+            "Peperoncino fresco": "10 g",
+            "Nduja": "25 g",
+            "Uova": "240 g",
+            "Maggiorana": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina con pollo al curry e pesto di zucchine",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine sfogliatissime": "400 g",
+            "Petto di pollo": "700 g",
+            "Yogurt greco": "200 g",
+            "Curry": "10 g",
+            "Sale fino": "10 g",
+            "Olio extravergine di oliva": "50 g",
+            "Zucchine": "135 g",
+            "Mandorle pelate": "25 g",
+            "Pecorino romano da grattugiare": "25 g",
+            "Menta": "100 g",
+            "Acqua": "25 g",
+            "Pepe nero": "3 g",
+            "Lattuga iceberg a julienne": "40 g"
+        }
+    },
+    {
+        "titolo": "Uovo pochè fritto con verdure, pancetta e salsa bernese",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Uova": "240 g",
+            "Bacon": "190 g",
+            "Fagiolini": "180 g",
+            "Pepe nero": "3 g",
+            "Sale fino": "3 g",
+            "Aceto di vino bianco": "5 g",
+            "Pangrattato": "3 g",
+            "Olio di semi di girasole alto oleico": "3 g",
+            "Tuorli": "34 g",
+            "Burro chiarificato": "150 g",
+            "Acqua": "35 g",
+            "Vino bianco secco": "25 g",
+            "Scalogno": "20 g"
+        }
+    },
+    {
+        "titolo": "Tomino al BBQ con verdure grigliate e senape",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Panini da hamburger": "100 g",
+            "Rucola": "3 g",
+            "Tomini": "500 g",
+            "\"Senape di Digione allancienne": "10 g",
+            "Olio extravergine di oliva": "40 g",
+            "Melanzane": "100 g",
+            "Zucchine": "200.0 g",
+            "Pomodori cuore di bue": "200 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Basilico": "35 g",
+            "Menta": "35 g",
+            "Pistacchi non salati non tostati": "40 g",
+            "Parmigiano Reggiano DOP da grattugiare": "40 g"
+        }
+    },
+    {
+        "titolo": "Panino con barbabietola e pollo speziato",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Filoncini di pane (2 panini)": "100 g",
+            "Petto di pollo": "700 g",
+            "Aglio": "5 g",
+            "Olio extravergine di oliva": "10 g",
+            "Origano": "10 g",
+            "Paprika affumicata": "10 g",
+            "Sale fino": "10 g",
+            "Pepe nero": "10 g",
+            "Barbabietole precotte": "60 g",
+            "Aceto di mele": "10 g",
+            "Emmentaler a fette": "100 g",
+            "Insalata mista": "30 g",
+            "Senape di Digione in grani": "10 g"
+        }
+    },
+    {
+        "titolo": "Timballo di riso con melanzane e pomodori",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso per insalata": "350 g",
+            "Melanzane": "600 g",
+            "Scalogno": "20 g",
+            "Passata di pomodoro": "300 g",
+            "Brodo vegetale": "3 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Grana Padano DOP": "60 g",
+            "Primosale": "250 g",
+            "Timo": "3 g",
+            "Pomodorini ciliegino": "300 g",
+            "Aglio": "5 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Sandwich tricolore senza glutine",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane senza glutine ai cereali": "20 g",
+            "Peperoni rossi": "400 g",
+            "Avocado": "250 g",
+            "Stracciatella": "150 g",
+            "Limoni": "100 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Risotto ai peperoni con arachidi e formaggio",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso vialone nano": "320 g",
+            "Peperoni rossi": "800 g",
+            "Aglio": "5 g",
+            "Arachidi salate tostate": "70 g",
+            "Olio extravergine di oliva": "3 g",
+            "Parmigiano Reggiano DOP": "40 g",
+            "Menta": "3 g",
+            "Sale fino": "3 g",
+            "Peperoncino fresco": "3 g",
+            "Tomini": "300 g"
+        }
+    },
+    {
+        "titolo": "Panino ai fichi",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Filoncini di pane": "220 g",
+            "Fichi": "240 g",
+            "Speck": "20 g",
+            "Squacquerone": "140 g",
+            "Songino": "30 g",
+            "Miele millefiori": "30 g",
+            "Granella di nocciole": "10 g",
+            "Olio extravergine di oliva": "3 g",
+            "Tabasco®": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Sandwich senza glutine al tonno e formaggio",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Pane senza glutine bianco": "20 g",
+            "Cipollotto fresco piccoli": "400.0 g",
+            "Miele di acacia": "15 g",
+            "Sale fino": "3 g",
+            "Aceto di lamponi": "15 g",
+            "Rucola": "30 g",
+            "Peperoncino secco": "3 g",
+            "Asiago": "50 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "Il Ricercato",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo (100% italiano)": "300 g",
+            "Panini da hamburger (con semi)": "200 g",
+            "Rucola": "40 g",
+            "Parmigiano Reggiano DOP": "80 g",
+            "Pomodori": "20 g",
+            "Farina 00": "200 g",
+            "Acqua": "330 g",
+            "Birra chiara": "50 g",
+            "Scorza di limone": "10 g",
+            "Sale fino": "10 g",
+            "Maggiorana secca": "3 g",
+            "Timo secco": "3 g",
+            "Pepe bianco": "3 g",
+            "Semola di grano duro": "3 g",
+            "Olio di semi di girasole": "220 g",
+            "Tuorli": "17 g",
+            "Aceto di vino bianco": "10 g",
+            "Basilico (1 foglia grande)": "5 g"
+        }
+    },
+    {
+        "titolo": "Torta di riso con piselli, asparagi e zucchine",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso integrale": "350 g",
+            "Aglio": "5 g",
+            "Uova (circa 2 medie)": "120 g",
+            "Grana Padano DOP": "30 g",
+            "Zucchine": "250 g",
+            "Asparagi": "300 g",
+            "Pisellini": "150 g",
+            "Prezzemolo": "15 g",
+            "Olio extravergine di oliva": "50 g",
+            "Cumino": "3 g",
+            "Paprika piccante": "3 g",
+            "Maggiorana": "3 g",
+            "Menta": "3 g",
+            "Maggiorana secca": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina con cotto, pecorino e pomodori",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine Romagnole IGP alla riminese": "400 g",
+            "Pomodori marinda": "500 g",
+            "Pecorino di fossa": "120 g",
+            "Prosciutto cotto alle erbe": "400 g",
+            "Insalata misticanza": "3 g",
+            "Sale grosso": "20 g",
+            "Timo": "3 g",
+            "Rosmarino": "3 g",
+            "Mix di pepi in grani": "3 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina stracciatella e cime di rapa",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "\"Piadine sfogliatissime allolio EVO": "4 g",
+            "Cime di rapa (da pulire)": "600 g",
+            "Stracciatella (peso sgocciolata)": "400 g",
+            "Peperoncino fresco piccoli": "20 g",
+            "Aglio": "5 g",
+            "Olio extravergine di oliva": "90 g",
+            "Noci": "90 g"
+        }
+    },
+    {
+        "titolo": "Burger di riso e barbabietola con salsa di Grana Padano",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Barbabietole (circa 1 intera)": "100 g",
+            "Riso Ribe": "100 g",
+            "Panini integrali": "300 g",
+            "Lattuga iceberg": "3 g",
+            "Pomodori ramati": "100 g",
+            "Olio extravergine di oliva": "3 g",
+            "Menta": "3 g",
+            "Sale fino": "3 g",
+            "Grana Padano DOP Riserva oltre 20 mesi": "80 g",
+            "Latte intero": "200 g"
+        }
+    },
+    {
+        "titolo": "Polpette di riso e insalata",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso Arborio": "180 g",
+            "Pisellini sgranati da 400 g di baccelli": "100 g",
+            "Parmigiano Reggiano DOP": "60 g",
+            "Uova (circa 1 medio)": "55 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Timo": "3 g",
+            "Pangrattato": "150 g",
+            "Acqua": "400 g",
+            "Olio di semi di arachide": "700 g",
+            "Fagiolini": "250 g",
+            "Insalata misticanza": "200 g"
+        }
+    },
+    {
+        "titolo": "Piadina con sarde fritte e burrata",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine Romagnole IGP alla riminese": "400 g",
+            "Sarde (da pulire)": "700 g",
+            "Burrata": "330 g",
+            "Pomodorini gialli": "200 g",
+            "Insalata misticanza": "60 g",
+            "Farina 00": "110 g",
+            "Farina di riso": "35 g",
+            "Semola": "40 g",
+            "Sale fino": "3 g",
+            "Olio di semi": "3 g"
+        }
+    },
+    {
+        "titolo": "Sandwich piccante con tonno, caprino e pesto di olive",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Panini di grano duro": "200 g",
+            "Pomodori ramati (1 medio)": "90 g",
+            "Lattuga baby": "100 g",
+            "Caprino": "80 g",
+            "Olive taggiasche denocciolate": "60 g",
+            "Olio extravergine di oliva": "25 g"
+        }
+    },
+    {
+        "titolo": "Piadina con erbette patate e lardo di Colonnata",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine sfogliatissime classiche": "400 g",
+            "Erbette (da pulire)": "600 g",
+            "Patate medie": "400 g",
+            "Lardo di Colonnata": "20 g",
+            "Pecorino da grattugiare": "3 g",
+            "Aglio": "5 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    },
+    {
+        "titolo": "Burger di polpo",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Panini da hamburger": "100 g",
+            "Polpo (da 600 g)": "600 g",
+            "Acqua": "50 g",
+            "Pomodori cuore di bue": "20 g",
+            "Songino": "40 g",
+            "Edamer (da cui ottenere 2 fette)": "170 g",
+            "Olio extravergine di oliva": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Rosmarino": "3 g",
+            "Timo": "3 g"
+        }
+    },
+    {
+        "titolo": "McChicken® Mediterraneo",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo 100% italiano": "300 g",
+            "Insalata Batavia": "100 g",
+            "Panini da hamburger con semi": "200 g",
+            "Pomodori ramati": "20 g",
+            "Mozzarella": "20 g",
+            "Farina 00": "200 g",
+            "Acqua": "330 g",
+            "Birra chiara": "50 g",
+            "Scorza di limone": "5 g",
+            "Maggiorana secca": "3 g",
+            "Timo secco": "3 g",
+            "Sale fino": "10 g",
+            "Pepe bianco": "3 g",
+            "macinato grossolanamente": "500 g",
+            "Semola": "3 g",
+            "Olio di semi di girasole": "3 g",
+            "Tuorli": "17 g",
+            "Olive leccino": "35 g",
+            "Capperi": "10 g",
+            "Aceto di vino bianco": "10 g",
+            "Senape": "10 g"
+        }
+    },
+    {
+        "titolo": "Piadina con fiori di zucca ripieni e fritti",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "\"Piadine sfogliatissime allolio EVO": "4 g",
+            "Fiori di zucca": "160 g",
+            "Ricotta vaccina": "200 g",
+            "Capperi": "30 g",
+            "Pistacchi": "15 g",
+            "Pangrattato": "30 g",
+            "Scorza di limone": "10 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Farina 00": "150 g",
+            "Birra rossa fredda": "300 g",
+            "Pomodorini ciliegino": "160 g",
+            "Cipolle rosse": "30 g",
+            "Insalata trocadero": "3 g",
+            "Basilico": "3 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "Aragosta allo Champagne con riso pilaf",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Aragosta 4": "1.2 g",
+            "Funghi champignon": "100 g",
+            "Tartufo": "50 g",
+            "Prezzemolo da tritare": "10 g",
+            "Pepe nero": "3 g",
+            "Riso pilaf": "300 g"
+        }
+    },
+    {
+        "titolo": "Gunkanmaki",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Riso per sushi cotto": "25 g",
+            "Alga nori": "3 g",
+            "Uova di lompo (succedaneo caviale) o di salmone o di pesce volante": "12 g",
+            "Wasabi": "3 g",
+            "Salsa di soia": "3 g",
+            "\"Zenzero sottaceto": "3 g"
+        }
+    },
+    {
+        "titolo": "Piadina con 'nduja, salsiccia e pomodorini",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine Sfogliatissime": "200 g",
+            "Salsiccia": "400 g",
+            "Nduja": "180 g",
+            "Pomodorini ciliegino": "200 g",
+            "Olio extravergine di oliva": "3 g"
+        }
+    },
+    {
+        "titolo": "L'Affumicato",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Petto di pollo 100% italiano": "300 g",
+            "Lattuga iceberg": "150 g",
+            "Panini da hamburger con i semi": "200 g",
+            "Scamorza affumicata": "20 g",
+            "Pomodori ramati": "20 g",
+            "Farina 00": "200 g",
+            "Acqua": "330 g",
+            "Birra chiara": "50 g",
+            "Scorza di limone": "5 g",
+            "Timo secco": "3 g",
+            "Maggiorana secca": "3 g",
+            "Sale fino": "10 g",
+            "Pepe bianco": "3 g",
+            "macinato grossolanamente": "3 g",
+            "Semola": "3 g",
+            "Tuorli": "17 g",
+            "Olio di semi di girasole": "3 g",
+            "Aceto di vino bianco": "10 g",
+            "Peperoni rossi": "20 g",
+            "Senape": "10 g"
+        }
+    },
+    {
+        "titolo": "Piadina con crudo, pesto di fave e indivia",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Piadine integrali": "200 g",
+            "Indivia belga": "200 g",
+            "Pecorino romano in scaglie": "30 g",
+            "Prosciutto crudo": "70 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g",
+            "Olio extravergine di oliva": "40 g",
+            "Fave": "100 g",
+            "Pecorino romano da grattugiare": "15 g",
+            "Mandorle": "15 g",
+            "Acqua": "20 g"
+        }
+    },
+    {
+        "titolo": "Burrata con verdura e frutta grigliate",
+        "categoria": "PIATTI UNICI",
+        "ingredienti": {
+            "Radicchio lungo": "540 g",
+            "Indivia belga": "500 g",
+            "Spinacini": "60 g",
+            "Cachi mela": "600 g",
+            "Mele Golden": "500 g",
+            "Olio extravergine di oliva": "100 g",
+            "Basilico": "100 g",
+            "Timo": "3 g",
+            "Sale fino": "3 g",
+            "Pepe nero": "3 g"
+        }
+    }
+]

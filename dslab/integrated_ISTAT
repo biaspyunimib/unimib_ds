@@ -1,0 +1,6 @@
+import pandas as pd
+dati_disoccupazione = pd.read_csv('tasso_disoccupazione.csv')
+dati_inflazione = pd.read_csv('DCSP_FOI1B2015_03112024122938076.csv')
+col_infl= ["Flags", "Flag Codes", "TIPO_DATO2", "Tipo indice", "MISURA1", "Misura", "COICOP_2015"]
+dati_inflazione.drop(columns=col_infl, inplace=True, errors='ignore')
+
